@@ -14,6 +14,28 @@ The `node.csv` file contains a single column that lists the ID of each node in t
 
 ## Runlists and results
 
+The `results` directory contains results obtained with the two formulations (the natural formulation and the compact formulation) as well as the runlists. 
+For the natural formulation and the compact formulation, we report:
+- The number of vertices in the graph `n`
+- The number of arcs in the graph `m`
+- The Maximum flow in the graph 
+- The percentage of flow blocked `k`
+- The target flow value `Phi`
+- The value of the objective function `Obj`
+- The computing time
+- An integer equal to 1 if the optimal solution is reached ans 0 otherwise `opt`
+For the natural formulation, we also report the number of Benders cuts generated `NbBenders` and the number of target flow inequalities generated `NbTF`.
+
+For the two formulations, the parameters are:
+- The instance folder
+- The type of instances (RANDOM)
+- The problem (maximum flow blocker problem MFBP)
+- An integer set to 1 when considering directed graphs and 0 otherwise
+- An integer set to 1 when considering discret flows (paths) and 0 otherwise
+- The value of k
+- An integer set to 1 when adding cuts (target flow inequalities) to the model and 0 otherwise
+
+
 
 
 
