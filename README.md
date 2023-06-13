@@ -31,7 +31,7 @@ For the natural formulation and the compact formulation, we report:
 - The target flow value `Phi`
 - The value of the objective function `Obj`
 - The computing time
-- An integer equal to 1 if the optimal solution is reached ans 0 otherwise `opt`
+- An integer equal to 1 if the optimal solution is reached and 0 otherwise `opt`
 For the natural formulation, we also report the number of Benders cuts generated `NbBenders` and the number of target flow inequalities generated `NbTF`.
 
 For the two formulations, the parameters are:
