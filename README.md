@@ -7,11 +7,12 @@ This folder contains a set of benchmark instances for the maximum flow blocker p
 ## Instances
 
 The `instances` directory contains a set of benchmark instances for the maximum flow blocker problem, representing graphs.
-The folder is composed of three subfolders. The instances in `NETWORKS` and `GRIDS` are the instances used in the computational study conducted in the paper:
+The folder is composed of three subfolders. The instances in `NETWORKS` and `GRIDS` are the instances used in the computational study conducted in 
+[[1]](#1).
 
----
+
 Solving the bi-objective maximum-flow network-interdiction problem by Johannes Royset and Kevin Wood. INFORMS Journal on Computing, http://doi.org.10.1287/ijoc.1060.0191. 
--
+
 https://pubsonline.informs.org/doi/10.1287/ijoc.1060.0191
 
 
@@ -43,10 +44,10 @@ For the two formulations, the parameters are:
 - An integer set to 1 when adding cuts (target flow inequalities) to the model and 0 otherwise
 
 
-
-
-
-
+## References
+<a id="1">[1]</a> 
+J. Royset and R. K. Wood, 2007. Solving the bi-objective maximum-flow network-interdiction problem.
+INFORMS Journal on Computing, 19(2):175–184.https://doi.org/10.1287/ijoc.1060.0191.
 
 
 
