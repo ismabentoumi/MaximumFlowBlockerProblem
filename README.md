@@ -1,7 +1,7 @@
 # MaximumFlowBlockerProblem
 This site contains accompanying material to a working paper on the maximum flow blocker problem. 
 
-This folder contains a set of benchmark instances for the maximum flow blocker problem. The instances are intended for testing, experimentation, or evaluation to determine the most performant method to solve this problem. In addition, you can find in this folder a comprehensive run lists and results obtained using two distinct formulations: a natural formulation (n-ILP) with an exponential number of constraints, and a compact formulation (c-ILP) with a polynomial number of variables and constraints.
+The folder contains a set of benchmark instances for the maximum flow blocker problem. The instances are intended for testing, experimentation, or evaluation to determine the most performant method to solve this problem. In addition, you can find in this folder a comprehensive run lists and results obtained using two distinct formulations: a natural formulation (n-ILP) with an exponential number of constraints, and a compact formulation (c-ILP) with a polynomial number of variables and constraints.
 
 
 ## Instances
