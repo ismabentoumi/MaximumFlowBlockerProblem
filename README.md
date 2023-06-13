@@ -7,7 +7,7 @@ The folder contains a set of benchmark instances for the maximum flow blocker pr
 ## Instances
 
 The `instances` directory contains a set of benchmark instances for the maximum flow blocker problem, representing graphs.
-The folder is composed of three subfolders. The instances in `NETWORKS` and `GRIDS` are the instances used in the computational study conducted in 
+The folder is composed of three subfolders. `NETWORKS` and `GRIDS` contain the instances used in the computational study conducted in 
 [[1]](#1).
 
 
@@ -32,6 +32,7 @@ For the natural formulation and the compact formulation, we report:
 - The value of the objective function `Obj`
 - The computing time
 - An integer equal to 1 if the optimal solution is reached and 0 otherwise `opt`
+
 For the natural formulation, we also report the number of Benders cuts generated `NbBenders` and the number of target flow inequalities generated `NbTF`.
 
 For the two formulations, the parameters are:
