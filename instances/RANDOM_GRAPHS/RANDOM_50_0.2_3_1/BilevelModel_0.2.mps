@@ -777,183 +777,361 @@ COLUMNS
     y_a_177   c51                             1
     y_a_177   c229                            1
     MARK0000  'MARKER'                 'INTORG'
+    x_a_0     obj1                            3
     x_a_0     c52                            48
+    x_a_1     obj1                            2
     x_a_1     c53                             7
+    x_a_2     obj1                            2
     x_a_2     c54                            16
+    x_a_3     obj1                            3
     x_a_3     c55                            44
+    x_a_4     obj1                            2
     x_a_4     c56                            39
+    x_a_5     obj1                            2
     x_a_5     c57                            20
+    x_a_6     obj1                            2
     x_a_6     c58                            41
+    x_a_7     obj1                            1
     x_a_7     c59                            15
+    x_a_8     obj1                            2
     x_a_8     c60                            18
+    x_a_9     obj1                            1
     x_a_9     c61                             7
+    x_a_10    obj1                            3
     x_a_10    c62                            32
+    x_a_11    obj1                            1
     x_a_11    c63                            33
+    x_a_12    obj1                            1
     x_a_12    c64                            19
+    x_a_13    obj1                            2
     x_a_13    c65                            23
+    x_a_14    obj1                            2
     x_a_14    c66                            48
+    x_a_15    obj1                            3
     x_a_15    c67                            13
+    x_a_16    obj1                            3
     x_a_16    c68                            46
+    x_a_17    obj1                            2
     x_a_17    c69                            42
+    x_a_18    obj1                            2
     x_a_18    c70                            15
+    x_a_19    obj1                            1
     x_a_19    c71                             6
+    x_a_20    obj1                            2
     x_a_20    c72                            25
+    x_a_21    obj1                            1
     x_a_21    c73                            34
+    x_a_22    obj1                            1
     x_a_22    c74                            30
+    x_a_23    obj1                            2
     x_a_23    c75                            42
+    x_a_24    obj1                            2
     x_a_24    c76                             6
+    x_a_25    obj1                            3
     x_a_25    c77                            13
+    x_a_26    obj1                            3
     x_a_26    c78                            31
+    x_a_27    obj1                            2
     x_a_27    c79                            10
+    x_a_28    obj1                            3
     x_a_28    c80                            41
+    x_a_29    obj1                            3
     x_a_29    c81                            41
+    x_a_30    obj1                            1
     x_a_30    c82                            19
+    x_a_31    obj1                            2
     x_a_31    c83                            17
+    x_a_32    obj1                            3
     x_a_32    c84                             6
+    x_a_33    obj1                            2
     x_a_33    c85                            35
+    x_a_34    obj1                            3
     x_a_34    c86                            36
+    x_a_35    obj1                            3
     x_a_35    c87                             3
+    x_a_36    obj1                            2
     x_a_36    c88                            28
+    x_a_37    obj1                            3
     x_a_37    c89                             4
+    x_a_38    obj1                            2
     x_a_38    c90                             7
+    x_a_39    obj1                            1
     x_a_39    c91                            24
+    x_a_40    obj1                            1
     x_a_40    c92                             4
+    x_a_41    obj1                            1
     x_a_41    c93                            33
+    x_a_42    obj1                            2
     x_a_42    c94                            35
+    x_a_43    obj1                            3
     x_a_43    c95                            30
+    x_a_44    obj1                            2
     x_a_44    c96                             5
+    x_a_45    obj1                            2
     x_a_45    c97                            45
+    x_a_46    obj1                            1
     x_a_46    c98                            49
+    x_a_47    obj1                            1
     x_a_47    c99                            41
+    x_a_48    obj1                            1
     x_a_48    c100                           46
+    x_a_49    obj1                            3
     x_a_49    c101                           10
+    x_a_50    obj1                            2
     x_a_50    c102                           13
+    x_a_51    obj1                            2
     x_a_51    c103                            8
+    x_a_52    obj1                            2
     x_a_52    c104                            8
+    x_a_53    obj1                            1
     x_a_53    c105                            1
+    x_a_54    obj1                            3
     x_a_54    c106                           35
+    x_a_55    obj1                            3
     x_a_55    c107                           24
+    x_a_56    obj1                            3
     x_a_56    c108                           33
+    x_a_57    obj1                            2
     x_a_57    c109                           48
+    x_a_58    obj1                            2
     x_a_58    c110                           23
+    x_a_59    obj1                            3
     x_a_59    c111                           47
+    x_a_60    obj1                            2
     x_a_60    c112                           44
+    x_a_61    obj1                            3
     x_a_61    c113                           18
+    x_a_62    obj1                            1
     x_a_62    c114                           49
+    x_a_63    obj1                            1
     x_a_63    c115                           44
+    x_a_64    obj1                            1
     x_a_64    c116                           47
+    x_a_65    obj1                            1
     x_a_65    c117                            3
+    x_a_66    obj1                            3
     x_a_66    c118                           19
+    x_a_67    obj1                            1
     x_a_67    c119                            2
+    x_a_68    obj1                            2
     x_a_68    c120                           37
+    x_a_69    obj1                            3
     x_a_69    c121                           33
+    x_a_70    obj1                            1
     x_a_70    c122                           44
+    x_a_71    obj1                            1
     x_a_71    c123                            1
+    x_a_72    obj1                            2
     x_a_72    c124                           14
+    x_a_73    obj1                            1
     x_a_73    c125                            6
+    x_a_74    obj1                            3
     x_a_74    c126                           15
+    x_a_75    obj1                            1
     x_a_75    c127                           35
+    x_a_76    obj1                            3
     x_a_76    c128                           45
+    x_a_77    obj1                            3
     x_a_77    c129                           39
+    x_a_78    obj1                            1
     x_a_78    c130                           47
+    x_a_79    obj1                            2
     x_a_79    c131                           31
+    x_a_80    obj1                            2
     x_a_80    c132                            4
+    x_a_81    obj1                            1
     x_a_81    c133                           43
+    x_a_82    obj1                            1
     x_a_82    c134                           24
+    x_a_83    obj1                            1
     x_a_83    c135                           13
+    x_a_84    obj1                            3
     x_a_84    c136                            6
+    x_a_85    obj1                            2
     x_a_85    c137                            1
+    x_a_86    obj1                            1
     x_a_86    c138                           19
+    x_a_87    obj1                            1
     x_a_87    c139                           28
+    x_a_88    obj1                            1
     x_a_88    c140                           38
+    x_a_89    obj1                            3
     x_a_89    c141                           14
+    x_a_90    obj1                            3
     x_a_90    c142                           26
+    x_a_91    obj1                            2
     x_a_91    c143                           31
+    x_a_92    obj1                            1
     x_a_92    c144                           44
+    x_a_93    obj1                            1
     x_a_93    c145                           14
+    x_a_94    obj1                            2
     x_a_94    c146                            4
+    x_a_95    obj1                            3
     x_a_95    c147                            3
+    x_a_96    obj1                            1
     x_a_96    c148                            3
+    x_a_97    obj1                            1
     x_a_97    c149                           48
+    x_a_98    obj1                            1
     x_a_98    c150                            1
+    x_a_99    obj1                            2
     x_a_99    c151                           25
+    x_a_100   obj1                            3
     x_a_100   c152                           37
+    x_a_101   obj1                            1
     x_a_101   c153                           11
+    x_a_102   obj1                            3
     x_a_102   c154                           27
+    x_a_103   obj1                            2
     x_a_103   c155                           48
+    x_a_104   obj1                            2
     x_a_104   c156                           25
+    x_a_105   obj1                            3
     x_a_105   c157                           48
+    x_a_106   obj1                            2
     x_a_106   c158                           44
+    x_a_107   obj1                            1
     x_a_107   c159                            3
+    x_a_108   obj1                            1
     x_a_108   c160                           19
+    x_a_109   obj1                            1
     x_a_109   c161                            3
+    x_a_110   obj1                            3
     x_a_110   c162                           26
+    x_a_111   obj1                            2
     x_a_111   c163                           29
+    x_a_112   obj1                            1
     x_a_112   c164                           43
+    x_a_113   obj1                            1
     x_a_113   c165                           25
+    x_a_114   obj1                            3
     x_a_114   c166                           38
+    x_a_115   obj1                            2
     x_a_115   c167                           12
+    x_a_116   obj1                            2
     x_a_116   c168                            3
+    x_a_117   obj1                            1
     x_a_117   c169                           47
+    x_a_118   obj1                            3
     x_a_118   c170                            8
+    x_a_119   obj1                            2
     x_a_119   c171                           21
+    x_a_120   obj1                            1
     x_a_120   c172                           12
+    x_a_121   obj1                            2
     x_a_121   c173                            3
+    x_a_122   obj1                            1
     x_a_122   c174                           38
+    x_a_123   obj1                            2
     x_a_123   c175                            8
+    x_a_124   obj1                            3
     x_a_124   c176                            4
+    x_a_125   obj1                            3
     x_a_125   c177                           48
+    x_a_126   obj1                            2
     x_a_126   c178                           41
+    x_a_127   obj1                            3
     x_a_127   c179                           32
+    x_a_128   obj1                            3
     x_a_128   c180                           16
+    x_a_129   obj1                            3
     x_a_129   c181                           11
+    x_a_130   obj1                            3
     x_a_130   c182                           49
+    x_a_131   obj1                            3
     x_a_131   c183                           10
+    x_a_132   obj1                            3
     x_a_132   c184                           40
+    x_a_133   obj1                            3
     x_a_133   c185                           24
+    x_a_134   obj1                            3
     x_a_134   c186                           34
+    x_a_135   obj1                            3
     x_a_135   c187                           37
+    x_a_136   obj1                            1
     x_a_136   c188                            1
+    x_a_137   obj1                            1
     x_a_137   c189                            5
+    x_a_138   obj1                            1
     x_a_138   c190                           46
+    x_a_139   obj1                            1
     x_a_139   c191                           23
+    x_a_140   obj1                            1
     x_a_140   c192                           33
+    x_a_141   obj1                            1
     x_a_141   c193                           27
+    x_a_142   obj1                            2
     x_a_142   c194                           37
+    x_a_143   obj1                            1
     x_a_143   c195                           22
+    x_a_144   obj1                            3
     x_a_144   c196                           31
+    x_a_145   obj1                            1
     x_a_145   c197                           36
+    x_a_146   obj1                            3
     x_a_146   c198                           12
+    x_a_147   obj1                            2
     x_a_147   c199                           19
+    x_a_148   obj1                            3
     x_a_148   c200                            4
+    x_a_149   obj1                            2
     x_a_149   c201                           18
+    x_a_150   obj1                            3
     x_a_150   c202                           47
+    x_a_151   obj1                            1
     x_a_151   c203                           42
+    x_a_152   obj1                            3
     x_a_152   c204                           20
+    x_a_153   obj1                            2
     x_a_153   c205                           45
+    x_a_154   obj1                            1
     x_a_154   c206                            1
+    x_a_155   obj1                            2
     x_a_155   c207                           28
+    x_a_156   obj1                            2
     x_a_156   c208                           12
+    x_a_157   obj1                   1000000000
     x_a_157   c209                     50000000
+    x_a_158   obj1                   1000000000
     x_a_158   c210                     50000000
+    x_a_159   obj1                   1000000000
     x_a_159   c211                     50000000
+    x_a_160   obj1                   1000000000
     x_a_160   c212                     50000000
+    x_a_161   obj1                   1000000000
     x_a_161   c213                     50000000
+    x_a_162   obj1                   1000000000
     x_a_162   c214                     50000000
+    x_a_163   obj1                   1000000000
     x_a_163   c215                     50000000
+    x_a_164   obj1                   1000000000
     x_a_164   c216                     50000000
+    x_a_165   obj1                   1000000000
     x_a_165   c217                     50000000
+    x_a_166   obj1                   1000000000
     x_a_166   c218                     50000000
+    x_a_167   obj1                   1000000000
     x_a_167   c219                     50000000
+    x_a_168   obj1                   1000000000
     x_a_168   c220                     50000000
+    x_a_169   obj1                   1000000000
     x_a_169   c221                     50000000
+    x_a_170   obj1                   1000000000
     x_a_170   c222                     50000000
+    x_a_171   obj1                   1000000000
     x_a_171   c223                     50000000
+    x_a_172   obj1                   1000000000
     x_a_172   c224                     50000000
+    x_a_173   obj1                   1000000000
     x_a_173   c225                     50000000
+    x_a_174   obj1                   1000000000
     x_a_174   c226                     50000000
+    x_a_175   obj1                   1000000000
     x_a_175   c227                     50000000
+    x_a_176   obj1                   1000000000
     x_a_176   c228                     50000000
+    x_a_177   obj1                        10000
     x_a_177   c229                        10000
     MARK0001  'MARKER'                 'INTEND'
 RHS

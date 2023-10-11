@@ -13312,3126 +13312,6247 @@ COLUMNS
     y_a_3119  c803                           -1
     y_a_3119  c3924                           1
     MARK0000  'MARKER'                 'INTORG'
+    x_a_0     obj1                          999
     x_a_0     c805                          100
+    x_a_1     obj1                          999
     x_a_1     c806                          100
+    x_a_2     obj1                          999
     x_a_2     c807                          100
+    x_a_3     obj1                          999
     x_a_3     c808                          100
+    x_a_4     obj1                          999
     x_a_4     c809                          100
+    x_a_5     obj1                          999
     x_a_5     c810                          100
+    x_a_6     obj1                          999
     x_a_6     c811                          100
+    x_a_7     obj1                          999
     x_a_7     c812                          100
+    x_a_8     obj1                          999
     x_a_8     c813                          100
+    x_a_9     obj1                          999
     x_a_9     c814                          100
+    x_a_10    obj1                          999
     x_a_10    c815                          100
+    x_a_11    obj1                          999
     x_a_11    c816                          100
+    x_a_12    obj1                          999
     x_a_12    c817                          100
+    x_a_13    obj1                          999
     x_a_13    c818                          100
+    x_a_14    obj1                          999
     x_a_14    c819                          100
+    x_a_15    obj1                          999
     x_a_15    c820                          100
+    x_a_16    obj1                          999
     x_a_16    c821                          100
+    x_a_17    obj1                          999
     x_a_17    c822                          100
+    x_a_18    obj1                          999
     x_a_18    c823                          100
+    x_a_19    obj1                          999
     x_a_19    c824                          100
+    x_a_20    obj1                            1
     x_a_20    c825                           28
+    x_a_21    obj1                            1
     x_a_21    c826                           20
+    x_a_22    obj1                            1
     x_a_22    c827                            8
+    x_a_23    obj1                            1
     x_a_23    c828                           44
+    x_a_24    obj1                            1
     x_a_24    c829                           37
+    x_a_25    obj1                            1
     x_a_25    c830                            8
+    x_a_26    obj1                            1
     x_a_26    c831                           13
+    x_a_27    obj1                            1
     x_a_27    c832                           18
+    x_a_28    obj1                            1
     x_a_28    c833                           37
+    x_a_29    obj1                            1
     x_a_29    c834                           32
+    x_a_30    obj1                            1
     x_a_30    c835                           20
+    x_a_31    obj1                            1
     x_a_31    c836                           25
+    x_a_32    obj1                            1
     x_a_32    c837                           41
+    x_a_33    obj1                            1
     x_a_33    c838                           12
+    x_a_34    obj1                            1
     x_a_34    c839                           23
+    x_a_35    obj1                            1
     x_a_35    c840                           18
+    x_a_36    obj1                            1
     x_a_36    c841                            8
+    x_a_37    obj1                            1
     x_a_37    c842                           27
+    x_a_38    obj1                            1
     x_a_38    c843                           37
+    x_a_39    obj1                            1
     x_a_39    c844                           16
+    x_a_40    obj1                            1
     x_a_40    c845                            5
+    x_a_41    obj1                            1
     x_a_41    c846                           33
+    x_a_42    obj1                            1
     x_a_42    c847                           17
+    x_a_43    obj1                            1
     x_a_43    c848                           17
+    x_a_44    obj1                            1
     x_a_44    c849                           18
+    x_a_45    obj1                            1
     x_a_45    c850                           37
+    x_a_46    obj1                            1
     x_a_46    c851                           48
+    x_a_47    obj1                            1
     x_a_47    c852                           36
+    x_a_48    obj1                            1
     x_a_48    c853                           30
+    x_a_49    obj1                            1
     x_a_49    c854                           39
+    x_a_50    obj1                            1
     x_a_50    c855                           13
+    x_a_51    obj1                            1
     x_a_51    c856                            9
+    x_a_52    obj1                            1
     x_a_52    c857                           10
+    x_a_53    obj1                            1
     x_a_53    c858                           20
+    x_a_54    obj1                            1
     x_a_54    c859                           49
+    x_a_55    obj1                            1
     x_a_55    c860                           38
+    x_a_56    obj1                            1
     x_a_56    c861                            5
+    x_a_57    obj1                            1
     x_a_57    c862                           46
+    x_a_58    obj1                            1
     x_a_58    c863                           49
+    x_a_59    obj1                            1
     x_a_59    c864                           23
+    x_a_60    obj1                            1
     x_a_60    c865                           11
+    x_a_61    obj1                            1
     x_a_61    c866                           46
+    x_a_62    obj1                            1
     x_a_62    c867                           17
+    x_a_63    obj1                            1
     x_a_63    c868                           27
+    x_a_64    obj1                            1
     x_a_64    c869                           36
+    x_a_65    obj1                            1
     x_a_65    c870                            9
+    x_a_66    obj1                            1
     x_a_66    c871                           33
+    x_a_67    obj1                            1
     x_a_67    c872                            4
+    x_a_68    obj1                            1
     x_a_68    c873                           22
+    x_a_69    obj1                            1
     x_a_69    c874                           26
+    x_a_70    obj1                            1
     x_a_70    c875                           27
+    x_a_71    obj1                            1
     x_a_71    c876                            1
+    x_a_72    obj1                            1
     x_a_72    c877                           46
+    x_a_73    obj1                            1
     x_a_73    c878                           40
+    x_a_74    obj1                            1
     x_a_74    c879                           22
+    x_a_75    obj1                            1
     x_a_75    c880                           35
+    x_a_76    obj1                            1
     x_a_76    c881                            1
+    x_a_77    obj1                            1
     x_a_77    c882                            9
+    x_a_78    obj1                            1
     x_a_78    c883                           17
+    x_a_79    obj1                            1
     x_a_79    c884                           33
+    x_a_80    obj1                            1
     x_a_80    c885                           22
+    x_a_81    obj1                            1
     x_a_81    c886                           31
+    x_a_82    obj1                            1
     x_a_82    c887                           44
+    x_a_83    obj1                            1
     x_a_83    c888                            4
+    x_a_84    obj1                            1
     x_a_84    c889                           32
+    x_a_85    obj1                            1
     x_a_85    c890                            9
+    x_a_86    obj1                            1
     x_a_86    c891                           23
+    x_a_87    obj1                            1
     x_a_87    c892                           15
+    x_a_88    obj1                            1
     x_a_88    c893                            8
+    x_a_89    obj1                            1
     x_a_89    c894                           47
+    x_a_90    obj1                            1
     x_a_90    c895                           44
+    x_a_91    obj1                            1
     x_a_91    c896                           48
+    x_a_92    obj1                            1
     x_a_92    c897                           32
+    x_a_93    obj1                            1
     x_a_93    c898                            7
+    x_a_94    obj1                            1
     x_a_94    c899                            2
+    x_a_95    obj1                            1
     x_a_95    c900                           49
+    x_a_96    obj1                            1
     x_a_96    c901                           13
+    x_a_97    obj1                            1
     x_a_97    c902                           25
+    x_a_98    obj1                            1
     x_a_98    c903                           19
+    x_a_99    obj1                            1
     x_a_99    c904                           30
+    x_a_100   obj1                            1
     x_a_100   c905                            9
+    x_a_101   obj1                            1
     x_a_101   c906                            4
+    x_a_102   obj1                            1
     x_a_102   c907                           44
+    x_a_103   obj1                            1
     x_a_103   c908                           44
+    x_a_104   obj1                            1
     x_a_104   c909                           28
+    x_a_105   obj1                            1
     x_a_105   c910                            9
+    x_a_106   obj1                            1
     x_a_106   c911                           16
+    x_a_107   obj1                            1
     x_a_107   c912                           34
+    x_a_108   obj1                            1
     x_a_108   c913                           38
+    x_a_109   obj1                            1
     x_a_109   c914                           17
+    x_a_110   obj1                            1
     x_a_110   c915                           33
+    x_a_111   obj1                            1
     x_a_111   c916                           21
+    x_a_112   obj1                            1
     x_a_112   c917                           17
+    x_a_113   obj1                            1
     x_a_113   c918                           48
+    x_a_114   obj1                            1
     x_a_114   c919                           30
+    x_a_115   obj1                            1
     x_a_115   c920                           23
+    x_a_116   obj1                            1
     x_a_116   c921                           22
+    x_a_117   obj1                            1
     x_a_117   c922                            3
+    x_a_118   obj1                            1
     x_a_118   c923                           11
+    x_a_119   obj1                            1
     x_a_119   c924                           11
+    x_a_120   obj1                            1
     x_a_120   c925                           46
+    x_a_121   obj1                            1
     x_a_121   c926                           34
+    x_a_122   obj1                            1
     x_a_122   c927                            8
+    x_a_123   obj1                            1
     x_a_123   c928                           16
+    x_a_124   obj1                            1
     x_a_124   c929                            3
+    x_a_125   obj1                            1
     x_a_125   c930                           34
+    x_a_126   obj1                            1
     x_a_126   c931                           30
+    x_a_127   obj1                            1
     x_a_127   c932                           29
+    x_a_128   obj1                            1
     x_a_128   c933                           42
+    x_a_129   obj1                            1
     x_a_129   c934                           12
+    x_a_130   obj1                            1
     x_a_130   c935                           45
+    x_a_131   obj1                            1
     x_a_131   c936                           48
+    x_a_132   obj1                            1
     x_a_132   c937                           19
+    x_a_133   obj1                            1
     x_a_133   c938                           31
+    x_a_134   obj1                            1
     x_a_134   c939                           45
+    x_a_135   obj1                            1
     x_a_135   c940                           21
+    x_a_136   obj1                            1
     x_a_136   c941                           12
+    x_a_137   obj1                            1
     x_a_137   c942                           19
+    x_a_138   obj1                            1
     x_a_138   c943                           31
+    x_a_139   obj1                            1
     x_a_139   c944                           12
+    x_a_140   obj1                            1
     x_a_140   c945                           15
+    x_a_141   obj1                            1
     x_a_141   c946                            2
+    x_a_142   obj1                            1
     x_a_142   c947                           37
+    x_a_143   obj1                            1
     x_a_143   c948                            6
+    x_a_144   obj1                            1
     x_a_144   c949                           48
+    x_a_145   obj1                            1
     x_a_145   c950                           41
+    x_a_146   obj1                            1
     x_a_146   c951                            6
+    x_a_147   obj1                            1
     x_a_147   c952                           34
+    x_a_148   obj1                            1
     x_a_148   c953                            1
+    x_a_149   obj1                            1
     x_a_149   c954                           25
+    x_a_150   obj1                            1
     x_a_150   c955                           42
+    x_a_151   obj1                            1
     x_a_151   c956                           22
+    x_a_152   obj1                            1
     x_a_152   c957                           30
+    x_a_153   obj1                            1
     x_a_153   c958                           15
+    x_a_154   obj1                            1
     x_a_154   c959                           35
+    x_a_155   obj1                            1
     x_a_155   c960                           14
+    x_a_156   obj1                            1
     x_a_156   c961                           13
+    x_a_157   obj1                            1
     x_a_157   c962                           47
+    x_a_158   obj1                            1
     x_a_158   c963                           12
+    x_a_159   obj1                            1
     x_a_159   c964                           42
+    x_a_160   obj1                            1
     x_a_160   c965                            2
+    x_a_161   obj1                            1
     x_a_161   c966                           24
+    x_a_162   obj1                            1
     x_a_162   c967                           19
+    x_a_163   obj1                            1
     x_a_163   c968                            3
+    x_a_164   obj1                            1
     x_a_164   c969                           44
+    x_a_165   obj1                            1
     x_a_165   c970                           48
+    x_a_166   obj1                            1
     x_a_166   c971                           10
+    x_a_167   obj1                            1
     x_a_167   c972                           21
+    x_a_168   obj1                            1
     x_a_168   c973                           34
+    x_a_169   obj1                            1
     x_a_169   c974                           44
+    x_a_170   obj1                            1
     x_a_170   c975                           43
+    x_a_171   obj1                            1
     x_a_171   c976                           45
+    x_a_172   obj1                            1
     x_a_172   c977                            7
+    x_a_173   obj1                            1
     x_a_173   c978                           30
+    x_a_174   obj1                            1
     x_a_174   c979                           24
+    x_a_175   obj1                            1
     x_a_175   c980                           26
+    x_a_176   obj1                            1
     x_a_176   c981                           17
+    x_a_177   obj1                            1
     x_a_177   c982                           42
+    x_a_178   obj1                            1
     x_a_178   c983                           30
+    x_a_179   obj1                            1
     x_a_179   c984                           47
+    x_a_180   obj1                            1
     x_a_180   c985                           33
+    x_a_181   obj1                            1
     x_a_181   c986                           12
+    x_a_182   obj1                            1
     x_a_182   c987                           48
+    x_a_183   obj1                            1
     x_a_183   c988                           43
+    x_a_184   obj1                            1
     x_a_184   c989                            3
+    x_a_185   obj1                            1
     x_a_185   c990                           25
+    x_a_186   obj1                            1
     x_a_186   c991                           21
+    x_a_187   obj1                            1
     x_a_187   c992                           49
+    x_a_188   obj1                            1
     x_a_188   c993                            3
+    x_a_189   obj1                            1
     x_a_189   c994                           45
+    x_a_190   obj1                            1
     x_a_190   c995                           21
+    x_a_191   obj1                            1
     x_a_191   c996                           23
+    x_a_192   obj1                            1
     x_a_192   c997                           49
+    x_a_193   obj1                            1
     x_a_193   c998                            1
+    x_a_194   obj1                            1
     x_a_194   c999                            6
+    x_a_195   obj1                            1
     x_a_195   c1000                           4
+    x_a_196   obj1                            1
     x_a_196   c1001                          28
+    x_a_197   obj1                            1
     x_a_197   c1002                          27
+    x_a_198   obj1                            1
     x_a_198   c1003                           1
+    x_a_199   obj1                            1
     x_a_199   c1004                          46
+    x_a_200   obj1                            1
     x_a_200   c1005                          35
+    x_a_201   obj1                            1
     x_a_201   c1006                          43
+    x_a_202   obj1                            1
     x_a_202   c1007                          31
+    x_a_203   obj1                            1
     x_a_203   c1008                           5
+    x_a_204   obj1                            1
     x_a_204   c1009                          46
+    x_a_205   obj1                            1
     x_a_205   c1010                          32
+    x_a_206   obj1                            1
     x_a_206   c1011                          12
+    x_a_207   obj1                            1
     x_a_207   c1012                          34
+    x_a_208   obj1                            1
     x_a_208   c1013                          24
+    x_a_209   obj1                            1
     x_a_209   c1014                          40
+    x_a_210   obj1                            1
     x_a_210   c1015                           6
+    x_a_211   obj1                            1
     x_a_211   c1016                           3
+    x_a_212   obj1                            1
     x_a_212   c1017                          44
+    x_a_213   obj1                            1
     x_a_213   c1018                          24
+    x_a_214   obj1                            1
     x_a_214   c1019                          34
+    x_a_215   obj1                            1
     x_a_215   c1020                          24
+    x_a_216   obj1                            1
     x_a_216   c1021                          36
+    x_a_217   obj1                            1
     x_a_217   c1022                          29
+    x_a_218   obj1                            1
     x_a_218   c1023                          25
+    x_a_219   obj1                            1
     x_a_219   c1024                          22
+    x_a_220   obj1                            1
     x_a_220   c1025                          26
+    x_a_221   obj1                            1
     x_a_221   c1026                           1
+    x_a_222   obj1                            1
     x_a_222   c1027                          14
+    x_a_223   obj1                            1
     x_a_223   c1028                           1
+    x_a_224   obj1                            1
     x_a_224   c1029                          19
+    x_a_225   obj1                            1
     x_a_225   c1030                          41
+    x_a_226   obj1                            1
     x_a_226   c1031                           5
+    x_a_227   obj1                            1
     x_a_227   c1032                          32
+    x_a_228   obj1                            1
     x_a_228   c1033                          32
+    x_a_229   obj1                            1
     x_a_229   c1034                          41
+    x_a_230   obj1                            1
     x_a_230   c1035                          46
+    x_a_231   obj1                            1
     x_a_231   c1036                          22
+    x_a_232   obj1                            1
     x_a_232   c1037                           7
+    x_a_233   obj1                            1
     x_a_233   c1038                          29
+    x_a_234   obj1                            1
     x_a_234   c1039                          10
+    x_a_235   obj1                            1
     x_a_235   c1040                          23
+    x_a_236   obj1                            1
     x_a_236   c1041                          41
+    x_a_237   obj1                            1
     x_a_237   c1042                           1
+    x_a_238   obj1                            1
     x_a_238   c1043                          21
+    x_a_239   obj1                            1
     x_a_239   c1044                          31
+    x_a_240   obj1                            1
     x_a_240   c1045                          27
+    x_a_241   obj1                            1
     x_a_241   c1046                          19
+    x_a_242   obj1                            1
     x_a_242   c1047                          11
+    x_a_243   obj1                            1
     x_a_243   c1048                          22
+    x_a_244   obj1                            1
     x_a_244   c1049                          43
+    x_a_245   obj1                            1
     x_a_245   c1050                          32
+    x_a_246   obj1                            1
     x_a_246   c1051                          11
+    x_a_247   obj1                            1
     x_a_247   c1052                          35
+    x_a_248   obj1                            1
     x_a_248   c1053                          33
+    x_a_249   obj1                            1
     x_a_249   c1054                          40
+    x_a_250   obj1                            1
     x_a_250   c1055                          15
+    x_a_251   obj1                            1
     x_a_251   c1056                          48
+    x_a_252   obj1                            1
     x_a_252   c1057                          30
+    x_a_253   obj1                            1
     x_a_253   c1058                          16
+    x_a_254   obj1                            1
     x_a_254   c1059                          25
+    x_a_255   obj1                            1
     x_a_255   c1060                          35
+    x_a_256   obj1                            1
     x_a_256   c1061                          29
+    x_a_257   obj1                            1
     x_a_257   c1062                           2
+    x_a_258   obj1                            1
     x_a_258   c1063                          35
+    x_a_259   obj1                            1
     x_a_259   c1064                          43
+    x_a_260   obj1                            1
     x_a_260   c1065                          22
+    x_a_261   obj1                            1
     x_a_261   c1066                           2
+    x_a_262   obj1                            1
     x_a_262   c1067                          30
+    x_a_263   obj1                            1
     x_a_263   c1068                          21
+    x_a_264   obj1                            1
     x_a_264   c1069                          49
+    x_a_265   obj1                            1
     x_a_265   c1070                          36
+    x_a_266   obj1                            1
     x_a_266   c1071                          23
+    x_a_267   obj1                            1
     x_a_267   c1072                          39
+    x_a_268   obj1                            1
     x_a_268   c1073                          14
+    x_a_269   obj1                            1
     x_a_269   c1074                           3
+    x_a_270   obj1                            1
     x_a_270   c1075                          20
+    x_a_271   obj1                            1
     x_a_271   c1076                          19
+    x_a_272   obj1                            1
     x_a_272   c1077                          45
+    x_a_273   obj1                            1
     x_a_273   c1078                          10
+    x_a_274   obj1                            1
     x_a_274   c1079                          45
+    x_a_275   obj1                            1
     x_a_275   c1080                          26
+    x_a_276   obj1                            1
     x_a_276   c1081                          14
+    x_a_277   obj1                            1
     x_a_277   c1082                          49
+    x_a_278   obj1                            1
     x_a_278   c1083                          42
+    x_a_279   obj1                            1
     x_a_279   c1084                          46
+    x_a_280   obj1                            1
     x_a_280   c1085                          39
+    x_a_281   obj1                            1
     x_a_281   c1086                           1
+    x_a_282   obj1                            1
     x_a_282   c1087                           8
+    x_a_283   obj1                            1
     x_a_283   c1088                          10
+    x_a_284   obj1                            1
     x_a_284   c1089                          46
+    x_a_285   obj1                            1
     x_a_285   c1090                          43
+    x_a_286   obj1                            1
     x_a_286   c1091                           8
+    x_a_287   obj1                            1
     x_a_287   c1092                          36
+    x_a_288   obj1                            1
     x_a_288   c1093                          46
+    x_a_289   obj1                            1
     x_a_289   c1094                           6
+    x_a_290   obj1                            1
     x_a_290   c1095                          37
+    x_a_291   obj1                            1
     x_a_291   c1096                          41
+    x_a_292   obj1                            1
     x_a_292   c1097                          11
+    x_a_293   obj1                            1
     x_a_293   c1098                           1
+    x_a_294   obj1                            1
     x_a_294   c1099                          35
+    x_a_295   obj1                            1
     x_a_295   c1100                          46
+    x_a_296   obj1                            1
     x_a_296   c1101                           1
+    x_a_297   obj1                            1
     x_a_297   c1102                          10
+    x_a_298   obj1                            1
     x_a_298   c1103                          39
+    x_a_299   obj1                            1
     x_a_299   c1104                          39
+    x_a_300   obj1                            1
     x_a_300   c1105                          43
+    x_a_301   obj1                            1
     x_a_301   c1106                           7
+    x_a_302   obj1                            1
     x_a_302   c1107                          29
+    x_a_303   obj1                            1
     x_a_303   c1108                          13
+    x_a_304   obj1                            1
     x_a_304   c1109                          39
+    x_a_305   obj1                            1
     x_a_305   c1110                           7
+    x_a_306   obj1                            1
     x_a_306   c1111                          32
+    x_a_307   obj1                            1
     x_a_307   c1112                           9
+    x_a_308   obj1                            1
     x_a_308   c1113                          12
+    x_a_309   obj1                            1
     x_a_309   c1114                          39
+    x_a_310   obj1                            1
     x_a_310   c1115                           4
+    x_a_311   obj1                            1
     x_a_311   c1116                          20
+    x_a_312   obj1                            1
     x_a_312   c1117                          23
+    x_a_313   obj1                            1
     x_a_313   c1118                          21
+    x_a_314   obj1                            1
     x_a_314   c1119                          33
+    x_a_315   obj1                            1
     x_a_315   c1120                           4
+    x_a_316   obj1                            1
     x_a_316   c1121                          47
+    x_a_317   obj1                            1
     x_a_317   c1122                          15
+    x_a_318   obj1                            1
     x_a_318   c1123                           2
+    x_a_319   obj1                            1
     x_a_319   c1124                          21
+    x_a_320   obj1                            1
     x_a_320   c1125                          20
+    x_a_321   obj1                            1
     x_a_321   c1126                          11
+    x_a_322   obj1                            1
     x_a_322   c1127                          37
+    x_a_323   obj1                            1
     x_a_323   c1128                          11
+    x_a_324   obj1                            1
     x_a_324   c1129                          16
+    x_a_325   obj1                            1
     x_a_325   c1130                          26
+    x_a_326   obj1                            1
     x_a_326   c1131                          21
+    x_a_327   obj1                            1
     x_a_327   c1132                          31
+    x_a_328   obj1                            1
     x_a_328   c1133                          11
+    x_a_329   obj1                            1
     x_a_329   c1134                           5
+    x_a_330   obj1                            1
     x_a_330   c1135                          28
+    x_a_331   obj1                            1
     x_a_331   c1136                          26
+    x_a_332   obj1                            1
     x_a_332   c1137                          34
+    x_a_333   obj1                            1
     x_a_333   c1138                          18
+    x_a_334   obj1                            1
     x_a_334   c1139                          35
+    x_a_335   obj1                            1
     x_a_335   c1140                          20
+    x_a_336   obj1                            1
     x_a_336   c1141                          46
+    x_a_337   obj1                            1
     x_a_337   c1142                          39
+    x_a_338   obj1                            1
     x_a_338   c1143                          41
+    x_a_339   obj1                            1
     x_a_339   c1144                          32
+    x_a_340   obj1                            1
     x_a_340   c1145                          35
+    x_a_341   obj1                            1
     x_a_341   c1146                          30
+    x_a_342   obj1                            1
     x_a_342   c1147                           3
+    x_a_343   obj1                            1
     x_a_343   c1148                          10
+    x_a_344   obj1                            1
     x_a_344   c1149                          17
+    x_a_345   obj1                            1
     x_a_345   c1150                          38
+    x_a_346   obj1                            1
     x_a_346   c1151                           4
+    x_a_347   obj1                            1
     x_a_347   c1152                          17
+    x_a_348   obj1                            1
     x_a_348   c1153                          11
+    x_a_349   obj1                            1
     x_a_349   c1154                          34
+    x_a_350   obj1                            1
     x_a_350   c1155                           2
+    x_a_351   obj1                            1
     x_a_351   c1156                           4
+    x_a_352   obj1                            1
     x_a_352   c1157                          25
+    x_a_353   obj1                            1
     x_a_353   c1158                          43
+    x_a_354   obj1                            1
     x_a_354   c1159                          19
+    x_a_355   obj1                            1
     x_a_355   c1160                          13
+    x_a_356   obj1                            1
     x_a_356   c1161                          32
+    x_a_357   obj1                            1
     x_a_357   c1162                          31
+    x_a_358   obj1                            1
     x_a_358   c1163                          37
+    x_a_359   obj1                            1
     x_a_359   c1164                          46
+    x_a_360   obj1                            1
     x_a_360   c1165                          41
+    x_a_361   obj1                            1
     x_a_361   c1166                          42
+    x_a_362   obj1                            1
     x_a_362   c1167                          28
+    x_a_363   obj1                            1
     x_a_363   c1168                          37
+    x_a_364   obj1                            1
     x_a_364   c1169                          35
+    x_a_365   obj1                            1
     x_a_365   c1170                          32
+    x_a_366   obj1                            1
     x_a_366   c1171                          27
+    x_a_367   obj1                            1
     x_a_367   c1172                          22
+    x_a_368   obj1                            1
     x_a_368   c1173                          29
+    x_a_369   obj1                            1
     x_a_369   c1174                          18
+    x_a_370   obj1                            1
     x_a_370   c1175                          20
+    x_a_371   obj1                            1
     x_a_371   c1176                          23
+    x_a_372   obj1                            1
     x_a_372   c1177                          42
+    x_a_373   obj1                            1
     x_a_373   c1178                          43
+    x_a_374   obj1                            1
     x_a_374   c1179                           9
+    x_a_375   obj1                            1
     x_a_375   c1180                          35
+    x_a_376   obj1                            1
     x_a_376   c1181                          19
+    x_a_377   obj1                            1
     x_a_377   c1182                          29
+    x_a_378   obj1                            1
     x_a_378   c1183                          48
+    x_a_379   obj1                            1
     x_a_379   c1184                          49
+    x_a_380   obj1                            1
     x_a_380   c1185                          49
+    x_a_381   obj1                            1
     x_a_381   c1186                          39
+    x_a_382   obj1                            1
     x_a_382   c1187                          46
+    x_a_383   obj1                            1
     x_a_383   c1188                          38
+    x_a_384   obj1                            1
     x_a_384   c1189                          17
+    x_a_385   obj1                            1
     x_a_385   c1190                          43
+    x_a_386   obj1                            1
     x_a_386   c1191                          16
+    x_a_387   obj1                            1
     x_a_387   c1192                          45
+    x_a_388   obj1                            1
     x_a_388   c1193                           9
+    x_a_389   obj1                            1
     x_a_389   c1194                          15
+    x_a_390   obj1                            1
     x_a_390   c1195                          25
+    x_a_391   obj1                            1
     x_a_391   c1196                          25
+    x_a_392   obj1                            1
     x_a_392   c1197                          30
+    x_a_393   obj1                            1
     x_a_393   c1198                          39
+    x_a_394   obj1                            1
     x_a_394   c1199                          48
+    x_a_395   obj1                            1
     x_a_395   c1200                          36
+    x_a_396   obj1                            1
     x_a_396   c1201                          22
+    x_a_397   obj1                            1
     x_a_397   c1202                          43
+    x_a_398   obj1                            1
     x_a_398   c1203                          31
+    x_a_399   obj1                            1
     x_a_399   c1204                          32
+    x_a_400   obj1                            1
     x_a_400   c1205                          39
+    x_a_401   obj1                            1
     x_a_401   c1206                          28
+    x_a_402   obj1                            1
     x_a_402   c1207                          36
+    x_a_403   obj1                            1
     x_a_403   c1208                          40
+    x_a_404   obj1                            1
     x_a_404   c1209                          49
+    x_a_405   obj1                            1
     x_a_405   c1210                          35
+    x_a_406   obj1                            1
     x_a_406   c1211                           5
+    x_a_407   obj1                            1
     x_a_407   c1212                           4
+    x_a_408   obj1                            1
     x_a_408   c1213                           8
+    x_a_409   obj1                            1
     x_a_409   c1214                          45
+    x_a_410   obj1                            1
     x_a_410   c1215                          14
+    x_a_411   obj1                            1
     x_a_411   c1216                          13
+    x_a_412   obj1                            1
     x_a_412   c1217                           5
+    x_a_413   obj1                            1
     x_a_413   c1218                          14
+    x_a_414   obj1                            1
     x_a_414   c1219                          20
+    x_a_415   obj1                            1
     x_a_415   c1220                          25
+    x_a_416   obj1                            1
     x_a_416   c1221                          48
+    x_a_417   obj1                            1
     x_a_417   c1222                          25
+    x_a_418   obj1                            1
     x_a_418   c1223                           9
+    x_a_419   obj1                            1
     x_a_419   c1224                          12
+    x_a_420   obj1                            1
     x_a_420   c1225                          48
+    x_a_421   obj1                            1
     x_a_421   c1226                          27
+    x_a_422   obj1                            1
     x_a_422   c1227                          11
+    x_a_423   obj1                            1
     x_a_423   c1228                          48
+    x_a_424   obj1                            1
     x_a_424   c1229                           6
+    x_a_425   obj1                            1
     x_a_425   c1230                          40
+    x_a_426   obj1                            1
     x_a_426   c1231                          13
+    x_a_427   obj1                            1
     x_a_427   c1232                           9
+    x_a_428   obj1                            1
     x_a_428   c1233                           3
+    x_a_429   obj1                            1
     x_a_429   c1234                          22
+    x_a_430   obj1                            1
     x_a_430   c1235                          26
+    x_a_431   obj1                            1
     x_a_431   c1236                           5
+    x_a_432   obj1                            1
     x_a_432   c1237                          41
+    x_a_433   obj1                            1
     x_a_433   c1238                           2
+    x_a_434   obj1                            1
     x_a_434   c1239                          37
+    x_a_435   obj1                            1
     x_a_435   c1240                           5
+    x_a_436   obj1                            1
     x_a_436   c1241                          24
+    x_a_437   obj1                            1
     x_a_437   c1242                          47
+    x_a_438   obj1                            1
     x_a_438   c1243                          41
+    x_a_439   obj1                            1
     x_a_439   c1244                           6
+    x_a_440   obj1                            1
     x_a_440   c1245                          21
+    x_a_441   obj1                            1
     x_a_441   c1246                          49
+    x_a_442   obj1                            1
     x_a_442   c1247                          22
+    x_a_443   obj1                            1
     x_a_443   c1248                          35
+    x_a_444   obj1                            1
     x_a_444   c1249                           2
+    x_a_445   obj1                            1
     x_a_445   c1250                          24
+    x_a_446   obj1                            1
     x_a_446   c1251                           7
+    x_a_447   obj1                            1
     x_a_447   c1252                          29
+    x_a_448   obj1                            1
     x_a_448   c1253                           6
+    x_a_449   obj1                            1
     x_a_449   c1254                          40
+    x_a_450   obj1                            1
     x_a_450   c1255                          39
+    x_a_451   obj1                            1
     x_a_451   c1256                           8
+    x_a_452   obj1                            1
     x_a_452   c1257                          15
+    x_a_453   obj1                            1
     x_a_453   c1258                          20
+    x_a_454   obj1                            1
     x_a_454   c1259                          24
+    x_a_455   obj1                            1
     x_a_455   c1260                          41
+    x_a_456   obj1                            1
     x_a_456   c1261                          24
+    x_a_457   obj1                            1
     x_a_457   c1262                          18
+    x_a_458   obj1                            1
     x_a_458   c1263                          32
+    x_a_459   obj1                            1
     x_a_459   c1264                          28
+    x_a_460   obj1                            1
     x_a_460   c1265                          20
+    x_a_461   obj1                            1
     x_a_461   c1266                           2
+    x_a_462   obj1                            1
     x_a_462   c1267                          49
+    x_a_463   obj1                            1
     x_a_463   c1268                          14
+    x_a_464   obj1                            1
     x_a_464   c1269                           1
+    x_a_465   obj1                            1
     x_a_465   c1270                          36
+    x_a_466   obj1                            1
     x_a_466   c1271                          17
+    x_a_467   obj1                            1
     x_a_467   c1272                          34
+    x_a_468   obj1                            1
     x_a_468   c1273                           4
+    x_a_469   obj1                            1
     x_a_469   c1274                          25
+    x_a_470   obj1                            1
     x_a_470   c1275                           9
+    x_a_471   obj1                            1
     x_a_471   c1276                          17
+    x_a_472   obj1                            1
     x_a_472   c1277                          44
+    x_a_473   obj1                            1
     x_a_473   c1278                          25
+    x_a_474   obj1                            1
     x_a_474   c1279                          42
+    x_a_475   obj1                            1
     x_a_475   c1280                          26
+    x_a_476   obj1                            1
     x_a_476   c1281                          10
+    x_a_477   obj1                            1
     x_a_477   c1282                           9
+    x_a_478   obj1                            1
     x_a_478   c1283                          22
+    x_a_479   obj1                            1
     x_a_479   c1284                          16
+    x_a_480   obj1                            1
     x_a_480   c1285                          45
+    x_a_481   obj1                            1
     x_a_481   c1286                          21
+    x_a_482   obj1                            1
     x_a_482   c1287                          35
+    x_a_483   obj1                            1
     x_a_483   c1288                          14
+    x_a_484   obj1                            1
     x_a_484   c1289                           2
+    x_a_485   obj1                            1
     x_a_485   c1290                          24
+    x_a_486   obj1                            1
     x_a_486   c1291                          23
+    x_a_487   obj1                            1
     x_a_487   c1292                          34
+    x_a_488   obj1                            1
     x_a_488   c1293                          16
+    x_a_489   obj1                            1
     x_a_489   c1294                          32
+    x_a_490   obj1                            1
     x_a_490   c1295                          31
+    x_a_491   obj1                            1
     x_a_491   c1296                          24
+    x_a_492   obj1                            1
     x_a_492   c1297                          31
+    x_a_493   obj1                            1
     x_a_493   c1298                          29
+    x_a_494   obj1                            1
     x_a_494   c1299                          38
+    x_a_495   obj1                            1
     x_a_495   c1300                          39
+    x_a_496   obj1                            1
     x_a_496   c1301                          33
+    x_a_497   obj1                            1
     x_a_497   c1302                          41
+    x_a_498   obj1                            1
     x_a_498   c1303                          45
+    x_a_499   obj1                            1
     x_a_499   c1304                           2
+    x_a_500   obj1                            1
     x_a_500   c1305                          21
+    x_a_501   obj1                            1
     x_a_501   c1306                          43
+    x_a_502   obj1                            1
     x_a_502   c1307                          20
+    x_a_503   obj1                            1
     x_a_503   c1308                          15
+    x_a_504   obj1                            1
     x_a_504   c1309                          18
+    x_a_505   obj1                            1
     x_a_505   c1310                          41
+    x_a_506   obj1                            1
     x_a_506   c1311                          26
+    x_a_507   obj1                            1
     x_a_507   c1312                          10
+    x_a_508   obj1                            1
     x_a_508   c1313                          31
+    x_a_509   obj1                            1
     x_a_509   c1314                          38
+    x_a_510   obj1                            1
     x_a_510   c1315                          43
+    x_a_511   obj1                            1
     x_a_511   c1316                          41
+    x_a_512   obj1                            1
     x_a_512   c1317                           8
+    x_a_513   obj1                            1
     x_a_513   c1318                          16
+    x_a_514   obj1                            1
     x_a_514   c1319                           1
+    x_a_515   obj1                            1
     x_a_515   c1320                           7
+    x_a_516   obj1                            1
     x_a_516   c1321                          13
+    x_a_517   obj1                            1
     x_a_517   c1322                          34
+    x_a_518   obj1                            1
     x_a_518   c1323                          37
+    x_a_519   obj1                            1
     x_a_519   c1324                          36
+    x_a_520   obj1                            1
     x_a_520   c1325                          43
+    x_a_521   obj1                            1
     x_a_521   c1326                           4
+    x_a_522   obj1                            1
     x_a_522   c1327                          39
+    x_a_523   obj1                            1
     x_a_523   c1328                          25
+    x_a_524   obj1                            1
     x_a_524   c1329                          41
+    x_a_525   obj1                            1
     x_a_525   c1330                          26
+    x_a_526   obj1                            1
     x_a_526   c1331                          14
+    x_a_527   obj1                            1
     x_a_527   c1332                          16
+    x_a_528   obj1                            1
     x_a_528   c1333                          17
+    x_a_529   obj1                            1
     x_a_529   c1334                          35
+    x_a_530   obj1                            1
     x_a_530   c1335                          21
+    x_a_531   obj1                            1
     x_a_531   c1336                          42
+    x_a_532   obj1                            1
     x_a_532   c1337                          39
+    x_a_533   obj1                            1
     x_a_533   c1338                           1
+    x_a_534   obj1                            1
     x_a_534   c1339                           7
+    x_a_535   obj1                            1
     x_a_535   c1340                          11
+    x_a_536   obj1                            1
     x_a_536   c1341                          46
+    x_a_537   obj1                            1
     x_a_537   c1342                          32
+    x_a_538   obj1                            1
     x_a_538   c1343                           5
+    x_a_539   obj1                            1
     x_a_539   c1344                          17
+    x_a_540   obj1                            1
     x_a_540   c1345                          34
+    x_a_541   obj1                            1
     x_a_541   c1346                          31
+    x_a_542   obj1                            1
     x_a_542   c1347                          15
+    x_a_543   obj1                            1
     x_a_543   c1348                          13
+    x_a_544   obj1                            1
     x_a_544   c1349                          26
+    x_a_545   obj1                            1
     x_a_545   c1350                           3
+    x_a_546   obj1                            1
     x_a_546   c1351                          12
+    x_a_547   obj1                            1
     x_a_547   c1352                          31
+    x_a_548   obj1                            1
     x_a_548   c1353                          12
+    x_a_549   obj1                            1
     x_a_549   c1354                           3
+    x_a_550   obj1                            1
     x_a_550   c1355                          16
+    x_a_551   obj1                            1
     x_a_551   c1356                          18
+    x_a_552   obj1                            1
     x_a_552   c1357                          25
+    x_a_553   obj1                            1
     x_a_553   c1358                           5
+    x_a_554   obj1                            1
     x_a_554   c1359                          41
+    x_a_555   obj1                            1
     x_a_555   c1360                           4
+    x_a_556   obj1                            1
     x_a_556   c1361                          47
+    x_a_557   obj1                            1
     x_a_557   c1362                          18
+    x_a_558   obj1                            1
     x_a_558   c1363                          39
+    x_a_559   obj1                            1
     x_a_559   c1364                           1
+    x_a_560   obj1                            1
     x_a_560   c1365                          14
+    x_a_561   obj1                            1
     x_a_561   c1366                          11
+    x_a_562   obj1                            1
     x_a_562   c1367                          17
+    x_a_563   obj1                            1
     x_a_563   c1368                          40
+    x_a_564   obj1                            1
     x_a_564   c1369                          10
+    x_a_565   obj1                            1
     x_a_565   c1370                          19
+    x_a_566   obj1                            1
     x_a_566   c1371                          27
+    x_a_567   obj1                            1
     x_a_567   c1372                          35
+    x_a_568   obj1                            1
     x_a_568   c1373                          31
+    x_a_569   obj1                            1
     x_a_569   c1374                          39
+    x_a_570   obj1                            1
     x_a_570   c1375                           1
+    x_a_571   obj1                            1
     x_a_571   c1376                          40
+    x_a_572   obj1                            1
     x_a_572   c1377                          14
+    x_a_573   obj1                            1
     x_a_573   c1378                          37
+    x_a_574   obj1                            1
     x_a_574   c1379                          49
+    x_a_575   obj1                            1
     x_a_575   c1380                           8
+    x_a_576   obj1                            1
     x_a_576   c1381                          16
+    x_a_577   obj1                            1
     x_a_577   c1382                          10
+    x_a_578   obj1                            1
     x_a_578   c1383                          34
+    x_a_579   obj1                            1
     x_a_579   c1384                          28
+    x_a_580   obj1                            1
     x_a_580   c1385                          25
+    x_a_581   obj1                            1
     x_a_581   c1386                          48
+    x_a_582   obj1                            1
     x_a_582   c1387                          44
+    x_a_583   obj1                            1
     x_a_583   c1388                          12
+    x_a_584   obj1                            1
     x_a_584   c1389                          16
+    x_a_585   obj1                            1
     x_a_585   c1390                           1
+    x_a_586   obj1                            1
     x_a_586   c1391                          49
+    x_a_587   obj1                            1
     x_a_587   c1392                          41
+    x_a_588   obj1                            1
     x_a_588   c1393                           8
+    x_a_589   obj1                            1
     x_a_589   c1394                          15
+    x_a_590   obj1                            1
     x_a_590   c1395                          41
+    x_a_591   obj1                            1
     x_a_591   c1396                          49
+    x_a_592   obj1                            1
     x_a_592   c1397                          14
+    x_a_593   obj1                            1
     x_a_593   c1398                          13
+    x_a_594   obj1                            1
     x_a_594   c1399                          10
+    x_a_595   obj1                            1
     x_a_595   c1400                          11
+    x_a_596   obj1                            1
     x_a_596   c1401                          29
+    x_a_597   obj1                            1
     x_a_597   c1402                          10
+    x_a_598   obj1                            1
     x_a_598   c1403                          37
+    x_a_599   obj1                            1
     x_a_599   c1404                          47
+    x_a_600   obj1                            1
     x_a_600   c1405                           7
+    x_a_601   obj1                            1
     x_a_601   c1406                          20
+    x_a_602   obj1                            1
     x_a_602   c1407                          45
+    x_a_603   obj1                            1
     x_a_603   c1408                           5
+    x_a_604   obj1                            1
     x_a_604   c1409                           5
+    x_a_605   obj1                            1
     x_a_605   c1410                          30
+    x_a_606   obj1                            1
     x_a_606   c1411                          15
+    x_a_607   obj1                            1
     x_a_607   c1412                           2
+    x_a_608   obj1                            1
     x_a_608   c1413                          15
+    x_a_609   obj1                            1
     x_a_609   c1414                          43
+    x_a_610   obj1                            1
     x_a_610   c1415                          47
+    x_a_611   obj1                            1
     x_a_611   c1416                          39
+    x_a_612   obj1                            1
     x_a_612   c1417                          16
+    x_a_613   obj1                            1
     x_a_613   c1418                          33
+    x_a_614   obj1                            1
     x_a_614   c1419                          20
+    x_a_615   obj1                            1
     x_a_615   c1420                          19
+    x_a_616   obj1                            1
     x_a_616   c1421                           9
+    x_a_617   obj1                            1
     x_a_617   c1422                          14
+    x_a_618   obj1                            1
     x_a_618   c1423                          29
+    x_a_619   obj1                            1
     x_a_619   c1424                          48
+    x_a_620   obj1                            1
     x_a_620   c1425                           6
+    x_a_621   obj1                            1
     x_a_621   c1426                          18
+    x_a_622   obj1                            1
     x_a_622   c1427                          32
+    x_a_623   obj1                            1
     x_a_623   c1428                          48
+    x_a_624   obj1                            1
     x_a_624   c1429                          28
+    x_a_625   obj1                            1
     x_a_625   c1430                          23
+    x_a_626   obj1                            1
     x_a_626   c1431                           3
+    x_a_627   obj1                            1
     x_a_627   c1432                           6
+    x_a_628   obj1                            1
     x_a_628   c1433                          21
+    x_a_629   obj1                            1
     x_a_629   c1434                           5
+    x_a_630   obj1                            1
     x_a_630   c1435                          24
+    x_a_631   obj1                            1
     x_a_631   c1436                           1
+    x_a_632   obj1                            1
     x_a_632   c1437                          48
+    x_a_633   obj1                            1
     x_a_633   c1438                           8
+    x_a_634   obj1                            1
     x_a_634   c1439                          21
+    x_a_635   obj1                            1
     x_a_635   c1440                          43
+    x_a_636   obj1                            1
     x_a_636   c1441                          15
+    x_a_637   obj1                            1
     x_a_637   c1442                          15
+    x_a_638   obj1                            1
     x_a_638   c1443                          10
+    x_a_639   obj1                            1
     x_a_639   c1444                          21
+    x_a_640   obj1                            1
     x_a_640   c1445                          36
+    x_a_641   obj1                            1
     x_a_641   c1446                          40
+    x_a_642   obj1                            1
     x_a_642   c1447                          31
+    x_a_643   obj1                            1
     x_a_643   c1448                           7
+    x_a_644   obj1                            1
     x_a_644   c1449                          14
+    x_a_645   obj1                            1
     x_a_645   c1450                          43
+    x_a_646   obj1                            1
     x_a_646   c1451                          42
+    x_a_647   obj1                            1
     x_a_647   c1452                          37
+    x_a_648   obj1                            1
     x_a_648   c1453                          38
+    x_a_649   obj1                            1
     x_a_649   c1454                           1
+    x_a_650   obj1                            1
     x_a_650   c1455                          36
+    x_a_651   obj1                            1
     x_a_651   c1456                           8
+    x_a_652   obj1                            1
     x_a_652   c1457                          42
+    x_a_653   obj1                            1
     x_a_653   c1458                          28
+    x_a_654   obj1                            1
     x_a_654   c1459                           9
+    x_a_655   obj1                            1
     x_a_655   c1460                          22
+    x_a_656   obj1                            1
     x_a_656   c1461                           5
+    x_a_657   obj1                            1
     x_a_657   c1462                          19
+    x_a_658   obj1                            1
     x_a_658   c1463                          27
+    x_a_659   obj1                            1
     x_a_659   c1464                          30
+    x_a_660   obj1                            1
     x_a_660   c1465                          20
+    x_a_661   obj1                            1
     x_a_661   c1466                          42
+    x_a_662   obj1                            1
     x_a_662   c1467                           2
+    x_a_663   obj1                            1
     x_a_663   c1468                          17
+    x_a_664   obj1                            1
     x_a_664   c1469                          32
+    x_a_665   obj1                            1
     x_a_665   c1470                          47
+    x_a_666   obj1                            1
     x_a_666   c1471                          49
+    x_a_667   obj1                            1
     x_a_667   c1472                          47
+    x_a_668   obj1                            1
     x_a_668   c1473                          10
+    x_a_669   obj1                            1
     x_a_669   c1474                          45
+    x_a_670   obj1                            1
     x_a_670   c1475                          17
+    x_a_671   obj1                            1
     x_a_671   c1476                          40
+    x_a_672   obj1                            1
     x_a_672   c1477                          42
+    x_a_673   obj1                            1
     x_a_673   c1478                          19
+    x_a_674   obj1                            1
     x_a_674   c1479                          17
+    x_a_675   obj1                            1
     x_a_675   c1480                           4
+    x_a_676   obj1                            1
     x_a_676   c1481                          10
+    x_a_677   obj1                            1
     x_a_677   c1482                          35
+    x_a_678   obj1                            1
     x_a_678   c1483                          16
+    x_a_679   obj1                            1
     x_a_679   c1484                          41
+    x_a_680   obj1                            1
     x_a_680   c1485                           5
+    x_a_681   obj1                            1
     x_a_681   c1486                          30
+    x_a_682   obj1                            1
     x_a_682   c1487                          27
+    x_a_683   obj1                            1
     x_a_683   c1488                          16
+    x_a_684   obj1                            1
     x_a_684   c1489                          28
+    x_a_685   obj1                            1
     x_a_685   c1490                          23
+    x_a_686   obj1                            1
     x_a_686   c1491                           9
+    x_a_687   obj1                            1
     x_a_687   c1492                          43
+    x_a_688   obj1                            1
     x_a_688   c1493                           2
+    x_a_689   obj1                            1
     x_a_689   c1494                          32
+    x_a_690   obj1                            1
     x_a_690   c1495                          43
+    x_a_691   obj1                            1
     x_a_691   c1496                          17
+    x_a_692   obj1                            1
     x_a_692   c1497                          25
+    x_a_693   obj1                            1
     x_a_693   c1498                          26
+    x_a_694   obj1                            1
     x_a_694   c1499                          17
+    x_a_695   obj1                            1
     x_a_695   c1500                          36
+    x_a_696   obj1                            1
     x_a_696   c1501                          17
+    x_a_697   obj1                            1
     x_a_697   c1502                          37
+    x_a_698   obj1                            1
     x_a_698   c1503                          11
+    x_a_699   obj1                            1
     x_a_699   c1504                          12
+    x_a_700   obj1                            1
     x_a_700   c1505                          26
+    x_a_701   obj1                            1
     x_a_701   c1506                           7
+    x_a_702   obj1                            1
     x_a_702   c1507                          15
+    x_a_703   obj1                            1
     x_a_703   c1508                          12
+    x_a_704   obj1                            1
     x_a_704   c1509                          22
+    x_a_705   obj1                            1
     x_a_705   c1510                           6
+    x_a_706   obj1                            1
     x_a_706   c1511                           1
+    x_a_707   obj1                            1
     x_a_707   c1512                           8
+    x_a_708   obj1                            1
     x_a_708   c1513                          16
+    x_a_709   obj1                            1
     x_a_709   c1514                          48
+    x_a_710   obj1                            1
     x_a_710   c1515                          13
+    x_a_711   obj1                            1
     x_a_711   c1516                          31
+    x_a_712   obj1                            1
     x_a_712   c1517                           9
+    x_a_713   obj1                            1
     x_a_713   c1518                          39
+    x_a_714   obj1                            1
     x_a_714   c1519                          21
+    x_a_715   obj1                            1
     x_a_715   c1520                          49
+    x_a_716   obj1                            1
     x_a_716   c1521                           2
+    x_a_717   obj1                            1
     x_a_717   c1522                          41
+    x_a_718   obj1                            1
     x_a_718   c1523                          20
+    x_a_719   obj1                            1
     x_a_719   c1524                          10
+    x_a_720   obj1                            1
     x_a_720   c1525                          24
+    x_a_721   obj1                            1
     x_a_721   c1526                          25
+    x_a_722   obj1                            1
     x_a_722   c1527                          14
+    x_a_723   obj1                            1
     x_a_723   c1528                          17
+    x_a_724   obj1                            1
     x_a_724   c1529                          16
+    x_a_725   obj1                            1
     x_a_725   c1530                          36
+    x_a_726   obj1                            1
     x_a_726   c1531                          25
+    x_a_727   obj1                            1
     x_a_727   c1532                          13
+    x_a_728   obj1                            1
     x_a_728   c1533                          32
+    x_a_729   obj1                            1
     x_a_729   c1534                          28
+    x_a_730   obj1                            1
     x_a_730   c1535                           9
+    x_a_731   obj1                            1
     x_a_731   c1536                          15
+    x_a_732   obj1                            1
     x_a_732   c1537                          31
+    x_a_733   obj1                            1
     x_a_733   c1538                           7
+    x_a_734   obj1                            1
     x_a_734   c1539                           3
+    x_a_735   obj1                            1
     x_a_735   c1540                          39
+    x_a_736   obj1                            1
     x_a_736   c1541                          36
+    x_a_737   obj1                            1
     x_a_737   c1542                          12
+    x_a_738   obj1                            1
     x_a_738   c1543                          19
+    x_a_739   obj1                            1
     x_a_739   c1544                           6
+    x_a_740   obj1                            1
     x_a_740   c1545                          33
+    x_a_741   obj1                            1
     x_a_741   c1546                          25
+    x_a_742   obj1                            1
     x_a_742   c1547                           3
+    x_a_743   obj1                            1
     x_a_743   c1548                          47
+    x_a_744   obj1                            1
     x_a_744   c1549                          48
+    x_a_745   obj1                            1
     x_a_745   c1550                          40
+    x_a_746   obj1                            1
     x_a_746   c1551                          28
+    x_a_747   obj1                            1
     x_a_747   c1552                          42
+    x_a_748   obj1                            1
     x_a_748   c1553                          45
+    x_a_749   obj1                            1
     x_a_749   c1554                          40
+    x_a_750   obj1                            1
     x_a_750   c1555                          19
+    x_a_751   obj1                            1
     x_a_751   c1556                          31
+    x_a_752   obj1                            1
     x_a_752   c1557                          25
+    x_a_753   obj1                            1
     x_a_753   c1558                          34
+    x_a_754   obj1                            1
     x_a_754   c1559                          33
+    x_a_755   obj1                            1
     x_a_755   c1560                           3
+    x_a_756   obj1                            1
     x_a_756   c1561                          25
+    x_a_757   obj1                            1
     x_a_757   c1562                          10
+    x_a_758   obj1                            1
     x_a_758   c1563                          18
+    x_a_759   obj1                            1
     x_a_759   c1564                          36
+    x_a_760   obj1                            1
     x_a_760   c1565                          31
+    x_a_761   obj1                            1
     x_a_761   c1566                          49
+    x_a_762   obj1                            1
     x_a_762   c1567                           9
+    x_a_763   obj1                            1
     x_a_763   c1568                          38
+    x_a_764   obj1                            1
     x_a_764   c1569                           8
+    x_a_765   obj1                            1
     x_a_765   c1570                          37
+    x_a_766   obj1                            1
     x_a_766   c1571                          31
+    x_a_767   obj1                            1
     x_a_767   c1572                          27
+    x_a_768   obj1                            1
     x_a_768   c1573                          19
+    x_a_769   obj1                            1
     x_a_769   c1574                          34
+    x_a_770   obj1                            1
     x_a_770   c1575                          35
+    x_a_771   obj1                            1
     x_a_771   c1576                          48
+    x_a_772   obj1                            1
     x_a_772   c1577                          35
+    x_a_773   obj1                            1
     x_a_773   c1578                          42
+    x_a_774   obj1                            1
     x_a_774   c1579                          37
+    x_a_775   obj1                            1
     x_a_775   c1580                          36
+    x_a_776   obj1                            1
     x_a_776   c1581                          24
+    x_a_777   obj1                            1
     x_a_777   c1582                          46
+    x_a_778   obj1                            1
     x_a_778   c1583                          43
+    x_a_779   obj1                            1
     x_a_779   c1584                          14
+    x_a_780   obj1                            1
     x_a_780   c1585                          23
+    x_a_781   obj1                            1
     x_a_781   c1586                          48
+    x_a_782   obj1                            1
     x_a_782   c1587                          11
+    x_a_783   obj1                            1
     x_a_783   c1588                          33
+    x_a_784   obj1                            1
     x_a_784   c1589                          18
+    x_a_785   obj1                            1
     x_a_785   c1590                          17
+    x_a_786   obj1                            1
     x_a_786   c1591                          23
+    x_a_787   obj1                            1
     x_a_787   c1592                          32
+    x_a_788   obj1                            1
     x_a_788   c1593                          27
+    x_a_789   obj1                            1
     x_a_789   c1594                          30
+    x_a_790   obj1                            1
     x_a_790   c1595                          23
+    x_a_791   obj1                            1
     x_a_791   c1596                           9
+    x_a_792   obj1                            1
     x_a_792   c1597                           7
+    x_a_793   obj1                            1
     x_a_793   c1598                          32
+    x_a_794   obj1                            1
     x_a_794   c1599                          34
+    x_a_795   obj1                            1
     x_a_795   c1600                          17
+    x_a_796   obj1                            1
     x_a_796   c1601                          40
+    x_a_797   obj1                            1
     x_a_797   c1602                          38
+    x_a_798   obj1                            1
     x_a_798   c1603                           8
+    x_a_799   obj1                            1
     x_a_799   c1604                          34
+    x_a_800   obj1                            1
     x_a_800   c1605                           5
+    x_a_801   obj1                            1
     x_a_801   c1606                           9
+    x_a_802   obj1                            1
     x_a_802   c1607                          42
+    x_a_803   obj1                            1
     x_a_803   c1608                          21
+    x_a_804   obj1                            1
     x_a_804   c1609                          13
+    x_a_805   obj1                            1
     x_a_805   c1610                          16
+    x_a_806   obj1                            1
     x_a_806   c1611                           8
+    x_a_807   obj1                            1
     x_a_807   c1612                          39
+    x_a_808   obj1                            1
     x_a_808   c1613                          16
+    x_a_809   obj1                            1
     x_a_809   c1614                           4
+    x_a_810   obj1                            1
     x_a_810   c1615                          47
+    x_a_811   obj1                            1
     x_a_811   c1616                          26
+    x_a_812   obj1                            1
     x_a_812   c1617                          31
+    x_a_813   obj1                            1
     x_a_813   c1618                          48
+    x_a_814   obj1                            1
     x_a_814   c1619                          32
+    x_a_815   obj1                            1
     x_a_815   c1620                          17
+    x_a_816   obj1                            1
     x_a_816   c1621                          47
+    x_a_817   obj1                            1
     x_a_817   c1622                          21
+    x_a_818   obj1                            1
     x_a_818   c1623                          38
+    x_a_819   obj1                            1
     x_a_819   c1624                          28
+    x_a_820   obj1                            1
     x_a_820   c1625                          41
+    x_a_821   obj1                            1
     x_a_821   c1626                          29
+    x_a_822   obj1                            1
     x_a_822   c1627                          10
+    x_a_823   obj1                            1
     x_a_823   c1628                          35
+    x_a_824   obj1                            1
     x_a_824   c1629                          20
+    x_a_825   obj1                            1
     x_a_825   c1630                           2
+    x_a_826   obj1                            1
     x_a_826   c1631                          27
+    x_a_827   obj1                            1
     x_a_827   c1632                          42
+    x_a_828   obj1                            1
     x_a_828   c1633                          24
+    x_a_829   obj1                            1
     x_a_829   c1634                          28
+    x_a_830   obj1                            1
     x_a_830   c1635                           5
+    x_a_831   obj1                            1
     x_a_831   c1636                          49
+    x_a_832   obj1                            1
     x_a_832   c1637                          49
+    x_a_833   obj1                            1
     x_a_833   c1638                          36
+    x_a_834   obj1                            1
     x_a_834   c1639                          25
+    x_a_835   obj1                            1
     x_a_835   c1640                          29
+    x_a_836   obj1                            1
     x_a_836   c1641                          30
+    x_a_837   obj1                            1
     x_a_837   c1642                           3
+    x_a_838   obj1                            1
     x_a_838   c1643                           8
+    x_a_839   obj1                            1
     x_a_839   c1644                          41
+    x_a_840   obj1                            1
     x_a_840   c1645                          12
+    x_a_841   obj1                            1
     x_a_841   c1646                          44
+    x_a_842   obj1                            1
     x_a_842   c1647                          24
+    x_a_843   obj1                            1
     x_a_843   c1648                          42
+    x_a_844   obj1                            1
     x_a_844   c1649                           7
+    x_a_845   obj1                            1
     x_a_845   c1650                          10
+    x_a_846   obj1                            1
     x_a_846   c1651                          23
+    x_a_847   obj1                            1
     x_a_847   c1652                          36
+    x_a_848   obj1                            1
     x_a_848   c1653                          33
+    x_a_849   obj1                            1
     x_a_849   c1654                           5
+    x_a_850   obj1                            1
     x_a_850   c1655                          35
+    x_a_851   obj1                            1
     x_a_851   c1656                          16
+    x_a_852   obj1                            1
     x_a_852   c1657                          46
+    x_a_853   obj1                            1
     x_a_853   c1658                           9
+    x_a_854   obj1                            1
     x_a_854   c1659                          13
+    x_a_855   obj1                            1
     x_a_855   c1660                          33
+    x_a_856   obj1                            1
     x_a_856   c1661                          39
+    x_a_857   obj1                            1
     x_a_857   c1662                          35
+    x_a_858   obj1                            1
     x_a_858   c1663                          21
+    x_a_859   obj1                            1
     x_a_859   c1664                          29
+    x_a_860   obj1                            1
     x_a_860   c1665                          31
+    x_a_861   obj1                            1
     x_a_861   c1666                           5
+    x_a_862   obj1                            1
     x_a_862   c1667                          36
+    x_a_863   obj1                            1
     x_a_863   c1668                          17
+    x_a_864   obj1                            1
     x_a_864   c1669                          32
+    x_a_865   obj1                            1
     x_a_865   c1670                           8
+    x_a_866   obj1                            1
     x_a_866   c1671                          32
+    x_a_867   obj1                            1
     x_a_867   c1672                          44
+    x_a_868   obj1                            1
     x_a_868   c1673                          47
+    x_a_869   obj1                            1
     x_a_869   c1674                          25
+    x_a_870   obj1                            1
     x_a_870   c1675                           6
+    x_a_871   obj1                            1
     x_a_871   c1676                          30
+    x_a_872   obj1                            1
     x_a_872   c1677                          10
+    x_a_873   obj1                            1
     x_a_873   c1678                          46
+    x_a_874   obj1                            1
     x_a_874   c1679                          37
+    x_a_875   obj1                            1
     x_a_875   c1680                           1
+    x_a_876   obj1                            1
     x_a_876   c1681                          48
+    x_a_877   obj1                            1
     x_a_877   c1682                          43
+    x_a_878   obj1                            1
     x_a_878   c1683                           2
+    x_a_879   obj1                            1
     x_a_879   c1684                          39
+    x_a_880   obj1                            1
     x_a_880   c1685                          13
+    x_a_881   obj1                            1
     x_a_881   c1686                          30
+    x_a_882   obj1                            1
     x_a_882   c1687                           6
+    x_a_883   obj1                            1
     x_a_883   c1688                          25
+    x_a_884   obj1                            1
     x_a_884   c1689                           5
+    x_a_885   obj1                            1
     x_a_885   c1690                          10
+    x_a_886   obj1                            1
     x_a_886   c1691                          12
+    x_a_887   obj1                            1
     x_a_887   c1692                          40
+    x_a_888   obj1                            1
     x_a_888   c1693                          41
+    x_a_889   obj1                            1
     x_a_889   c1694                          29
+    x_a_890   obj1                            1
     x_a_890   c1695                          22
+    x_a_891   obj1                            1
     x_a_891   c1696                          49
+    x_a_892   obj1                            1
     x_a_892   c1697                          36
+    x_a_893   obj1                            1
     x_a_893   c1698                          42
+    x_a_894   obj1                            1
     x_a_894   c1699                          37
+    x_a_895   obj1                            1
     x_a_895   c1700                          34
+    x_a_896   obj1                            1
     x_a_896   c1701                           5
+    x_a_897   obj1                            1
     x_a_897   c1702                           7
+    x_a_898   obj1                            1
     x_a_898   c1703                          21
+    x_a_899   obj1                            1
     x_a_899   c1704                          10
+    x_a_900   obj1                            1
     x_a_900   c1705                           1
+    x_a_901   obj1                            1
     x_a_901   c1706                           7
+    x_a_902   obj1                            1
     x_a_902   c1707                          42
+    x_a_903   obj1                            1
     x_a_903   c1708                          17
+    x_a_904   obj1                            1
     x_a_904   c1709                          23
+    x_a_905   obj1                            1
     x_a_905   c1710                           6
+    x_a_906   obj1                            1
     x_a_906   c1711                          25
+    x_a_907   obj1                            1
     x_a_907   c1712                           2
+    x_a_908   obj1                            1
     x_a_908   c1713                           7
+    x_a_909   obj1                            1
     x_a_909   c1714                           9
+    x_a_910   obj1                            1
     x_a_910   c1715                          11
+    x_a_911   obj1                            1
     x_a_911   c1716                          12
+    x_a_912   obj1                            1
     x_a_912   c1717                           9
+    x_a_913   obj1                            1
     x_a_913   c1718                          16
+    x_a_914   obj1                            1
     x_a_914   c1719                          18
+    x_a_915   obj1                            1
     x_a_915   c1720                           8
+    x_a_916   obj1                            1
     x_a_916   c1721                           1
+    x_a_917   obj1                            1
     x_a_917   c1722                          11
+    x_a_918   obj1                            1
     x_a_918   c1723                          31
+    x_a_919   obj1                            1
     x_a_919   c1724                           2
+    x_a_920   obj1                            1
     x_a_920   c1725                          30
+    x_a_921   obj1                            1
     x_a_921   c1726                          26
+    x_a_922   obj1                            1
     x_a_922   c1727                          12
+    x_a_923   obj1                            1
     x_a_923   c1728                          22
+    x_a_924   obj1                            1
     x_a_924   c1729                          13
+    x_a_925   obj1                            1
     x_a_925   c1730                          19
+    x_a_926   obj1                            1
     x_a_926   c1731                          23
+    x_a_927   obj1                            1
     x_a_927   c1732                           8
+    x_a_928   obj1                            1
     x_a_928   c1733                          15
+    x_a_929   obj1                            1
     x_a_929   c1734                          13
+    x_a_930   obj1                            1
     x_a_930   c1735                           2
+    x_a_931   obj1                            1
     x_a_931   c1736                          15
+    x_a_932   obj1                            1
     x_a_932   c1737                          48
+    x_a_933   obj1                            1
     x_a_933   c1738                          18
+    x_a_934   obj1                            1
     x_a_934   c1739                          27
+    x_a_935   obj1                            1
     x_a_935   c1740                          25
+    x_a_936   obj1                            1
     x_a_936   c1741                           2
+    x_a_937   obj1                            1
     x_a_937   c1742                          21
+    x_a_938   obj1                            1
     x_a_938   c1743                           1
+    x_a_939   obj1                            1
     x_a_939   c1744                           9
+    x_a_940   obj1                            1
     x_a_940   c1745                          30
+    x_a_941   obj1                            1
     x_a_941   c1746                          43
+    x_a_942   obj1                            1
     x_a_942   c1747                          25
+    x_a_943   obj1                            1
     x_a_943   c1748                          49
+    x_a_944   obj1                            1
     x_a_944   c1749                          49
+    x_a_945   obj1                            1
     x_a_945   c1750                          47
+    x_a_946   obj1                            1
     x_a_946   c1751                          28
+    x_a_947   obj1                            1
     x_a_947   c1752                          13
+    x_a_948   obj1                            1
     x_a_948   c1753                          43
+    x_a_949   obj1                            1
     x_a_949   c1754                          28
+    x_a_950   obj1                            1
     x_a_950   c1755                          42
+    x_a_951   obj1                            1
     x_a_951   c1756                           4
+    x_a_952   obj1                            1
     x_a_952   c1757                          13
+    x_a_953   obj1                            1
     x_a_953   c1758                           8
+    x_a_954   obj1                            1
     x_a_954   c1759                           3
+    x_a_955   obj1                            1
     x_a_955   c1760                          18
+    x_a_956   obj1                            1
     x_a_956   c1761                          36
+    x_a_957   obj1                            1
     x_a_957   c1762                          41
+    x_a_958   obj1                            1
     x_a_958   c1763                          40
+    x_a_959   obj1                            1
     x_a_959   c1764                          25
+    x_a_960   obj1                            1
     x_a_960   c1765                          32
+    x_a_961   obj1                            1
     x_a_961   c1766                          25
+    x_a_962   obj1                            1
     x_a_962   c1767                           2
+    x_a_963   obj1                            1
     x_a_963   c1768                          30
+    x_a_964   obj1                            1
     x_a_964   c1769                          30
+    x_a_965   obj1                            1
     x_a_965   c1770                          36
+    x_a_966   obj1                            1
     x_a_966   c1771                           3
+    x_a_967   obj1                            1
     x_a_967   c1772                          34
+    x_a_968   obj1                            1
     x_a_968   c1773                          19
+    x_a_969   obj1                            1
     x_a_969   c1774                          46
+    x_a_970   obj1                            1
     x_a_970   c1775                          20
+    x_a_971   obj1                            1
     x_a_971   c1776                           9
+    x_a_972   obj1                            1
     x_a_972   c1777                          24
+    x_a_973   obj1                            1
     x_a_973   c1778                          48
+    x_a_974   obj1                            1
     x_a_974   c1779                          12
+    x_a_975   obj1                            1
     x_a_975   c1780                          26
+    x_a_976   obj1                            1
     x_a_976   c1781                           9
+    x_a_977   obj1                            1
     x_a_977   c1782                           7
+    x_a_978   obj1                            1
     x_a_978   c1783                          45
+    x_a_979   obj1                            1
     x_a_979   c1784                          28
+    x_a_980   obj1                            1
     x_a_980   c1785                          31
+    x_a_981   obj1                            1
     x_a_981   c1786                          29
+    x_a_982   obj1                            1
     x_a_982   c1787                          43
+    x_a_983   obj1                            1
     x_a_983   c1788                          35
+    x_a_984   obj1                            1
     x_a_984   c1789                          40
+    x_a_985   obj1                            1
     x_a_985   c1790                           3
+    x_a_986   obj1                            1
     x_a_986   c1791                          12
+    x_a_987   obj1                            1
     x_a_987   c1792                          32
+    x_a_988   obj1                            1
     x_a_988   c1793                          49
+    x_a_989   obj1                            1
     x_a_989   c1794                          40
+    x_a_990   obj1                            1
     x_a_990   c1795                          49
+    x_a_991   obj1                            1
     x_a_991   c1796                          34
+    x_a_992   obj1                            1
     x_a_992   c1797                          47
+    x_a_993   obj1                            1
     x_a_993   c1798                          42
+    x_a_994   obj1                            1
     x_a_994   c1799                          44
+    x_a_995   obj1                            1
     x_a_995   c1800                          47
+    x_a_996   obj1                            1
     x_a_996   c1801                          33
+    x_a_997   obj1                            1
     x_a_997   c1802                          17
+    x_a_998   obj1                            1
     x_a_998   c1803                          25
+    x_a_999   obj1                            1
     x_a_999   c1804                          44
+    x_a_1000  obj1                            1
     x_a_1000  c1805                          17
+    x_a_1001  obj1                            1
     x_a_1001  c1806                           1
+    x_a_1002  obj1                            1
     x_a_1002  c1807                          10
+    x_a_1003  obj1                            1
     x_a_1003  c1808                          36
+    x_a_1004  obj1                            1
     x_a_1004  c1809                          25
+    x_a_1005  obj1                            1
     x_a_1005  c1810                          38
+    x_a_1006  obj1                            1
     x_a_1006  c1811                          16
+    x_a_1007  obj1                            1
     x_a_1007  c1812                          38
+    x_a_1008  obj1                            1
     x_a_1008  c1813                           8
+    x_a_1009  obj1                            1
     x_a_1009  c1814                           8
+    x_a_1010  obj1                            1
     x_a_1010  c1815                          14
+    x_a_1011  obj1                            1
     x_a_1011  c1816                          29
+    x_a_1012  obj1                            1
     x_a_1012  c1817                          23
+    x_a_1013  obj1                            1
     x_a_1013  c1818                          16
+    x_a_1014  obj1                            1
     x_a_1014  c1819                          34
+    x_a_1015  obj1                            1
     x_a_1015  c1820                           1
+    x_a_1016  obj1                            1
     x_a_1016  c1821                           9
+    x_a_1017  obj1                            1
     x_a_1017  c1822                          47
+    x_a_1018  obj1                            1
     x_a_1018  c1823                          47
+    x_a_1019  obj1                            1
     x_a_1019  c1824                          11
+    x_a_1020  obj1                            1
     x_a_1020  c1825                          43
+    x_a_1021  obj1                            1
     x_a_1021  c1826                          32
+    x_a_1022  obj1                            1
     x_a_1022  c1827                           5
+    x_a_1023  obj1                            1
     x_a_1023  c1828                          40
+    x_a_1024  obj1                            1
     x_a_1024  c1829                          24
+    x_a_1025  obj1                            1
     x_a_1025  c1830                          10
+    x_a_1026  obj1                            1
     x_a_1026  c1831                          32
+    x_a_1027  obj1                            1
     x_a_1027  c1832                          44
+    x_a_1028  obj1                            1
     x_a_1028  c1833                          26
+    x_a_1029  obj1                            1
     x_a_1029  c1834                          27
+    x_a_1030  obj1                            1
     x_a_1030  c1835                           2
+    x_a_1031  obj1                            1
     x_a_1031  c1836                          44
+    x_a_1032  obj1                            1
     x_a_1032  c1837                          14
+    x_a_1033  obj1                            1
     x_a_1033  c1838                          37
+    x_a_1034  obj1                            1
     x_a_1034  c1839                           5
+    x_a_1035  obj1                            1
     x_a_1035  c1840                           9
+    x_a_1036  obj1                            1
     x_a_1036  c1841                          38
+    x_a_1037  obj1                            1
     x_a_1037  c1842                           6
+    x_a_1038  obj1                            1
     x_a_1038  c1843                           3
+    x_a_1039  obj1                            1
     x_a_1039  c1844                          49
+    x_a_1040  obj1                            1
     x_a_1040  c1845                          19
+    x_a_1041  obj1                            1
     x_a_1041  c1846                           4
+    x_a_1042  obj1                            1
     x_a_1042  c1847                           8
+    x_a_1043  obj1                            1
     x_a_1043  c1848                          49
+    x_a_1044  obj1                            1
     x_a_1044  c1849                          34
+    x_a_1045  obj1                            1
     x_a_1045  c1850                          10
+    x_a_1046  obj1                            1
     x_a_1046  c1851                          14
+    x_a_1047  obj1                            1
     x_a_1047  c1852                          46
+    x_a_1048  obj1                            1
     x_a_1048  c1853                          28
+    x_a_1049  obj1                            1
     x_a_1049  c1854                          25
+    x_a_1050  obj1                            1
     x_a_1050  c1855                           3
+    x_a_1051  obj1                            1
     x_a_1051  c1856                          45
+    x_a_1052  obj1                            1
     x_a_1052  c1857                          46
+    x_a_1053  obj1                            1
     x_a_1053  c1858                          28
+    x_a_1054  obj1                            1
     x_a_1054  c1859                           6
+    x_a_1055  obj1                            1
     x_a_1055  c1860                          10
+    x_a_1056  obj1                            1
     x_a_1056  c1861                          18
+    x_a_1057  obj1                            1
     x_a_1057  c1862                          27
+    x_a_1058  obj1                            1
     x_a_1058  c1863                           3
+    x_a_1059  obj1                            1
     x_a_1059  c1864                           3
+    x_a_1060  obj1                            1
     x_a_1060  c1865                           5
+    x_a_1061  obj1                            1
     x_a_1061  c1866                          46
+    x_a_1062  obj1                            1
     x_a_1062  c1867                          40
+    x_a_1063  obj1                            1
     x_a_1063  c1868                           1
+    x_a_1064  obj1                            1
     x_a_1064  c1869                          28
+    x_a_1065  obj1                            1
     x_a_1065  c1870                          36
+    x_a_1066  obj1                            1
     x_a_1066  c1871                          11
+    x_a_1067  obj1                            1
     x_a_1067  c1872                          29
+    x_a_1068  obj1                            1
     x_a_1068  c1873                          33
+    x_a_1069  obj1                            1
     x_a_1069  c1874                          42
+    x_a_1070  obj1                            1
     x_a_1070  c1875                          11
+    x_a_1071  obj1                            1
     x_a_1071  c1876                          11
+    x_a_1072  obj1                            1
     x_a_1072  c1877                           2
+    x_a_1073  obj1                            1
     x_a_1073  c1878                          45
+    x_a_1074  obj1                            1
     x_a_1074  c1879                          40
+    x_a_1075  obj1                            1
     x_a_1075  c1880                           5
+    x_a_1076  obj1                            1
     x_a_1076  c1881                          33
+    x_a_1077  obj1                            1
     x_a_1077  c1882                          10
+    x_a_1078  obj1                            1
     x_a_1078  c1883                          44
+    x_a_1079  obj1                            1
     x_a_1079  c1884                           7
+    x_a_1080  obj1                            1
     x_a_1080  c1885                          44
+    x_a_1081  obj1                            1
     x_a_1081  c1886                          48
+    x_a_1082  obj1                            1
     x_a_1082  c1887                          18
+    x_a_1083  obj1                            1
     x_a_1083  c1888                          27
+    x_a_1084  obj1                            1
     x_a_1084  c1889                          34
+    x_a_1085  obj1                            1
     x_a_1085  c1890                          24
+    x_a_1086  obj1                            1
     x_a_1086  c1891                          12
+    x_a_1087  obj1                            1
     x_a_1087  c1892                          42
+    x_a_1088  obj1                            1
     x_a_1088  c1893                          10
+    x_a_1089  obj1                            1
     x_a_1089  c1894                          17
+    x_a_1090  obj1                            1
     x_a_1090  c1895                          34
+    x_a_1091  obj1                            1
     x_a_1091  c1896                          43
+    x_a_1092  obj1                            1
     x_a_1092  c1897                           2
+    x_a_1093  obj1                            1
     x_a_1093  c1898                          21
+    x_a_1094  obj1                            1
     x_a_1094  c1899                          21
+    x_a_1095  obj1                            1
     x_a_1095  c1900                           5
+    x_a_1096  obj1                            1
     x_a_1096  c1901                          10
+    x_a_1097  obj1                            1
     x_a_1097  c1902                          48
+    x_a_1098  obj1                            1
     x_a_1098  c1903                          11
+    x_a_1099  obj1                            1
     x_a_1099  c1904                          46
+    x_a_1100  obj1                            1
     x_a_1100  c1905                           6
+    x_a_1101  obj1                            1
     x_a_1101  c1906                          32
+    x_a_1102  obj1                            1
     x_a_1102  c1907                          22
+    x_a_1103  obj1                            1
     x_a_1103  c1908                          29
+    x_a_1104  obj1                            1
     x_a_1104  c1909                          30
+    x_a_1105  obj1                            1
     x_a_1105  c1910                          13
+    x_a_1106  obj1                            1
     x_a_1106  c1911                          29
+    x_a_1107  obj1                            1
     x_a_1107  c1912                          30
+    x_a_1108  obj1                            1
     x_a_1108  c1913                           6
+    x_a_1109  obj1                            1
     x_a_1109  c1914                           6
+    x_a_1110  obj1                            1
     x_a_1110  c1915                          15
+    x_a_1111  obj1                            1
     x_a_1111  c1916                           6
+    x_a_1112  obj1                            1
     x_a_1112  c1917                          38
+    x_a_1113  obj1                            1
     x_a_1113  c1918                          20
+    x_a_1114  obj1                            1
     x_a_1114  c1919                           5
+    x_a_1115  obj1                            1
     x_a_1115  c1920                          17
+    x_a_1116  obj1                            1
     x_a_1116  c1921                          40
+    x_a_1117  obj1                            1
     x_a_1117  c1922                          38
+    x_a_1118  obj1                            1
     x_a_1118  c1923                           8
+    x_a_1119  obj1                            1
     x_a_1119  c1924                           5
+    x_a_1120  obj1                            1
     x_a_1120  c1925                          43
+    x_a_1121  obj1                            1
     x_a_1121  c1926                          11
+    x_a_1122  obj1                            1
     x_a_1122  c1927                          28
+    x_a_1123  obj1                            1
     x_a_1123  c1928                          21
+    x_a_1124  obj1                            1
     x_a_1124  c1929                           1
+    x_a_1125  obj1                            1
     x_a_1125  c1930                          39
+    x_a_1126  obj1                            1
     x_a_1126  c1931                          14
+    x_a_1127  obj1                            1
     x_a_1127  c1932                          29
+    x_a_1128  obj1                            1
     x_a_1128  c1933                          40
+    x_a_1129  obj1                            1
     x_a_1129  c1934                           7
+    x_a_1130  obj1                            1
     x_a_1130  c1935                          48
+    x_a_1131  obj1                            1
     x_a_1131  c1936                          28
+    x_a_1132  obj1                            1
     x_a_1132  c1937                          47
+    x_a_1133  obj1                            1
     x_a_1133  c1938                          45
+    x_a_1134  obj1                            1
     x_a_1134  c1939                          38
+    x_a_1135  obj1                            1
     x_a_1135  c1940                          14
+    x_a_1136  obj1                            1
     x_a_1136  c1941                          47
+    x_a_1137  obj1                            1
     x_a_1137  c1942                          48
+    x_a_1138  obj1                            1
     x_a_1138  c1943                          30
+    x_a_1139  obj1                            1
     x_a_1139  c1944                          38
+    x_a_1140  obj1                            1
     x_a_1140  c1945                          31
+    x_a_1141  obj1                            1
     x_a_1141  c1946                           5
+    x_a_1142  obj1                            1
     x_a_1142  c1947                          26
+    x_a_1143  obj1                            1
     x_a_1143  c1948                          24
+    x_a_1144  obj1                            1
     x_a_1144  c1949                          18
+    x_a_1145  obj1                            1
     x_a_1145  c1950                          47
+    x_a_1146  obj1                            1
     x_a_1146  c1951                          25
+    x_a_1147  obj1                            1
     x_a_1147  c1952                          24
+    x_a_1148  obj1                            1
     x_a_1148  c1953                          40
+    x_a_1149  obj1                            1
     x_a_1149  c1954                          25
+    x_a_1150  obj1                            1
     x_a_1150  c1955                          49
+    x_a_1151  obj1                            1
     x_a_1151  c1956                          19
+    x_a_1152  obj1                            1
     x_a_1152  c1957                          39
+    x_a_1153  obj1                            1
     x_a_1153  c1958                          42
+    x_a_1154  obj1                            1
     x_a_1154  c1959                          43
+    x_a_1155  obj1                            1
     x_a_1155  c1960                          33
+    x_a_1156  obj1                            1
     x_a_1156  c1961                          24
+    x_a_1157  obj1                            1
     x_a_1157  c1962                          17
+    x_a_1158  obj1                            1
     x_a_1158  c1963                          26
+    x_a_1159  obj1                            1
     x_a_1159  c1964                           6
+    x_a_1160  obj1                            1
     x_a_1160  c1965                          37
+    x_a_1161  obj1                            1
     x_a_1161  c1966                           1
+    x_a_1162  obj1                            1
     x_a_1162  c1967                          20
+    x_a_1163  obj1                            1
     x_a_1163  c1968                          49
+    x_a_1164  obj1                            1
     x_a_1164  c1969                          39
+    x_a_1165  obj1                            1
     x_a_1165  c1970                           7
+    x_a_1166  obj1                            1
     x_a_1166  c1971                          28
+    x_a_1167  obj1                            1
     x_a_1167  c1972                          19
+    x_a_1168  obj1                            1
     x_a_1168  c1973                          28
+    x_a_1169  obj1                            1
     x_a_1169  c1974                          16
+    x_a_1170  obj1                            1
     x_a_1170  c1975                          29
+    x_a_1171  obj1                            1
     x_a_1171  c1976                          32
+    x_a_1172  obj1                            1
     x_a_1172  c1977                          22
+    x_a_1173  obj1                            1
     x_a_1173  c1978                          26
+    x_a_1174  obj1                            1
     x_a_1174  c1979                          40
+    x_a_1175  obj1                            1
     x_a_1175  c1980                          26
+    x_a_1176  obj1                            1
     x_a_1176  c1981                          42
+    x_a_1177  obj1                            1
     x_a_1177  c1982                          27
+    x_a_1178  obj1                            1
     x_a_1178  c1983                          44
+    x_a_1179  obj1                            1
     x_a_1179  c1984                           3
+    x_a_1180  obj1                            1
     x_a_1180  c1985                          39
+    x_a_1181  obj1                            1
     x_a_1181  c1986                          33
+    x_a_1182  obj1                            1
     x_a_1182  c1987                           7
+    x_a_1183  obj1                            1
     x_a_1183  c1988                          26
+    x_a_1184  obj1                            1
     x_a_1184  c1989                           8
+    x_a_1185  obj1                            1
     x_a_1185  c1990                           5
+    x_a_1186  obj1                            1
     x_a_1186  c1991                          48
+    x_a_1187  obj1                            1
     x_a_1187  c1992                          41
+    x_a_1188  obj1                            1
     x_a_1188  c1993                          26
+    x_a_1189  obj1                            1
     x_a_1189  c1994                          38
+    x_a_1190  obj1                            1
     x_a_1190  c1995                           1
+    x_a_1191  obj1                            1
     x_a_1191  c1996                           8
+    x_a_1192  obj1                            1
     x_a_1192  c1997                          32
+    x_a_1193  obj1                            1
     x_a_1193  c1998                          15
+    x_a_1194  obj1                            1
     x_a_1194  c1999                          23
+    x_a_1195  obj1                            1
     x_a_1195  c2000                          41
+    x_a_1196  obj1                            1
     x_a_1196  c2001                          39
+    x_a_1197  obj1                            1
     x_a_1197  c2002                          15
+    x_a_1198  obj1                            1
     x_a_1198  c2003                          29
+    x_a_1199  obj1                            1
     x_a_1199  c2004                          13
+    x_a_1200  obj1                            1
     x_a_1200  c2005                           2
+    x_a_1201  obj1                            1
     x_a_1201  c2006                           8
+    x_a_1202  obj1                            1
     x_a_1202  c2007                           4
+    x_a_1203  obj1                            1
     x_a_1203  c2008                          29
+    x_a_1204  obj1                            1
     x_a_1204  c2009                          26
+    x_a_1205  obj1                            1
     x_a_1205  c2010                           2
+    x_a_1206  obj1                            1
     x_a_1206  c2011                          35
+    x_a_1207  obj1                            1
     x_a_1207  c2012                           7
+    x_a_1208  obj1                            1
     x_a_1208  c2013                          45
+    x_a_1209  obj1                            1
     x_a_1209  c2014                          27
+    x_a_1210  obj1                            1
     x_a_1210  c2015                          37
+    x_a_1211  obj1                            1
     x_a_1211  c2016                           1
+    x_a_1212  obj1                            1
     x_a_1212  c2017                          31
+    x_a_1213  obj1                            1
     x_a_1213  c2018                          47
+    x_a_1214  obj1                            1
     x_a_1214  c2019                          27
+    x_a_1215  obj1                            1
     x_a_1215  c2020                           5
+    x_a_1216  obj1                            1
     x_a_1216  c2021                          29
+    x_a_1217  obj1                            1
     x_a_1217  c2022                          23
+    x_a_1218  obj1                            1
     x_a_1218  c2023                          31
+    x_a_1219  obj1                            1
     x_a_1219  c2024                           8
+    x_a_1220  obj1                            1
     x_a_1220  c2025                          48
+    x_a_1221  obj1                            1
     x_a_1221  c2026                          23
+    x_a_1222  obj1                            1
     x_a_1222  c2027                          29
+    x_a_1223  obj1                            1
     x_a_1223  c2028                          48
+    x_a_1224  obj1                            1
     x_a_1224  c2029                          47
+    x_a_1225  obj1                            1
     x_a_1225  c2030                          23
+    x_a_1226  obj1                            1
     x_a_1226  c2031                          30
+    x_a_1227  obj1                            1
     x_a_1227  c2032                           3
+    x_a_1228  obj1                            1
     x_a_1228  c2033                           4
+    x_a_1229  obj1                            1
     x_a_1229  c2034                          35
+    x_a_1230  obj1                            1
     x_a_1230  c2035                          17
+    x_a_1231  obj1                            1
     x_a_1231  c2036                           3
+    x_a_1232  obj1                            1
     x_a_1232  c2037                          38
+    x_a_1233  obj1                            1
     x_a_1233  c2038                          27
+    x_a_1234  obj1                            1
     x_a_1234  c2039                          36
+    x_a_1235  obj1                            1
     x_a_1235  c2040                           5
+    x_a_1236  obj1                            1
     x_a_1236  c2041                          36
+    x_a_1237  obj1                            1
     x_a_1237  c2042                          42
+    x_a_1238  obj1                            1
     x_a_1238  c2043                          25
+    x_a_1239  obj1                            1
     x_a_1239  c2044                          37
+    x_a_1240  obj1                            1
     x_a_1240  c2045                          27
+    x_a_1241  obj1                            1
     x_a_1241  c2046                           5
+    x_a_1242  obj1                            1
     x_a_1242  c2047                          15
+    x_a_1243  obj1                            1
     x_a_1243  c2048                          34
+    x_a_1244  obj1                            1
     x_a_1244  c2049                          11
+    x_a_1245  obj1                            1
     x_a_1245  c2050                          26
+    x_a_1246  obj1                            1
     x_a_1246  c2051                           8
+    x_a_1247  obj1                            1
     x_a_1247  c2052                          48
+    x_a_1248  obj1                            1
     x_a_1248  c2053                           3
+    x_a_1249  obj1                            1
     x_a_1249  c2054                          36
+    x_a_1250  obj1                            1
     x_a_1250  c2055                          29
+    x_a_1251  obj1                            1
     x_a_1251  c2056                          34
+    x_a_1252  obj1                            1
     x_a_1252  c2057                          44
+    x_a_1253  obj1                            1
     x_a_1253  c2058                          42
+    x_a_1254  obj1                            1
     x_a_1254  c2059                          34
+    x_a_1255  obj1                            1
     x_a_1255  c2060                          39
+    x_a_1256  obj1                            1
     x_a_1256  c2061                          47
+    x_a_1257  obj1                            1
     x_a_1257  c2062                           1
+    x_a_1258  obj1                            1
     x_a_1258  c2063                           8
+    x_a_1259  obj1                            1
     x_a_1259  c2064                          22
+    x_a_1260  obj1                            1
     x_a_1260  c2065                           1
+    x_a_1261  obj1                            1
     x_a_1261  c2066                          46
+    x_a_1262  obj1                            1
     x_a_1262  c2067                          32
+    x_a_1263  obj1                            1
     x_a_1263  c2068                          19
+    x_a_1264  obj1                            1
     x_a_1264  c2069                          49
+    x_a_1265  obj1                            1
     x_a_1265  c2070                          21
+    x_a_1266  obj1                            1
     x_a_1266  c2071                           2
+    x_a_1267  obj1                            1
     x_a_1267  c2072                          45
+    x_a_1268  obj1                            1
     x_a_1268  c2073                          21
+    x_a_1269  obj1                            1
     x_a_1269  c2074                          15
+    x_a_1270  obj1                            1
     x_a_1270  c2075                          47
+    x_a_1271  obj1                            1
     x_a_1271  c2076                          39
+    x_a_1272  obj1                            1
     x_a_1272  c2077                           5
+    x_a_1273  obj1                            1
     x_a_1273  c2078                          12
+    x_a_1274  obj1                            1
     x_a_1274  c2079                           2
+    x_a_1275  obj1                            1
     x_a_1275  c2080                          15
+    x_a_1276  obj1                            1
     x_a_1276  c2081                           7
+    x_a_1277  obj1                            1
     x_a_1277  c2082                           8
+    x_a_1278  obj1                            1
     x_a_1278  c2083                          34
+    x_a_1279  obj1                            1
     x_a_1279  c2084                          15
+    x_a_1280  obj1                            1
     x_a_1280  c2085                          45
+    x_a_1281  obj1                            1
     x_a_1281  c2086                          41
+    x_a_1282  obj1                            1
     x_a_1282  c2087                          13
+    x_a_1283  obj1                            1
     x_a_1283  c2088                          30
+    x_a_1284  obj1                            1
     x_a_1284  c2089                           7
+    x_a_1285  obj1                            1
     x_a_1285  c2090                           8
+    x_a_1286  obj1                            1
     x_a_1286  c2091                           4
+    x_a_1287  obj1                            1
     x_a_1287  c2092                          18
+    x_a_1288  obj1                            1
     x_a_1288  c2093                          45
+    x_a_1289  obj1                            1
     x_a_1289  c2094                          48
+    x_a_1290  obj1                            1
     x_a_1290  c2095                          16
+    x_a_1291  obj1                            1
     x_a_1291  c2096                          20
+    x_a_1292  obj1                            1
     x_a_1292  c2097                           3
+    x_a_1293  obj1                            1
     x_a_1293  c2098                           4
+    x_a_1294  obj1                            1
     x_a_1294  c2099                          31
+    x_a_1295  obj1                            1
     x_a_1295  c2100                          22
+    x_a_1296  obj1                            1
     x_a_1296  c2101                           5
+    x_a_1297  obj1                            1
     x_a_1297  c2102                          39
+    x_a_1298  obj1                            1
     x_a_1298  c2103                           6
+    x_a_1299  obj1                            1
     x_a_1299  c2104                           9
+    x_a_1300  obj1                            1
     x_a_1300  c2105                          12
+    x_a_1301  obj1                            1
     x_a_1301  c2106                          35
+    x_a_1302  obj1                            1
     x_a_1302  c2107                           5
+    x_a_1303  obj1                            1
     x_a_1303  c2108                          10
+    x_a_1304  obj1                            1
     x_a_1304  c2109                          32
+    x_a_1305  obj1                            1
     x_a_1305  c2110                          31
+    x_a_1306  obj1                            1
     x_a_1306  c2111                          41
+    x_a_1307  obj1                            1
     x_a_1307  c2112                          44
+    x_a_1308  obj1                            1
     x_a_1308  c2113                          21
+    x_a_1309  obj1                            1
     x_a_1309  c2114                          34
+    x_a_1310  obj1                            1
     x_a_1310  c2115                          30
+    x_a_1311  obj1                            1
     x_a_1311  c2116                          31
+    x_a_1312  obj1                            1
     x_a_1312  c2117                          17
+    x_a_1313  obj1                            1
     x_a_1313  c2118                           4
+    x_a_1314  obj1                            1
     x_a_1314  c2119                          39
+    x_a_1315  obj1                            1
     x_a_1315  c2120                          24
+    x_a_1316  obj1                            1
     x_a_1316  c2121                          16
+    x_a_1317  obj1                            1
     x_a_1317  c2122                          15
+    x_a_1318  obj1                            1
     x_a_1318  c2123                          43
+    x_a_1319  obj1                            1
     x_a_1319  c2124                          27
+    x_a_1320  obj1                            1
     x_a_1320  c2125                          27
+    x_a_1321  obj1                            1
     x_a_1321  c2126                          29
+    x_a_1322  obj1                            1
     x_a_1322  c2127                           9
+    x_a_1323  obj1                            1
     x_a_1323  c2128                          43
+    x_a_1324  obj1                            1
     x_a_1324  c2129                          31
+    x_a_1325  obj1                            1
     x_a_1325  c2130                          16
+    x_a_1326  obj1                            1
     x_a_1326  c2131                          30
+    x_a_1327  obj1                            1
     x_a_1327  c2132                          13
+    x_a_1328  obj1                            1
     x_a_1328  c2133                          47
+    x_a_1329  obj1                            1
     x_a_1329  c2134                          41
+    x_a_1330  obj1                            1
     x_a_1330  c2135                          46
+    x_a_1331  obj1                            1
     x_a_1331  c2136                           8
+    x_a_1332  obj1                            1
     x_a_1332  c2137                           2
+    x_a_1333  obj1                            1
     x_a_1333  c2138                          19
+    x_a_1334  obj1                            1
     x_a_1334  c2139                          24
+    x_a_1335  obj1                            1
     x_a_1335  c2140                          13
+    x_a_1336  obj1                            1
     x_a_1336  c2141                          22
+    x_a_1337  obj1                            1
     x_a_1337  c2142                          18
+    x_a_1338  obj1                            1
     x_a_1338  c2143                           3
+    x_a_1339  obj1                            1
     x_a_1339  c2144                          19
+    x_a_1340  obj1                            1
     x_a_1340  c2145                          34
+    x_a_1341  obj1                            1
     x_a_1341  c2146                          26
+    x_a_1342  obj1                            1
     x_a_1342  c2147                          14
+    x_a_1343  obj1                            1
     x_a_1343  c2148                          14
+    x_a_1344  obj1                            1
     x_a_1344  c2149                          46
+    x_a_1345  obj1                            1
     x_a_1345  c2150                          23
+    x_a_1346  obj1                            1
     x_a_1346  c2151                          13
+    x_a_1347  obj1                            1
     x_a_1347  c2152                           7
+    x_a_1348  obj1                            1
     x_a_1348  c2153                          47
+    x_a_1349  obj1                            1
     x_a_1349  c2154                           4
+    x_a_1350  obj1                            1
     x_a_1350  c2155                          44
+    x_a_1351  obj1                            1
     x_a_1351  c2156                          15
+    x_a_1352  obj1                            1
     x_a_1352  c2157                          33
+    x_a_1353  obj1                            1
     x_a_1353  c2158                          17
+    x_a_1354  obj1                            1
     x_a_1354  c2159                          48
+    x_a_1355  obj1                            1
     x_a_1355  c2160                          29
+    x_a_1356  obj1                            1
     x_a_1356  c2161                          19
+    x_a_1357  obj1                            1
     x_a_1357  c2162                          30
+    x_a_1358  obj1                            1
     x_a_1358  c2163                          31
+    x_a_1359  obj1                            1
     x_a_1359  c2164                           7
+    x_a_1360  obj1                            1
     x_a_1360  c2165                          39
+    x_a_1361  obj1                            1
     x_a_1361  c2166                          29
+    x_a_1362  obj1                            1
     x_a_1362  c2167                          30
+    x_a_1363  obj1                            1
     x_a_1363  c2168                          43
+    x_a_1364  obj1                            1
     x_a_1364  c2169                          14
+    x_a_1365  obj1                            1
     x_a_1365  c2170                          48
+    x_a_1366  obj1                            1
     x_a_1366  c2171                          29
+    x_a_1367  obj1                            1
     x_a_1367  c2172                          34
+    x_a_1368  obj1                            1
     x_a_1368  c2173                          42
+    x_a_1369  obj1                            1
     x_a_1369  c2174                           4
+    x_a_1370  obj1                            1
     x_a_1370  c2175                          48
+    x_a_1371  obj1                            1
     x_a_1371  c2176                          46
+    x_a_1372  obj1                            1
     x_a_1372  c2177                          24
+    x_a_1373  obj1                            1
     x_a_1373  c2178                          33
+    x_a_1374  obj1                            1
     x_a_1374  c2179                          26
+    x_a_1375  obj1                            1
     x_a_1375  c2180                           2
+    x_a_1376  obj1                            1
     x_a_1376  c2181                          26
+    x_a_1377  obj1                            1
     x_a_1377  c2182                          24
+    x_a_1378  obj1                            1
     x_a_1378  c2183                          13
+    x_a_1379  obj1                            1
     x_a_1379  c2184                          19
+    x_a_1380  obj1                            1
     x_a_1380  c2185                          39
+    x_a_1381  obj1                            1
     x_a_1381  c2186                          30
+    x_a_1382  obj1                            1
     x_a_1382  c2187                          10
+    x_a_1383  obj1                            1
     x_a_1383  c2188                          46
+    x_a_1384  obj1                            1
     x_a_1384  c2189                           6
+    x_a_1385  obj1                            1
     x_a_1385  c2190                           5
+    x_a_1386  obj1                            1
     x_a_1386  c2191                          36
+    x_a_1387  obj1                            1
     x_a_1387  c2192                          28
+    x_a_1388  obj1                            1
     x_a_1388  c2193                          30
+    x_a_1389  obj1                            1
     x_a_1389  c2194                          32
+    x_a_1390  obj1                            1
     x_a_1390  c2195                          48
+    x_a_1391  obj1                            1
     x_a_1391  c2196                          24
+    x_a_1392  obj1                            1
     x_a_1392  c2197                           7
+    x_a_1393  obj1                            1
     x_a_1393  c2198                          32
+    x_a_1394  obj1                            1
     x_a_1394  c2199                           5
+    x_a_1395  obj1                            1
     x_a_1395  c2200                          12
+    x_a_1396  obj1                            1
     x_a_1396  c2201                          25
+    x_a_1397  obj1                            1
     x_a_1397  c2202                           2
+    x_a_1398  obj1                            1
     x_a_1398  c2203                          22
+    x_a_1399  obj1                            1
     x_a_1399  c2204                          48
+    x_a_1400  obj1                            1
     x_a_1400  c2205                          12
+    x_a_1401  obj1                            1
     x_a_1401  c2206                          12
+    x_a_1402  obj1                            1
     x_a_1402  c2207                          28
+    x_a_1403  obj1                            1
     x_a_1403  c2208                          30
+    x_a_1404  obj1                            1
     x_a_1404  c2209                          40
+    x_a_1405  obj1                            1
     x_a_1405  c2210                          33
+    x_a_1406  obj1                            1
     x_a_1406  c2211                          16
+    x_a_1407  obj1                            1
     x_a_1407  c2212                          47
+    x_a_1408  obj1                            1
     x_a_1408  c2213                          19
+    x_a_1409  obj1                            1
     x_a_1409  c2214                          41
+    x_a_1410  obj1                            1
     x_a_1410  c2215                          31
+    x_a_1411  obj1                            1
     x_a_1411  c2216                          16
+    x_a_1412  obj1                            1
     x_a_1412  c2217                          28
+    x_a_1413  obj1                            1
     x_a_1413  c2218                           4
+    x_a_1414  obj1                            1
     x_a_1414  c2219                          40
+    x_a_1415  obj1                            1
     x_a_1415  c2220                          25
+    x_a_1416  obj1                            1
     x_a_1416  c2221                          48
+    x_a_1417  obj1                            1
     x_a_1417  c2222                          30
+    x_a_1418  obj1                            1
     x_a_1418  c2223                           3
+    x_a_1419  obj1                            1
     x_a_1419  c2224                          42
+    x_a_1420  obj1                            1
     x_a_1420  c2225                          49
+    x_a_1421  obj1                            1
     x_a_1421  c2226                          13
+    x_a_1422  obj1                            1
     x_a_1422  c2227                           4
+    x_a_1423  obj1                            1
     x_a_1423  c2228                          42
+    x_a_1424  obj1                            1
     x_a_1424  c2229                           4
+    x_a_1425  obj1                            1
     x_a_1425  c2230                           9
+    x_a_1426  obj1                            1
     x_a_1426  c2231                           3
+    x_a_1427  obj1                            1
     x_a_1427  c2232                          19
+    x_a_1428  obj1                            1
     x_a_1428  c2233                           2
+    x_a_1429  obj1                            1
     x_a_1429  c2234                          40
+    x_a_1430  obj1                            1
     x_a_1430  c2235                          29
+    x_a_1431  obj1                            1
     x_a_1431  c2236                          46
+    x_a_1432  obj1                            1
     x_a_1432  c2237                          22
+    x_a_1433  obj1                            1
     x_a_1433  c2238                          41
+    x_a_1434  obj1                            1
     x_a_1434  c2239                          18
+    x_a_1435  obj1                            1
     x_a_1435  c2240                           9
+    x_a_1436  obj1                            1
     x_a_1436  c2241                           2
+    x_a_1437  obj1                            1
     x_a_1437  c2242                           6
+    x_a_1438  obj1                            1
     x_a_1438  c2243                          39
+    x_a_1439  obj1                            1
     x_a_1439  c2244                          30
+    x_a_1440  obj1                            1
     x_a_1440  c2245                          27
+    x_a_1441  obj1                            1
     x_a_1441  c2246                          37
+    x_a_1442  obj1                            1
     x_a_1442  c2247                          18
+    x_a_1443  obj1                            1
     x_a_1443  c2248                          34
+    x_a_1444  obj1                            1
     x_a_1444  c2249                          38
+    x_a_1445  obj1                            1
     x_a_1445  c2250                          29
+    x_a_1446  obj1                            1
     x_a_1446  c2251                          40
+    x_a_1447  obj1                            1
     x_a_1447  c2252                          28
+    x_a_1448  obj1                            1
     x_a_1448  c2253                          45
+    x_a_1449  obj1                            1
     x_a_1449  c2254                          12
+    x_a_1450  obj1                            1
     x_a_1450  c2255                          11
+    x_a_1451  obj1                            1
     x_a_1451  c2256                          23
+    x_a_1452  obj1                            1
     x_a_1452  c2257                          29
+    x_a_1453  obj1                            1
     x_a_1453  c2258                          36
+    x_a_1454  obj1                            1
     x_a_1454  c2259                          26
+    x_a_1455  obj1                            1
     x_a_1455  c2260                           8
+    x_a_1456  obj1                            1
     x_a_1456  c2261                          37
+    x_a_1457  obj1                            1
     x_a_1457  c2262                          15
+    x_a_1458  obj1                            1
     x_a_1458  c2263                           2
+    x_a_1459  obj1                            1
     x_a_1459  c2264                           7
+    x_a_1460  obj1                            1
     x_a_1460  c2265                           7
+    x_a_1461  obj1                            1
     x_a_1461  c2266                          16
+    x_a_1462  obj1                            1
     x_a_1462  c2267                          12
+    x_a_1463  obj1                            1
     x_a_1463  c2268                          28
+    x_a_1464  obj1                            1
     x_a_1464  c2269                          13
+    x_a_1465  obj1                            1
     x_a_1465  c2270                           6
+    x_a_1466  obj1                            1
     x_a_1466  c2271                          34
+    x_a_1467  obj1                            1
     x_a_1467  c2272                          11
+    x_a_1468  obj1                            1
     x_a_1468  c2273                          45
+    x_a_1469  obj1                            1
     x_a_1469  c2274                          15
+    x_a_1470  obj1                            1
     x_a_1470  c2275                          19
+    x_a_1471  obj1                            1
     x_a_1471  c2276                          19
+    x_a_1472  obj1                            1
     x_a_1472  c2277                          22
+    x_a_1473  obj1                            1
     x_a_1473  c2278                          17
+    x_a_1474  obj1                            1
     x_a_1474  c2279                           4
+    x_a_1475  obj1                            1
     x_a_1475  c2280                          30
+    x_a_1476  obj1                            1
     x_a_1476  c2281                          46
+    x_a_1477  obj1                            1
     x_a_1477  c2282                          19
+    x_a_1478  obj1                            1
     x_a_1478  c2283                          29
+    x_a_1479  obj1                            1
     x_a_1479  c2284                           4
+    x_a_1480  obj1                            1
     x_a_1480  c2285                           2
+    x_a_1481  obj1                            1
     x_a_1481  c2286                          46
+    x_a_1482  obj1                            1
     x_a_1482  c2287                          24
+    x_a_1483  obj1                            1
     x_a_1483  c2288                          33
+    x_a_1484  obj1                            1
     x_a_1484  c2289                           1
+    x_a_1485  obj1                            1
     x_a_1485  c2290                          36
+    x_a_1486  obj1                            1
     x_a_1486  c2291                          27
+    x_a_1487  obj1                            1
     x_a_1487  c2292                           8
+    x_a_1488  obj1                            1
     x_a_1488  c2293                           3
+    x_a_1489  obj1                            1
     x_a_1489  c2294                          24
+    x_a_1490  obj1                            1
     x_a_1490  c2295                          37
+    x_a_1491  obj1                            1
     x_a_1491  c2296                          41
+    x_a_1492  obj1                            1
     x_a_1492  c2297                           9
+    x_a_1493  obj1                            1
     x_a_1493  c2298                          33
+    x_a_1494  obj1                            1
     x_a_1494  c2299                          31
+    x_a_1495  obj1                            1
     x_a_1495  c2300                           6
+    x_a_1496  obj1                            1
     x_a_1496  c2301                          11
+    x_a_1497  obj1                            1
     x_a_1497  c2302                          38
+    x_a_1498  obj1                            1
     x_a_1498  c2303                           7
+    x_a_1499  obj1                            1
     x_a_1499  c2304                          28
+    x_a_1500  obj1                            1
     x_a_1500  c2305                          49
+    x_a_1501  obj1                            1
     x_a_1501  c2306                          46
+    x_a_1502  obj1                            1
     x_a_1502  c2307                          22
+    x_a_1503  obj1                            1
     x_a_1503  c2308                           9
+    x_a_1504  obj1                            1
     x_a_1504  c2309                          35
+    x_a_1505  obj1                            1
     x_a_1505  c2310                          10
+    x_a_1506  obj1                            1
     x_a_1506  c2311                          16
+    x_a_1507  obj1                            1
     x_a_1507  c2312                          21
+    x_a_1508  obj1                            1
     x_a_1508  c2313                          48
+    x_a_1509  obj1                            1
     x_a_1509  c2314                          16
+    x_a_1510  obj1                            1
     x_a_1510  c2315                          23
+    x_a_1511  obj1                            1
     x_a_1511  c2316                          32
+    x_a_1512  obj1                            1
     x_a_1512  c2317                          29
+    x_a_1513  obj1                            1
     x_a_1513  c2318                          24
+    x_a_1514  obj1                            1
     x_a_1514  c2319                          33
+    x_a_1515  obj1                            1
     x_a_1515  c2320                          24
+    x_a_1516  obj1                            1
     x_a_1516  c2321                          41
+    x_a_1517  obj1                            1
     x_a_1517  c2322                           6
+    x_a_1518  obj1                            1
     x_a_1518  c2323                          24
+    x_a_1519  obj1                            1
     x_a_1519  c2324                          18
+    x_a_1520  obj1                            1
     x_a_1520  c2325                          35
+    x_a_1521  obj1                            1
     x_a_1521  c2326                          24
+    x_a_1522  obj1                            1
     x_a_1522  c2327                          38
+    x_a_1523  obj1                            1
     x_a_1523  c2328                          20
+    x_a_1524  obj1                            1
     x_a_1524  c2329                          13
+    x_a_1525  obj1                            1
     x_a_1525  c2330                          31
+    x_a_1526  obj1                            1
     x_a_1526  c2331                          39
+    x_a_1527  obj1                            1
     x_a_1527  c2332                          20
+    x_a_1528  obj1                            1
     x_a_1528  c2333                          33
+    x_a_1529  obj1                            1
     x_a_1529  c2334                          12
+    x_a_1530  obj1                            1
     x_a_1530  c2335                           9
+    x_a_1531  obj1                            1
     x_a_1531  c2336                          41
+    x_a_1532  obj1                            1
     x_a_1532  c2337                           7
+    x_a_1533  obj1                            1
     x_a_1533  c2338                          20
+    x_a_1534  obj1                            1
     x_a_1534  c2339                          42
+    x_a_1535  obj1                            1
     x_a_1535  c2340                          13
+    x_a_1536  obj1                            1
     x_a_1536  c2341                          20
+    x_a_1537  obj1                            1
     x_a_1537  c2342                          19
+    x_a_1538  obj1                            1
     x_a_1538  c2343                          22
+    x_a_1539  obj1                            1
     x_a_1539  c2344                          46
+    x_a_1540  obj1                            1
     x_a_1540  c2345                          40
+    x_a_1541  obj1                            1
     x_a_1541  c2346                          26
+    x_a_1542  obj1                            1
     x_a_1542  c2347                          18
+    x_a_1543  obj1                            1
     x_a_1543  c2348                          46
+    x_a_1544  obj1                            1
     x_a_1544  c2349                          17
+    x_a_1545  obj1                            1
     x_a_1545  c2350                          42
+    x_a_1546  obj1                            1
     x_a_1546  c2351                          46
+    x_a_1547  obj1                            1
     x_a_1547  c2352                          17
+    x_a_1548  obj1                            1
     x_a_1548  c2353                          21
+    x_a_1549  obj1                            1
     x_a_1549  c2354                          20
+    x_a_1550  obj1                            1
     x_a_1550  c2355                          38
+    x_a_1551  obj1                            1
     x_a_1551  c2356                          43
+    x_a_1552  obj1                            1
     x_a_1552  c2357                          21
+    x_a_1553  obj1                            1
     x_a_1553  c2358                          11
+    x_a_1554  obj1                            1
     x_a_1554  c2359                          23
+    x_a_1555  obj1                            1
     x_a_1555  c2360                          30
+    x_a_1556  obj1                            1
     x_a_1556  c2361                          43
+    x_a_1557  obj1                            1
     x_a_1557  c2362                          19
+    x_a_1558  obj1                            1
     x_a_1558  c2363                          18
+    x_a_1559  obj1                            1
     x_a_1559  c2364                          20
+    x_a_1560  obj1                            1
     x_a_1560  c2365                           5
+    x_a_1561  obj1                            1
     x_a_1561  c2366                          14
+    x_a_1562  obj1                            1
     x_a_1562  c2367                          11
+    x_a_1563  obj1                            1
     x_a_1563  c2368                          14
+    x_a_1564  obj1                            1
     x_a_1564  c2369                          21
+    x_a_1565  obj1                            1
     x_a_1565  c2370                           8
+    x_a_1566  obj1                            1
     x_a_1566  c2371                           1
+    x_a_1567  obj1                            1
     x_a_1567  c2372                          21
+    x_a_1568  obj1                            1
     x_a_1568  c2373                          14
+    x_a_1569  obj1                            1
     x_a_1569  c2374                          28
+    x_a_1570  obj1                            1
     x_a_1570  c2375                          26
+    x_a_1571  obj1                            1
     x_a_1571  c2376                          40
+    x_a_1572  obj1                            1
     x_a_1572  c2377                          13
+    x_a_1573  obj1                            1
     x_a_1573  c2378                          16
+    x_a_1574  obj1                            1
     x_a_1574  c2379                          47
+    x_a_1575  obj1                            1
     x_a_1575  c2380                          22
+    x_a_1576  obj1                            1
     x_a_1576  c2381                          44
+    x_a_1577  obj1                            1
     x_a_1577  c2382                           2
+    x_a_1578  obj1                            1
     x_a_1578  c2383                          45
+    x_a_1579  obj1                            1
     x_a_1579  c2384                           7
+    x_a_1580  obj1                            1
     x_a_1580  c2385                          41
+    x_a_1581  obj1                            1
     x_a_1581  c2386                           4
+    x_a_1582  obj1                            1
     x_a_1582  c2387                          43
+    x_a_1583  obj1                            1
     x_a_1583  c2388                          37
+    x_a_1584  obj1                            1
     x_a_1584  c2389                          21
+    x_a_1585  obj1                            1
     x_a_1585  c2390                           8
+    x_a_1586  obj1                            1
     x_a_1586  c2391                           3
+    x_a_1587  obj1                            1
     x_a_1587  c2392                          35
+    x_a_1588  obj1                            1
     x_a_1588  c2393                          49
+    x_a_1589  obj1                            1
     x_a_1589  c2394                          35
+    x_a_1590  obj1                            1
     x_a_1590  c2395                          40
+    x_a_1591  obj1                            1
     x_a_1591  c2396                           3
+    x_a_1592  obj1                            1
     x_a_1592  c2397                          33
+    x_a_1593  obj1                            1
     x_a_1593  c2398                          42
+    x_a_1594  obj1                            1
     x_a_1594  c2399                          35
+    x_a_1595  obj1                            1
     x_a_1595  c2400                           1
+    x_a_1596  obj1                            1
     x_a_1596  c2401                           7
+    x_a_1597  obj1                            1
     x_a_1597  c2402                          10
+    x_a_1598  obj1                            1
     x_a_1598  c2403                           8
+    x_a_1599  obj1                            1
     x_a_1599  c2404                          22
+    x_a_1600  obj1                            1
     x_a_1600  c2405                          25
+    x_a_1601  obj1                            1
     x_a_1601  c2406                          20
+    x_a_1602  obj1                            1
     x_a_1602  c2407                          39
+    x_a_1603  obj1                            1
     x_a_1603  c2408                          13
+    x_a_1604  obj1                            1
     x_a_1604  c2409                          15
+    x_a_1605  obj1                            1
     x_a_1605  c2410                          21
+    x_a_1606  obj1                            1
     x_a_1606  c2411                          42
+    x_a_1607  obj1                            1
     x_a_1607  c2412                          19
+    x_a_1608  obj1                            1
     x_a_1608  c2413                          21
+    x_a_1609  obj1                            1
     x_a_1609  c2414                           2
+    x_a_1610  obj1                            1
     x_a_1610  c2415                          49
+    x_a_1611  obj1                            1
     x_a_1611  c2416                          23
+    x_a_1612  obj1                            1
     x_a_1612  c2417                          47
+    x_a_1613  obj1                            1
     x_a_1613  c2418                          22
+    x_a_1614  obj1                            1
     x_a_1614  c2419                          41
+    x_a_1615  obj1                            1
     x_a_1615  c2420                          29
+    x_a_1616  obj1                            1
     x_a_1616  c2421                          12
+    x_a_1617  obj1                            1
     x_a_1617  c2422                          41
+    x_a_1618  obj1                            1
     x_a_1618  c2423                          49
+    x_a_1619  obj1                            1
     x_a_1619  c2424                           3
+    x_a_1620  obj1                            1
     x_a_1620  c2425                          18
+    x_a_1621  obj1                            1
     x_a_1621  c2426                           7
+    x_a_1622  obj1                            1
     x_a_1622  c2427                          42
+    x_a_1623  obj1                            1
     x_a_1623  c2428                          21
+    x_a_1624  obj1                            1
     x_a_1624  c2429                           2
+    x_a_1625  obj1                            1
     x_a_1625  c2430                          12
+    x_a_1626  obj1                            1
     x_a_1626  c2431                          30
+    x_a_1627  obj1                            1
     x_a_1627  c2432                          10
+    x_a_1628  obj1                            1
     x_a_1628  c2433                          11
+    x_a_1629  obj1                            1
     x_a_1629  c2434                           7
+    x_a_1630  obj1                            1
     x_a_1630  c2435                          36
+    x_a_1631  obj1                            1
     x_a_1631  c2436                          27
+    x_a_1632  obj1                            1
     x_a_1632  c2437                          21
+    x_a_1633  obj1                            1
     x_a_1633  c2438                          11
+    x_a_1634  obj1                            1
     x_a_1634  c2439                          43
+    x_a_1635  obj1                            1
     x_a_1635  c2440                          46
+    x_a_1636  obj1                            1
     x_a_1636  c2441                          16
+    x_a_1637  obj1                            1
     x_a_1637  c2442                          20
+    x_a_1638  obj1                            1
     x_a_1638  c2443                          14
+    x_a_1639  obj1                            1
     x_a_1639  c2444                          45
+    x_a_1640  obj1                            1
     x_a_1640  c2445                          29
+    x_a_1641  obj1                            1
     x_a_1641  c2446                          47
+    x_a_1642  obj1                            1
     x_a_1642  c2447                          46
+    x_a_1643  obj1                            1
     x_a_1643  c2448                           2
+    x_a_1644  obj1                            1
     x_a_1644  c2449                           6
+    x_a_1645  obj1                            1
     x_a_1645  c2450                          30
+    x_a_1646  obj1                            1
     x_a_1646  c2451                          36
+    x_a_1647  obj1                            1
     x_a_1647  c2452                           5
+    x_a_1648  obj1                            1
     x_a_1648  c2453                          30
+    x_a_1649  obj1                            1
     x_a_1649  c2454                          29
+    x_a_1650  obj1                            1
     x_a_1650  c2455                          32
+    x_a_1651  obj1                            1
     x_a_1651  c2456                          19
+    x_a_1652  obj1                            1
     x_a_1652  c2457                          48
+    x_a_1653  obj1                            1
     x_a_1653  c2458                          34
+    x_a_1654  obj1                            1
     x_a_1654  c2459                           5
+    x_a_1655  obj1                            1
     x_a_1655  c2460                          45
+    x_a_1656  obj1                            1
     x_a_1656  c2461                          19
+    x_a_1657  obj1                            1
     x_a_1657  c2462                          14
+    x_a_1658  obj1                            1
     x_a_1658  c2463                           6
+    x_a_1659  obj1                            1
     x_a_1659  c2464                          39
+    x_a_1660  obj1                            1
     x_a_1660  c2465                          40
+    x_a_1661  obj1                            1
     x_a_1661  c2466                           7
+    x_a_1662  obj1                            1
     x_a_1662  c2467                           7
+    x_a_1663  obj1                            1
     x_a_1663  c2468                          26
+    x_a_1664  obj1                            1
     x_a_1664  c2469                          37
+    x_a_1665  obj1                            1
     x_a_1665  c2470                          43
+    x_a_1666  obj1                            1
     x_a_1666  c2471                          41
+    x_a_1667  obj1                            1
     x_a_1667  c2472                           4
+    x_a_1668  obj1                            1
     x_a_1668  c2473                          41
+    x_a_1669  obj1                            1
     x_a_1669  c2474                          18
+    x_a_1670  obj1                            1
     x_a_1670  c2475                          36
+    x_a_1671  obj1                            1
     x_a_1671  c2476                          31
+    x_a_1672  obj1                            1
     x_a_1672  c2477                          32
+    x_a_1673  obj1                            1
     x_a_1673  c2478                          28
+    x_a_1674  obj1                            1
     x_a_1674  c2479                          29
+    x_a_1675  obj1                            1
     x_a_1675  c2480                          24
+    x_a_1676  obj1                            1
     x_a_1676  c2481                          36
+    x_a_1677  obj1                            1
     x_a_1677  c2482                          37
+    x_a_1678  obj1                            1
     x_a_1678  c2483                          28
+    x_a_1679  obj1                            1
     x_a_1679  c2484                          16
+    x_a_1680  obj1                            1
     x_a_1680  c2485                          38
+    x_a_1681  obj1                            1
     x_a_1681  c2486                          30
+    x_a_1682  obj1                            1
     x_a_1682  c2487                          10
+    x_a_1683  obj1                            1
     x_a_1683  c2488                          44
+    x_a_1684  obj1                            1
     x_a_1684  c2489                          42
+    x_a_1685  obj1                            1
     x_a_1685  c2490                          27
+    x_a_1686  obj1                            1
     x_a_1686  c2491                          47
+    x_a_1687  obj1                            1
     x_a_1687  c2492                          45
+    x_a_1688  obj1                            1
     x_a_1688  c2493                          37
+    x_a_1689  obj1                            1
     x_a_1689  c2494                           6
+    x_a_1690  obj1                            1
     x_a_1690  c2495                          29
+    x_a_1691  obj1                            1
     x_a_1691  c2496                          18
+    x_a_1692  obj1                            1
     x_a_1692  c2497                           1
+    x_a_1693  obj1                            1
     x_a_1693  c2498                          24
+    x_a_1694  obj1                            1
     x_a_1694  c2499                          40
+    x_a_1695  obj1                            1
     x_a_1695  c2500                          34
+    x_a_1696  obj1                            1
     x_a_1696  c2501                          45
+    x_a_1697  obj1                            1
     x_a_1697  c2502                           1
+    x_a_1698  obj1                            1
     x_a_1698  c2503                          48
+    x_a_1699  obj1                            1
     x_a_1699  c2504                           2
+    x_a_1700  obj1                            1
     x_a_1700  c2505                          21
+    x_a_1701  obj1                            1
     x_a_1701  c2506                          42
+    x_a_1702  obj1                            1
     x_a_1702  c2507                           4
+    x_a_1703  obj1                            1
     x_a_1703  c2508                           8
+    x_a_1704  obj1                            1
     x_a_1704  c2509                           3
+    x_a_1705  obj1                            1
     x_a_1705  c2510                           2
+    x_a_1706  obj1                            1
     x_a_1706  c2511                           4
+    x_a_1707  obj1                            1
     x_a_1707  c2512                          17
+    x_a_1708  obj1                            1
     x_a_1708  c2513                           9
+    x_a_1709  obj1                            1
     x_a_1709  c2514                          28
+    x_a_1710  obj1                            1
     x_a_1710  c2515                          21
+    x_a_1711  obj1                            1
     x_a_1711  c2516                          37
+    x_a_1712  obj1                            1
     x_a_1712  c2517                          49
+    x_a_1713  obj1                            1
     x_a_1713  c2518                          15
+    x_a_1714  obj1                            1
     x_a_1714  c2519                          34
+    x_a_1715  obj1                            1
     x_a_1715  c2520                          46
+    x_a_1716  obj1                            1
     x_a_1716  c2521                           8
+    x_a_1717  obj1                            1
     x_a_1717  c2522                           8
+    x_a_1718  obj1                            1
     x_a_1718  c2523                          41
+    x_a_1719  obj1                            1
     x_a_1719  c2524                          32
+    x_a_1720  obj1                            1
     x_a_1720  c2525                          29
+    x_a_1721  obj1                            1
     x_a_1721  c2526                          46
+    x_a_1722  obj1                            1
     x_a_1722  c2527                          36
+    x_a_1723  obj1                            1
     x_a_1723  c2528                          10
+    x_a_1724  obj1                            1
     x_a_1724  c2529                           5
+    x_a_1725  obj1                            1
     x_a_1725  c2530                           1
+    x_a_1726  obj1                            1
     x_a_1726  c2531                          14
+    x_a_1727  obj1                            1
     x_a_1727  c2532                          19
+    x_a_1728  obj1                            1
     x_a_1728  c2533                          32
+    x_a_1729  obj1                            1
     x_a_1729  c2534                          19
+    x_a_1730  obj1                            1
     x_a_1730  c2535                          10
+    x_a_1731  obj1                            1
     x_a_1731  c2536                          44
+    x_a_1732  obj1                            1
     x_a_1732  c2537                          41
+    x_a_1733  obj1                            1
     x_a_1733  c2538                           5
+    x_a_1734  obj1                            1
     x_a_1734  c2539                          40
+    x_a_1735  obj1                            1
     x_a_1735  c2540                          15
+    x_a_1736  obj1                            1
     x_a_1736  c2541                          48
+    x_a_1737  obj1                            1
     x_a_1737  c2542                          40
+    x_a_1738  obj1                            1
     x_a_1738  c2543                           5
+    x_a_1739  obj1                            1
     x_a_1739  c2544                          12
+    x_a_1740  obj1                            1
     x_a_1740  c2545                           9
+    x_a_1741  obj1                            1
     x_a_1741  c2546                           4
+    x_a_1742  obj1                            1
     x_a_1742  c2547                          36
+    x_a_1743  obj1                            1
     x_a_1743  c2548                          45
+    x_a_1744  obj1                            1
     x_a_1744  c2549                          11
+    x_a_1745  obj1                            1
     x_a_1745  c2550                          34
+    x_a_1746  obj1                            1
     x_a_1746  c2551                          23
+    x_a_1747  obj1                            1
     x_a_1747  c2552                          37
+    x_a_1748  obj1                            1
     x_a_1748  c2553                          15
+    x_a_1749  obj1                            1
     x_a_1749  c2554                          31
+    x_a_1750  obj1                            1
     x_a_1750  c2555                          25
+    x_a_1751  obj1                            1
     x_a_1751  c2556                           8
+    x_a_1752  obj1                            1
     x_a_1752  c2557                          25
+    x_a_1753  obj1                            1
     x_a_1753  c2558                           1
+    x_a_1754  obj1                            1
     x_a_1754  c2559                           4
+    x_a_1755  obj1                            1
     x_a_1755  c2560                          33
+    x_a_1756  obj1                            1
     x_a_1756  c2561                          39
+    x_a_1757  obj1                            1
     x_a_1757  c2562                           8
+    x_a_1758  obj1                            1
     x_a_1758  c2563                          39
+    x_a_1759  obj1                            1
     x_a_1759  c2564                          26
+    x_a_1760  obj1                            1
     x_a_1760  c2565                          44
+    x_a_1761  obj1                            1
     x_a_1761  c2566                          25
+    x_a_1762  obj1                            1
     x_a_1762  c2567                          23
+    x_a_1763  obj1                            1
     x_a_1763  c2568                          16
+    x_a_1764  obj1                            1
     x_a_1764  c2569                          18
+    x_a_1765  obj1                            1
     x_a_1765  c2570                          19
+    x_a_1766  obj1                            1
     x_a_1766  c2571                          34
+    x_a_1767  obj1                            1
     x_a_1767  c2572                           1
+    x_a_1768  obj1                            1
     x_a_1768  c2573                          14
+    x_a_1769  obj1                            1
     x_a_1769  c2574                          48
+    x_a_1770  obj1                            1
     x_a_1770  c2575                          21
+    x_a_1771  obj1                            1
     x_a_1771  c2576                          21
+    x_a_1772  obj1                            1
     x_a_1772  c2577                           4
+    x_a_1773  obj1                            1
     x_a_1773  c2578                          29
+    x_a_1774  obj1                            1
     x_a_1774  c2579                          46
+    x_a_1775  obj1                            1
     x_a_1775  c2580                           9
+    x_a_1776  obj1                            1
     x_a_1776  c2581                          10
+    x_a_1777  obj1                            1
     x_a_1777  c2582                          14
+    x_a_1778  obj1                            1
     x_a_1778  c2583                          41
+    x_a_1779  obj1                            1
     x_a_1779  c2584                          28
+    x_a_1780  obj1                            1
     x_a_1780  c2585                          31
+    x_a_1781  obj1                            1
     x_a_1781  c2586                           7
+    x_a_1782  obj1                            1
     x_a_1782  c2587                          40
+    x_a_1783  obj1                            1
     x_a_1783  c2588                          37
+    x_a_1784  obj1                            1
     x_a_1784  c2589                          23
+    x_a_1785  obj1                            1
     x_a_1785  c2590                          14
+    x_a_1786  obj1                            1
     x_a_1786  c2591                          31
+    x_a_1787  obj1                            1
     x_a_1787  c2592                          39
+    x_a_1788  obj1                            1
     x_a_1788  c2593                          41
+    x_a_1789  obj1                            1
     x_a_1789  c2594                          46
+    x_a_1790  obj1                            1
     x_a_1790  c2595                          47
+    x_a_1791  obj1                            1
     x_a_1791  c2596                          30
+    x_a_1792  obj1                            1
     x_a_1792  c2597                          46
+    x_a_1793  obj1                            1
     x_a_1793  c2598                          29
+    x_a_1794  obj1                            1
     x_a_1794  c2599                          30
+    x_a_1795  obj1                            1
     x_a_1795  c2600                          43
+    x_a_1796  obj1                            1
     x_a_1796  c2601                          26
+    x_a_1797  obj1                            1
     x_a_1797  c2602                          41
+    x_a_1798  obj1                            1
     x_a_1798  c2603                          20
+    x_a_1799  obj1                            1
     x_a_1799  c2604                           2
+    x_a_1800  obj1                            1
     x_a_1800  c2605                          37
+    x_a_1801  obj1                            1
     x_a_1801  c2606                          27
+    x_a_1802  obj1                            1
     x_a_1802  c2607                          40
+    x_a_1803  obj1                            1
     x_a_1803  c2608                          23
+    x_a_1804  obj1                            1
     x_a_1804  c2609                          36
+    x_a_1805  obj1                            1
     x_a_1805  c2610                          48
+    x_a_1806  obj1                            1
     x_a_1806  c2611                          17
+    x_a_1807  obj1                            1
     x_a_1807  c2612                          33
+    x_a_1808  obj1                            1
     x_a_1808  c2613                          28
+    x_a_1809  obj1                            1
     x_a_1809  c2614                           3
+    x_a_1810  obj1                            1
     x_a_1810  c2615                          43
+    x_a_1811  obj1                            1
     x_a_1811  c2616                          41
+    x_a_1812  obj1                            1
     x_a_1812  c2617                           6
+    x_a_1813  obj1                            1
     x_a_1813  c2618                          44
+    x_a_1814  obj1                            1
     x_a_1814  c2619                          29
+    x_a_1815  obj1                            1
     x_a_1815  c2620                          25
+    x_a_1816  obj1                            1
     x_a_1816  c2621                          45
+    x_a_1817  obj1                            1
     x_a_1817  c2622                          31
+    x_a_1818  obj1                            1
     x_a_1818  c2623                          44
+    x_a_1819  obj1                            1
     x_a_1819  c2624                          11
+    x_a_1820  obj1                            1
     x_a_1820  c2625                          41
+    x_a_1821  obj1                            1
     x_a_1821  c2626                          21
+    x_a_1822  obj1                            1
     x_a_1822  c2627                          38
+    x_a_1823  obj1                            1
     x_a_1823  c2628                          38
+    x_a_1824  obj1                            1
     x_a_1824  c2629                          35
+    x_a_1825  obj1                            1
     x_a_1825  c2630                          38
+    x_a_1826  obj1                            1
     x_a_1826  c2631                          15
+    x_a_1827  obj1                            1
     x_a_1827  c2632                          14
+    x_a_1828  obj1                            1
     x_a_1828  c2633                           1
+    x_a_1829  obj1                            1
     x_a_1829  c2634                          10
+    x_a_1830  obj1                            1
     x_a_1830  c2635                          33
+    x_a_1831  obj1                            1
     x_a_1831  c2636                          25
+    x_a_1832  obj1                            1
     x_a_1832  c2637                          23
+    x_a_1833  obj1                            1
     x_a_1833  c2638                          18
+    x_a_1834  obj1                            1
     x_a_1834  c2639                          49
+    x_a_1835  obj1                            1
     x_a_1835  c2640                          14
+    x_a_1836  obj1                            1
     x_a_1836  c2641                          15
+    x_a_1837  obj1                            1
     x_a_1837  c2642                           9
+    x_a_1838  obj1                            1
     x_a_1838  c2643                           9
+    x_a_1839  obj1                            1
     x_a_1839  c2644                          30
+    x_a_1840  obj1                            1
     x_a_1840  c2645                          22
+    x_a_1841  obj1                            1
     x_a_1841  c2646                          40
+    x_a_1842  obj1                            1
     x_a_1842  c2647                          32
+    x_a_1843  obj1                            1
     x_a_1843  c2648                          38
+    x_a_1844  obj1                            1
     x_a_1844  c2649                          19
+    x_a_1845  obj1                            1
     x_a_1845  c2650                           6
+    x_a_1846  obj1                            1
     x_a_1846  c2651                          38
+    x_a_1847  obj1                            1
     x_a_1847  c2652                           7
+    x_a_1848  obj1                            1
     x_a_1848  c2653                          23
+    x_a_1849  obj1                            1
     x_a_1849  c2654                          48
+    x_a_1850  obj1                            1
     x_a_1850  c2655                          47
+    x_a_1851  obj1                            1
     x_a_1851  c2656                          10
+    x_a_1852  obj1                            1
     x_a_1852  c2657                          19
+    x_a_1853  obj1                            1
     x_a_1853  c2658                          18
+    x_a_1854  obj1                            1
     x_a_1854  c2659                          40
+    x_a_1855  obj1                            1
     x_a_1855  c2660                           8
+    x_a_1856  obj1                            1
     x_a_1856  c2661                          25
+    x_a_1857  obj1                            1
     x_a_1857  c2662                          17
+    x_a_1858  obj1                            1
     x_a_1858  c2663                          15
+    x_a_1859  obj1                            1
     x_a_1859  c2664                          13
+    x_a_1860  obj1                            1
     x_a_1860  c2665                          38
+    x_a_1861  obj1                            1
     x_a_1861  c2666                          12
+    x_a_1862  obj1                            1
     x_a_1862  c2667                          27
+    x_a_1863  obj1                            1
     x_a_1863  c2668                          46
+    x_a_1864  obj1                            1
     x_a_1864  c2669                          25
+    x_a_1865  obj1                            1
     x_a_1865  c2670                          46
+    x_a_1866  obj1                            1
     x_a_1866  c2671                           4
+    x_a_1867  obj1                            1
     x_a_1867  c2672                          16
+    x_a_1868  obj1                            1
     x_a_1868  c2673                          31
+    x_a_1869  obj1                            1
     x_a_1869  c2674                          45
+    x_a_1870  obj1                            1
     x_a_1870  c2675                          47
+    x_a_1871  obj1                            1
     x_a_1871  c2676                          40
+    x_a_1872  obj1                            1
     x_a_1872  c2677                          11
+    x_a_1873  obj1                            1
     x_a_1873  c2678                          31
+    x_a_1874  obj1                            1
     x_a_1874  c2679                          27
+    x_a_1875  obj1                            1
     x_a_1875  c2680                          13
+    x_a_1876  obj1                            1
     x_a_1876  c2681                           1
+    x_a_1877  obj1                            1
     x_a_1877  c2682                          18
+    x_a_1878  obj1                            1
     x_a_1878  c2683                          44
+    x_a_1879  obj1                            1
     x_a_1879  c2684                           1
+    x_a_1880  obj1                            1
     x_a_1880  c2685                          33
+    x_a_1881  obj1                            1
     x_a_1881  c2686                          14
+    x_a_1882  obj1                            1
     x_a_1882  c2687                           2
+    x_a_1883  obj1                            1
     x_a_1883  c2688                           1
+    x_a_1884  obj1                            1
     x_a_1884  c2689                          19
+    x_a_1885  obj1                            1
     x_a_1885  c2690                          48
+    x_a_1886  obj1                            1
     x_a_1886  c2691                          35
+    x_a_1887  obj1                            1
     x_a_1887  c2692                          34
+    x_a_1888  obj1                            1
     x_a_1888  c2693                          34
+    x_a_1889  obj1                            1
     x_a_1889  c2694                          30
+    x_a_1890  obj1                            1
     x_a_1890  c2695                           1
+    x_a_1891  obj1                            1
     x_a_1891  c2696                          15
+    x_a_1892  obj1                            1
     x_a_1892  c2697                          17
+    x_a_1893  obj1                            1
     x_a_1893  c2698                          49
+    x_a_1894  obj1                            1
     x_a_1894  c2699                          44
+    x_a_1895  obj1                            1
     x_a_1895  c2700                          23
+    x_a_1896  obj1                            1
     x_a_1896  c2701                          42
+    x_a_1897  obj1                            1
     x_a_1897  c2702                          35
+    x_a_1898  obj1                            1
     x_a_1898  c2703                           3
+    x_a_1899  obj1                            1
     x_a_1899  c2704                           7
+    x_a_1900  obj1                            1
     x_a_1900  c2705                          28
+    x_a_1901  obj1                            1
     x_a_1901  c2706                          37
+    x_a_1902  obj1                            1
     x_a_1902  c2707                           8
+    x_a_1903  obj1                            1
     x_a_1903  c2708                          21
+    x_a_1904  obj1                            1
     x_a_1904  c2709                          20
+    x_a_1905  obj1                            1
     x_a_1905  c2710                          33
+    x_a_1906  obj1                            1
     x_a_1906  c2711                          44
+    x_a_1907  obj1                            1
     x_a_1907  c2712                          38
+    x_a_1908  obj1                            1
     x_a_1908  c2713                           4
+    x_a_1909  obj1                            1
     x_a_1909  c2714                           6
+    x_a_1910  obj1                            1
     x_a_1910  c2715                          32
+    x_a_1911  obj1                            1
     x_a_1911  c2716                          28
+    x_a_1912  obj1                            1
     x_a_1912  c2717                           1
+    x_a_1913  obj1                            1
     x_a_1913  c2718                          42
+    x_a_1914  obj1                            1
     x_a_1914  c2719                           7
+    x_a_1915  obj1                            1
     x_a_1915  c2720                          29
+    x_a_1916  obj1                            1
     x_a_1916  c2721                          29
+    x_a_1917  obj1                            1
     x_a_1917  c2722                           8
+    x_a_1918  obj1                            1
     x_a_1918  c2723                          45
+    x_a_1919  obj1                            1
     x_a_1919  c2724                          40
+    x_a_1920  obj1                            1
     x_a_1920  c2725                           2
+    x_a_1921  obj1                            1
     x_a_1921  c2726                          33
+    x_a_1922  obj1                            1
     x_a_1922  c2727                          10
+    x_a_1923  obj1                            1
     x_a_1923  c2728                          48
+    x_a_1924  obj1                            1
     x_a_1924  c2729                          35
+    x_a_1925  obj1                            1
     x_a_1925  c2730                          28
+    x_a_1926  obj1                            1
     x_a_1926  c2731                          15
+    x_a_1927  obj1                            1
     x_a_1927  c2732                          10
+    x_a_1928  obj1                            1
     x_a_1928  c2733                          33
+    x_a_1929  obj1                            1
     x_a_1929  c2734                          27
+    x_a_1930  obj1                            1
     x_a_1930  c2735                          33
+    x_a_1931  obj1                            1
     x_a_1931  c2736                          49
+    x_a_1932  obj1                            1
     x_a_1932  c2737                          37
+    x_a_1933  obj1                            1
     x_a_1933  c2738                          12
+    x_a_1934  obj1                            1
     x_a_1934  c2739                          47
+    x_a_1935  obj1                            1
     x_a_1935  c2740                           1
+    x_a_1936  obj1                            1
     x_a_1936  c2741                          48
+    x_a_1937  obj1                            1
     x_a_1937  c2742                          12
+    x_a_1938  obj1                            1
     x_a_1938  c2743                          44
+    x_a_1939  obj1                            1
     x_a_1939  c2744                          36
+    x_a_1940  obj1                            1
     x_a_1940  c2745                          40
+    x_a_1941  obj1                            1
     x_a_1941  c2746                          29
+    x_a_1942  obj1                            1
     x_a_1942  c2747                          46
+    x_a_1943  obj1                            1
     x_a_1943  c2748                          41
+    x_a_1944  obj1                            1
     x_a_1944  c2749                          19
+    x_a_1945  obj1                            1
     x_a_1945  c2750                           2
+    x_a_1946  obj1                            1
     x_a_1946  c2751                          48
+    x_a_1947  obj1                            1
     x_a_1947  c2752                          17
+    x_a_1948  obj1                            1
     x_a_1948  c2753                          25
+    x_a_1949  obj1                            1
     x_a_1949  c2754                          43
+    x_a_1950  obj1                            1
     x_a_1950  c2755                          32
+    x_a_1951  obj1                            1
     x_a_1951  c2756                          35
+    x_a_1952  obj1                            1
     x_a_1952  c2757                          43
+    x_a_1953  obj1                            1
     x_a_1953  c2758                          27
+    x_a_1954  obj1                            1
     x_a_1954  c2759                           2
+    x_a_1955  obj1                            1
     x_a_1955  c2760                          11
+    x_a_1956  obj1                            1
     x_a_1956  c2761                          49
+    x_a_1957  obj1                            1
     x_a_1957  c2762                           1
+    x_a_1958  obj1                            1
     x_a_1958  c2763                          46
+    x_a_1959  obj1                            1
     x_a_1959  c2764                           1
+    x_a_1960  obj1                            1
     x_a_1960  c2765                          29
+    x_a_1961  obj1                            1
     x_a_1961  c2766                          21
+    x_a_1962  obj1                            1
     x_a_1962  c2767                          21
+    x_a_1963  obj1                            1
     x_a_1963  c2768                          48
+    x_a_1964  obj1                            1
     x_a_1964  c2769                          26
+    x_a_1965  obj1                            1
     x_a_1965  c2770                          29
+    x_a_1966  obj1                            1
     x_a_1966  c2771                          20
+    x_a_1967  obj1                            1
     x_a_1967  c2772                          37
+    x_a_1968  obj1                            1
     x_a_1968  c2773                          42
+    x_a_1969  obj1                            1
     x_a_1969  c2774                           2
+    x_a_1970  obj1                            1
     x_a_1970  c2775                          36
+    x_a_1971  obj1                            1
     x_a_1971  c2776                           5
+    x_a_1972  obj1                            1
     x_a_1972  c2777                          39
+    x_a_1973  obj1                            1
     x_a_1973  c2778                          36
+    x_a_1974  obj1                            1
     x_a_1974  c2779                          44
+    x_a_1975  obj1                            1
     x_a_1975  c2780                          14
+    x_a_1976  obj1                            1
     x_a_1976  c2781                          19
+    x_a_1977  obj1                            1
     x_a_1977  c2782                          47
+    x_a_1978  obj1                            1
     x_a_1978  c2783                          11
+    x_a_1979  obj1                            1
     x_a_1979  c2784                          15
+    x_a_1980  obj1                            1
     x_a_1980  c2785                          22
+    x_a_1981  obj1                            1
     x_a_1981  c2786                          33
+    x_a_1982  obj1                            1
     x_a_1982  c2787                           8
+    x_a_1983  obj1                            1
     x_a_1983  c2788                          35
+    x_a_1984  obj1                            1
     x_a_1984  c2789                          43
+    x_a_1985  obj1                            1
     x_a_1985  c2790                          37
+    x_a_1986  obj1                            1
     x_a_1986  c2791                          14
+    x_a_1987  obj1                            1
     x_a_1987  c2792                           6
+    x_a_1988  obj1                            1
     x_a_1988  c2793                          36
+    x_a_1989  obj1                            1
     x_a_1989  c2794                          29
+    x_a_1990  obj1                            1
     x_a_1990  c2795                           2
+    x_a_1991  obj1                            1
     x_a_1991  c2796                          25
+    x_a_1992  obj1                            1
     x_a_1992  c2797                          24
+    x_a_1993  obj1                            1
     x_a_1993  c2798                          21
+    x_a_1994  obj1                            1
     x_a_1994  c2799                          48
+    x_a_1995  obj1                            1
     x_a_1995  c2800                           6
+    x_a_1996  obj1                            1
     x_a_1996  c2801                          13
+    x_a_1997  obj1                            1
     x_a_1997  c2802                          11
+    x_a_1998  obj1                            1
     x_a_1998  c2803                          38
+    x_a_1999  obj1                            1
     x_a_1999  c2804                          49
+    x_a_2000  obj1                            1
     x_a_2000  c2805                          33
+    x_a_2001  obj1                            1
     x_a_2001  c2806                          35
+    x_a_2002  obj1                            1
     x_a_2002  c2807                          45
+    x_a_2003  obj1                            1
     x_a_2003  c2808                           2
+    x_a_2004  obj1                            1
     x_a_2004  c2809                           6
+    x_a_2005  obj1                            1
     x_a_2005  c2810                          32
+    x_a_2006  obj1                            1
     x_a_2006  c2811                          19
+    x_a_2007  obj1                            1
     x_a_2007  c2812                          43
+    x_a_2008  obj1                            1
     x_a_2008  c2813                          17
+    x_a_2009  obj1                            1
     x_a_2009  c2814                          34
+    x_a_2010  obj1                            1
     x_a_2010  c2815                          45
+    x_a_2011  obj1                            1
     x_a_2011  c2816                          22
+    x_a_2012  obj1                            1
     x_a_2012  c2817                          41
+    x_a_2013  obj1                            1
     x_a_2013  c2818                          32
+    x_a_2014  obj1                            1
     x_a_2014  c2819                           7
+    x_a_2015  obj1                            1
     x_a_2015  c2820                          43
+    x_a_2016  obj1                            1
     x_a_2016  c2821                          41
+    x_a_2017  obj1                            1
     x_a_2017  c2822                          38
+    x_a_2018  obj1                            1
     x_a_2018  c2823                          44
+    x_a_2019  obj1                            1
     x_a_2019  c2824                          38
+    x_a_2020  obj1                            1
     x_a_2020  c2825                          10
+    x_a_2021  obj1                            1
     x_a_2021  c2826                           4
+    x_a_2022  obj1                            1
     x_a_2022  c2827                          14
+    x_a_2023  obj1                            1
     x_a_2023  c2828                           6
+    x_a_2024  obj1                            1
     x_a_2024  c2829                          19
+    x_a_2025  obj1                            1
     x_a_2025  c2830                          47
+    x_a_2026  obj1                            1
     x_a_2026  c2831                          34
+    x_a_2027  obj1                            1
     x_a_2027  c2832                          49
+    x_a_2028  obj1                            1
     x_a_2028  c2833                          33
+    x_a_2029  obj1                            1
     x_a_2029  c2834                          47
+    x_a_2030  obj1                            1
     x_a_2030  c2835                           7
+    x_a_2031  obj1                            1
     x_a_2031  c2836                          49
+    x_a_2032  obj1                            1
     x_a_2032  c2837                          31
+    x_a_2033  obj1                            1
     x_a_2033  c2838                          29
+    x_a_2034  obj1                            1
     x_a_2034  c2839                           2
+    x_a_2035  obj1                            1
     x_a_2035  c2840                           6
+    x_a_2036  obj1                            1
     x_a_2036  c2841                          45
+    x_a_2037  obj1                            1
     x_a_2037  c2842                           5
+    x_a_2038  obj1                            1
     x_a_2038  c2843                          34
+    x_a_2039  obj1                            1
     x_a_2039  c2844                          22
+    x_a_2040  obj1                            1
     x_a_2040  c2845                          15
+    x_a_2041  obj1                            1
     x_a_2041  c2846                          27
+    x_a_2042  obj1                            1
     x_a_2042  c2847                           7
+    x_a_2043  obj1                            1
     x_a_2043  c2848                          17
+    x_a_2044  obj1                            1
     x_a_2044  c2849                          43
+    x_a_2045  obj1                            1
     x_a_2045  c2850                          30
+    x_a_2046  obj1                            1
     x_a_2046  c2851                          24
+    x_a_2047  obj1                            1
     x_a_2047  c2852                          45
+    x_a_2048  obj1                            1
     x_a_2048  c2853                          39
+    x_a_2049  obj1                            1
     x_a_2049  c2854                           4
+    x_a_2050  obj1                            1
     x_a_2050  c2855                          36
+    x_a_2051  obj1                            1
     x_a_2051  c2856                          26
+    x_a_2052  obj1                            1
     x_a_2052  c2857                           5
+    x_a_2053  obj1                            1
     x_a_2053  c2858                          32
+    x_a_2054  obj1                            1
     x_a_2054  c2859                          36
+    x_a_2055  obj1                            1
     x_a_2055  c2860                          34
+    x_a_2056  obj1                            1
     x_a_2056  c2861                          32
+    x_a_2057  obj1                            1
     x_a_2057  c2862                           8
+    x_a_2058  obj1                            1
     x_a_2058  c2863                          19
+    x_a_2059  obj1                            1
     x_a_2059  c2864                          20
+    x_a_2060  obj1                            1
     x_a_2060  c2865                          29
+    x_a_2061  obj1                            1
     x_a_2061  c2866                           7
+    x_a_2062  obj1                            1
     x_a_2062  c2867                          12
+    x_a_2063  obj1                            1
     x_a_2063  c2868                          49
+    x_a_2064  obj1                            1
     x_a_2064  c2869                          48
+    x_a_2065  obj1                            1
     x_a_2065  c2870                          41
+    x_a_2066  obj1                            1
     x_a_2066  c2871                          24
+    x_a_2067  obj1                            1
     x_a_2067  c2872                          26
+    x_a_2068  obj1                            1
     x_a_2068  c2873                          10
+    x_a_2069  obj1                            1
     x_a_2069  c2874                          14
+    x_a_2070  obj1                            1
     x_a_2070  c2875                          15
+    x_a_2071  obj1                            1
     x_a_2071  c2876                          11
+    x_a_2072  obj1                            1
     x_a_2072  c2877                          15
+    x_a_2073  obj1                            1
     x_a_2073  c2878                          36
+    x_a_2074  obj1                            1
     x_a_2074  c2879                           1
+    x_a_2075  obj1                            1
     x_a_2075  c2880                          47
+    x_a_2076  obj1                            1
     x_a_2076  c2881                          16
+    x_a_2077  obj1                            1
     x_a_2077  c2882                          16
+    x_a_2078  obj1                            1
     x_a_2078  c2883                          16
+    x_a_2079  obj1                            1
     x_a_2079  c2884                          18
+    x_a_2080  obj1                            1
     x_a_2080  c2885                          22
+    x_a_2081  obj1                            1
     x_a_2081  c2886                          13
+    x_a_2082  obj1                            1
     x_a_2082  c2887                          29
+    x_a_2083  obj1                            1
     x_a_2083  c2888                          13
+    x_a_2084  obj1                            1
     x_a_2084  c2889                          23
+    x_a_2085  obj1                            1
     x_a_2085  c2890                          30
+    x_a_2086  obj1                            1
     x_a_2086  c2891                          35
+    x_a_2087  obj1                            1
     x_a_2087  c2892                           4
+    x_a_2088  obj1                            1
     x_a_2088  c2893                          19
+    x_a_2089  obj1                            1
     x_a_2089  c2894                          37
+    x_a_2090  obj1                            1
     x_a_2090  c2895                          27
+    x_a_2091  obj1                            1
     x_a_2091  c2896                          14
+    x_a_2092  obj1                            1
     x_a_2092  c2897                          47
+    x_a_2093  obj1                            1
     x_a_2093  c2898                           7
+    x_a_2094  obj1                            1
     x_a_2094  c2899                          30
+    x_a_2095  obj1                            1
     x_a_2095  c2900                          19
+    x_a_2096  obj1                            1
     x_a_2096  c2901                          14
+    x_a_2097  obj1                            1
     x_a_2097  c2902                          27
+    x_a_2098  obj1                            1
     x_a_2098  c2903                          35
+    x_a_2099  obj1                            1
     x_a_2099  c2904                          29
+    x_a_2100  obj1                            1
     x_a_2100  c2905                          39
+    x_a_2101  obj1                            1
     x_a_2101  c2906                          48
+    x_a_2102  obj1                            1
     x_a_2102  c2907                          14
+    x_a_2103  obj1                            1
     x_a_2103  c2908                          36
+    x_a_2104  obj1                            1
     x_a_2104  c2909                          47
+    x_a_2105  obj1                            1
     x_a_2105  c2910                           7
+    x_a_2106  obj1                            1
     x_a_2106  c2911                          46
+    x_a_2107  obj1                            1
     x_a_2107  c2912                          41
+    x_a_2108  obj1                            1
     x_a_2108  c2913                          29
+    x_a_2109  obj1                            1
     x_a_2109  c2914                          12
+    x_a_2110  obj1                            1
     x_a_2110  c2915                           8
+    x_a_2111  obj1                            1
     x_a_2111  c2916                          45
+    x_a_2112  obj1                            1
     x_a_2112  c2917                          36
+    x_a_2113  obj1                            1
     x_a_2113  c2918                          19
+    x_a_2114  obj1                            1
     x_a_2114  c2919                          20
+    x_a_2115  obj1                            1
     x_a_2115  c2920                          13
+    x_a_2116  obj1                            1
     x_a_2116  c2921                          40
+    x_a_2117  obj1                            1
     x_a_2117  c2922                          36
+    x_a_2118  obj1                            1
     x_a_2118  c2923                          11
+    x_a_2119  obj1                            1
     x_a_2119  c2924                           9
+    x_a_2120  obj1                            1
     x_a_2120  c2925                           8
+    x_a_2121  obj1                            1
     x_a_2121  c2926                          41
+    x_a_2122  obj1                            1
     x_a_2122  c2927                          25
+    x_a_2123  obj1                            1
     x_a_2123  c2928                           5
+    x_a_2124  obj1                            1
     x_a_2124  c2929                          49
+    x_a_2125  obj1                            1
     x_a_2125  c2930                          10
+    x_a_2126  obj1                            1
     x_a_2126  c2931                          43
+    x_a_2127  obj1                            1
     x_a_2127  c2932                          16
+    x_a_2128  obj1                            1
     x_a_2128  c2933                          13
+    x_a_2129  obj1                            1
     x_a_2129  c2934                          23
+    x_a_2130  obj1                            1
     x_a_2130  c2935                          27
+    x_a_2131  obj1                            1
     x_a_2131  c2936                          34
+    x_a_2132  obj1                            1
     x_a_2132  c2937                          35
+    x_a_2133  obj1                            1
     x_a_2133  c2938                          39
+    x_a_2134  obj1                            1
     x_a_2134  c2939                          22
+    x_a_2135  obj1                            1
     x_a_2135  c2940                          38
+    x_a_2136  obj1                            1
     x_a_2136  c2941                          12
+    x_a_2137  obj1                            1
     x_a_2137  c2942                          24
+    x_a_2138  obj1                            1
     x_a_2138  c2943                          43
+    x_a_2139  obj1                            1
     x_a_2139  c2944                          21
+    x_a_2140  obj1                            1
     x_a_2140  c2945                           4
+    x_a_2141  obj1                            1
     x_a_2141  c2946                          18
+    x_a_2142  obj1                            1
     x_a_2142  c2947                          20
+    x_a_2143  obj1                            1
     x_a_2143  c2948                           6
+    x_a_2144  obj1                            1
     x_a_2144  c2949                          34
+    x_a_2145  obj1                            1
     x_a_2145  c2950                          37
+    x_a_2146  obj1                            1
     x_a_2146  c2951                          41
+    x_a_2147  obj1                            1
     x_a_2147  c2952                          47
+    x_a_2148  obj1                            1
     x_a_2148  c2953                          23
+    x_a_2149  obj1                            1
     x_a_2149  c2954                          32
+    x_a_2150  obj1                            1
     x_a_2150  c2955                          22
+    x_a_2151  obj1                            1
     x_a_2151  c2956                           6
+    x_a_2152  obj1                            1
     x_a_2152  c2957                          45
+    x_a_2153  obj1                            1
     x_a_2153  c2958                          13
+    x_a_2154  obj1                            1
     x_a_2154  c2959                           6
+    x_a_2155  obj1                            1
     x_a_2155  c2960                           9
+    x_a_2156  obj1                            1
     x_a_2156  c2961                          35
+    x_a_2157  obj1                            1
     x_a_2157  c2962                          18
+    x_a_2158  obj1                            1
     x_a_2158  c2963                          19
+    x_a_2159  obj1                            1
     x_a_2159  c2964                          21
+    x_a_2160  obj1                            1
     x_a_2160  c2965                          42
+    x_a_2161  obj1                            1
     x_a_2161  c2966                          32
+    x_a_2162  obj1                            1
     x_a_2162  c2967                          45
+    x_a_2163  obj1                            1
     x_a_2163  c2968                           8
+    x_a_2164  obj1                            1
     x_a_2164  c2969                          29
+    x_a_2165  obj1                            1
     x_a_2165  c2970                          38
+    x_a_2166  obj1                            1
     x_a_2166  c2971                          12
+    x_a_2167  obj1                            1
     x_a_2167  c2972                          42
+    x_a_2168  obj1                            1
     x_a_2168  c2973                          30
+    x_a_2169  obj1                            1
     x_a_2169  c2974                          30
+    x_a_2170  obj1                            1
     x_a_2170  c2975                           9
+    x_a_2171  obj1                            1
     x_a_2171  c2976                          34
+    x_a_2172  obj1                            1
     x_a_2172  c2977                          38
+    x_a_2173  obj1                            1
     x_a_2173  c2978                          16
+    x_a_2174  obj1                            1
     x_a_2174  c2979                           3
+    x_a_2175  obj1                            1
     x_a_2175  c2980                          10
+    x_a_2176  obj1                            1
     x_a_2176  c2981                          30
+    x_a_2177  obj1                            1
     x_a_2177  c2982                          36
+    x_a_2178  obj1                            1
     x_a_2178  c2983                          47
+    x_a_2179  obj1                            1
     x_a_2179  c2984                           9
+    x_a_2180  obj1                            1
     x_a_2180  c2985                          17
+    x_a_2181  obj1                            1
     x_a_2181  c2986                          25
+    x_a_2182  obj1                            1
     x_a_2182  c2987                          25
+    x_a_2183  obj1                            1
     x_a_2183  c2988                          30
+    x_a_2184  obj1                            1
     x_a_2184  c2989                           6
+    x_a_2185  obj1                            1
     x_a_2185  c2990                           2
+    x_a_2186  obj1                            1
     x_a_2186  c2991                          23
+    x_a_2187  obj1                            1
     x_a_2187  c2992                          28
+    x_a_2188  obj1                            1
     x_a_2188  c2993                          26
+    x_a_2189  obj1                            1
     x_a_2189  c2994                          35
+    x_a_2190  obj1                            1
     x_a_2190  c2995                           5
+    x_a_2191  obj1                            1
     x_a_2191  c2996                          43
+    x_a_2192  obj1                            1
     x_a_2192  c2997                          15
+    x_a_2193  obj1                            1
     x_a_2193  c2998                          26
+    x_a_2194  obj1                            1
     x_a_2194  c2999                          29
+    x_a_2195  obj1                            1
     x_a_2195  c3000                          35
+    x_a_2196  obj1                            1
     x_a_2196  c3001                          26
+    x_a_2197  obj1                            1
     x_a_2197  c3002                           9
+    x_a_2198  obj1                            1
     x_a_2198  c3003                          27
+    x_a_2199  obj1                            1
     x_a_2199  c3004                          33
+    x_a_2200  obj1                            1
     x_a_2200  c3005                           9
+    x_a_2201  obj1                            1
     x_a_2201  c3006                           4
+    x_a_2202  obj1                            1
     x_a_2202  c3007                          26
+    x_a_2203  obj1                            1
     x_a_2203  c3008                          46
+    x_a_2204  obj1                            1
     x_a_2204  c3009                           5
+    x_a_2205  obj1                            1
     x_a_2205  c3010                          40
+    x_a_2206  obj1                            1
     x_a_2206  c3011                          38
+    x_a_2207  obj1                            1
     x_a_2207  c3012                          13
+    x_a_2208  obj1                            1
     x_a_2208  c3013                          19
+    x_a_2209  obj1                            1
     x_a_2209  c3014                          43
+    x_a_2210  obj1                            1
     x_a_2210  c3015                          15
+    x_a_2211  obj1                            1
     x_a_2211  c3016                          32
+    x_a_2212  obj1                            1
     x_a_2212  c3017                          36
+    x_a_2213  obj1                            1
     x_a_2213  c3018                          45
+    x_a_2214  obj1                            1
     x_a_2214  c3019                          27
+    x_a_2215  obj1                            1
     x_a_2215  c3020                          41
+    x_a_2216  obj1                            1
     x_a_2216  c3021                          13
+    x_a_2217  obj1                            1
     x_a_2217  c3022                           2
+    x_a_2218  obj1                            1
     x_a_2218  c3023                           4
+    x_a_2219  obj1                            1
     x_a_2219  c3024                          45
+    x_a_2220  obj1                            1
     x_a_2220  c3025                          18
+    x_a_2221  obj1                            1
     x_a_2221  c3026                          46
+    x_a_2222  obj1                            1
     x_a_2222  c3027                          29
+    x_a_2223  obj1                            1
     x_a_2223  c3028                          28
+    x_a_2224  obj1                            1
     x_a_2224  c3029                          37
+    x_a_2225  obj1                            1
     x_a_2225  c3030                          10
+    x_a_2226  obj1                            1
     x_a_2226  c3031                          20
+    x_a_2227  obj1                            1
     x_a_2227  c3032                          44
+    x_a_2228  obj1                            1
     x_a_2228  c3033                           4
+    x_a_2229  obj1                            1
     x_a_2229  c3034                          28
+    x_a_2230  obj1                            1
     x_a_2230  c3035                          40
+    x_a_2231  obj1                            1
     x_a_2231  c3036                           3
+    x_a_2232  obj1                            1
     x_a_2232  c3037                          21
+    x_a_2233  obj1                            1
     x_a_2233  c3038                           4
+    x_a_2234  obj1                            1
     x_a_2234  c3039                           5
+    x_a_2235  obj1                            1
     x_a_2235  c3040                           1
+    x_a_2236  obj1                            1
     x_a_2236  c3041                          47
+    x_a_2237  obj1                            1
     x_a_2237  c3042                           9
+    x_a_2238  obj1                            1
     x_a_2238  c3043                          48
+    x_a_2239  obj1                            1
     x_a_2239  c3044                          33
+    x_a_2240  obj1                            1
     x_a_2240  c3045                           6
+    x_a_2241  obj1                            1
     x_a_2241  c3046                          23
+    x_a_2242  obj1                            1
     x_a_2242  c3047                           8
+    x_a_2243  obj1                            1
     x_a_2243  c3048                          23
+    x_a_2244  obj1                            1
     x_a_2244  c3049                          23
+    x_a_2245  obj1                            1
     x_a_2245  c3050                          11
+    x_a_2246  obj1                            1
     x_a_2246  c3051                           1
+    x_a_2247  obj1                            1
     x_a_2247  c3052                          12
+    x_a_2248  obj1                            1
     x_a_2248  c3053                          23
+    x_a_2249  obj1                            1
     x_a_2249  c3054                           1
+    x_a_2250  obj1                            1
     x_a_2250  c3055                           8
+    x_a_2251  obj1                            1
     x_a_2251  c3056                          39
+    x_a_2252  obj1                            1
     x_a_2252  c3057                          36
+    x_a_2253  obj1                            1
     x_a_2253  c3058                           1
+    x_a_2254  obj1                            1
     x_a_2254  c3059                          27
+    x_a_2255  obj1                            1
     x_a_2255  c3060                          35
+    x_a_2256  obj1                            1
     x_a_2256  c3061                           1
+    x_a_2257  obj1                            1
     x_a_2257  c3062                          49
+    x_a_2258  obj1                            1
     x_a_2258  c3063                          34
+    x_a_2259  obj1                            1
     x_a_2259  c3064                          47
+    x_a_2260  obj1                            1
     x_a_2260  c3065                          24
+    x_a_2261  obj1                            1
     x_a_2261  c3066                           5
+    x_a_2262  obj1                            1
     x_a_2262  c3067                          28
+    x_a_2263  obj1                            1
     x_a_2263  c3068                          45
+    x_a_2264  obj1                            1
     x_a_2264  c3069                          44
+    x_a_2265  obj1                            1
     x_a_2265  c3070                          24
+    x_a_2266  obj1                            1
     x_a_2266  c3071                          48
+    x_a_2267  obj1                            1
     x_a_2267  c3072                          27
+    x_a_2268  obj1                            1
     x_a_2268  c3073                           6
+    x_a_2269  obj1                            1
     x_a_2269  c3074                          15
+    x_a_2270  obj1                            1
     x_a_2270  c3075                          21
+    x_a_2271  obj1                            1
     x_a_2271  c3076                          34
+    x_a_2272  obj1                            1
     x_a_2272  c3077                           1
+    x_a_2273  obj1                            1
     x_a_2273  c3078                           1
+    x_a_2274  obj1                            1
     x_a_2274  c3079                          49
+    x_a_2275  obj1                            1
     x_a_2275  c3080                          13
+    x_a_2276  obj1                            1
     x_a_2276  c3081                          21
+    x_a_2277  obj1                            1
     x_a_2277  c3082                          41
+    x_a_2278  obj1                            1
     x_a_2278  c3083                           8
+    x_a_2279  obj1                            1
     x_a_2279  c3084                          42
+    x_a_2280  obj1                            1
     x_a_2280  c3085                          22
+    x_a_2281  obj1                            1
     x_a_2281  c3086                          38
+    x_a_2282  obj1                            1
     x_a_2282  c3087                           8
+    x_a_2283  obj1                            1
     x_a_2283  c3088                           6
+    x_a_2284  obj1                            1
     x_a_2284  c3089                          12
+    x_a_2285  obj1                            1
     x_a_2285  c3090                          13
+    x_a_2286  obj1                            1
     x_a_2286  c3091                          10
+    x_a_2287  obj1                            1
     x_a_2287  c3092                          29
+    x_a_2288  obj1                            1
     x_a_2288  c3093                          24
+    x_a_2289  obj1                            1
     x_a_2289  c3094                           8
+    x_a_2290  obj1                            1
     x_a_2290  c3095                          38
+    x_a_2291  obj1                            1
     x_a_2291  c3096                          41
+    x_a_2292  obj1                            1
     x_a_2292  c3097                          16
+    x_a_2293  obj1                            1
     x_a_2293  c3098                           7
+    x_a_2294  obj1                            1
     x_a_2294  c3099                           2
+    x_a_2295  obj1                            1
     x_a_2295  c3100                          34
+    x_a_2296  obj1                            1
     x_a_2296  c3101                          15
+    x_a_2297  obj1                            1
     x_a_2297  c3102                           7
+    x_a_2298  obj1                            1
     x_a_2298  c3103                          47
+    x_a_2299  obj1                            1
     x_a_2299  c3104                          35
+    x_a_2300  obj1                            1
     x_a_2300  c3105                          37
+    x_a_2301  obj1                            1
     x_a_2301  c3106                          36
+    x_a_2302  obj1                            1
     x_a_2302  c3107                          43
+    x_a_2303  obj1                            1
     x_a_2303  c3108                          18
+    x_a_2304  obj1                            1
     x_a_2304  c3109                          25
+    x_a_2305  obj1                            1
     x_a_2305  c3110                          17
+    x_a_2306  obj1                            1
     x_a_2306  c3111                          13
+    x_a_2307  obj1                            1
     x_a_2307  c3112                           7
+    x_a_2308  obj1                            1
     x_a_2308  c3113                           1
+    x_a_2309  obj1                            1
     x_a_2309  c3114                          48
+    x_a_2310  obj1                            1
     x_a_2310  c3115                          42
+    x_a_2311  obj1                            1
     x_a_2311  c3116                          30
+    x_a_2312  obj1                            1
     x_a_2312  c3117                          37
+    x_a_2313  obj1                            1
     x_a_2313  c3118                          32
+    x_a_2314  obj1                            1
     x_a_2314  c3119                          29
+    x_a_2315  obj1                            1
     x_a_2315  c3120                          46
+    x_a_2316  obj1                            1
     x_a_2316  c3121                          19
+    x_a_2317  obj1                            1
     x_a_2317  c3122                          26
+    x_a_2318  obj1                            1
     x_a_2318  c3123                          18
+    x_a_2319  obj1                            1
     x_a_2319  c3124                          27
+    x_a_2320  obj1                            1
     x_a_2320  c3125                          20
+    x_a_2321  obj1                            1
     x_a_2321  c3126                          48
+    x_a_2322  obj1                            1
     x_a_2322  c3127                          48
+    x_a_2323  obj1                            1
     x_a_2323  c3128                          25
+    x_a_2324  obj1                            1
     x_a_2324  c3129                           8
+    x_a_2325  obj1                            1
     x_a_2325  c3130                          48
+    x_a_2326  obj1                            1
     x_a_2326  c3131                           3
+    x_a_2327  obj1                            1
     x_a_2327  c3132                          41
+    x_a_2328  obj1                            1
     x_a_2328  c3133                          39
+    x_a_2329  obj1                            1
     x_a_2329  c3134                          27
+    x_a_2330  obj1                            1
     x_a_2330  c3135                          17
+    x_a_2331  obj1                            1
     x_a_2331  c3136                          44
+    x_a_2332  obj1                            1
     x_a_2332  c3137                          16
+    x_a_2333  obj1                            1
     x_a_2333  c3138                           2
+    x_a_2334  obj1                            1
     x_a_2334  c3139                           6
+    x_a_2335  obj1                            1
     x_a_2335  c3140                          32
+    x_a_2336  obj1                            1
     x_a_2336  c3141                          26
+    x_a_2337  obj1                            1
     x_a_2337  c3142                          26
+    x_a_2338  obj1                            1
     x_a_2338  c3143                          21
+    x_a_2339  obj1                            1
     x_a_2339  c3144                          14
+    x_a_2340  obj1                            1
     x_a_2340  c3145                          11
+    x_a_2341  obj1                            1
     x_a_2341  c3146                          27
+    x_a_2342  obj1                            1
     x_a_2342  c3147                          35
+    x_a_2343  obj1                            1
     x_a_2343  c3148                          11
+    x_a_2344  obj1                            1
     x_a_2344  c3149                           3
+    x_a_2345  obj1                            1
     x_a_2345  c3150                          12
+    x_a_2346  obj1                            1
     x_a_2346  c3151                           9
+    x_a_2347  obj1                            1
     x_a_2347  c3152                          18
+    x_a_2348  obj1                            1
     x_a_2348  c3153                          17
+    x_a_2349  obj1                            1
     x_a_2349  c3154                          39
+    x_a_2350  obj1                            1
     x_a_2350  c3155                          17
+    x_a_2351  obj1                            1
     x_a_2351  c3156                          12
+    x_a_2352  obj1                            1
     x_a_2352  c3157                          20
+    x_a_2353  obj1                            1
     x_a_2353  c3158                           3
+    x_a_2354  obj1                            1
     x_a_2354  c3159                          35
+    x_a_2355  obj1                            1
     x_a_2355  c3160                          25
+    x_a_2356  obj1                            1
     x_a_2356  c3161                          30
+    x_a_2357  obj1                            1
     x_a_2357  c3162                           1
+    x_a_2358  obj1                            1
     x_a_2358  c3163                          11
+    x_a_2359  obj1                            1
     x_a_2359  c3164                          36
+    x_a_2360  obj1                            1
     x_a_2360  c3165                          28
+    x_a_2361  obj1                            1
     x_a_2361  c3166                          33
+    x_a_2362  obj1                            1
     x_a_2362  c3167                          15
+    x_a_2363  obj1                            1
     x_a_2363  c3168                          49
+    x_a_2364  obj1                            1
     x_a_2364  c3169                          31
+    x_a_2365  obj1                            1
     x_a_2365  c3170                          24
+    x_a_2366  obj1                            1
     x_a_2366  c3171                           9
+    x_a_2367  obj1                            1
     x_a_2367  c3172                          40
+    x_a_2368  obj1                            1
     x_a_2368  c3173                          14
+    x_a_2369  obj1                            1
     x_a_2369  c3174                          25
+    x_a_2370  obj1                            1
     x_a_2370  c3175                           8
+    x_a_2371  obj1                            1
     x_a_2371  c3176                          28
+    x_a_2372  obj1                            1
     x_a_2372  c3177                          32
+    x_a_2373  obj1                            1
     x_a_2373  c3178                          24
+    x_a_2374  obj1                            1
     x_a_2374  c3179                          10
+    x_a_2375  obj1                            1
     x_a_2375  c3180                          48
+    x_a_2376  obj1                            1
     x_a_2376  c3181                          49
+    x_a_2377  obj1                            1
     x_a_2377  c3182                          19
+    x_a_2378  obj1                            1
     x_a_2378  c3183                           5
+    x_a_2379  obj1                            1
     x_a_2379  c3184                          41
+    x_a_2380  obj1                            1
     x_a_2380  c3185                          18
+    x_a_2381  obj1                            1
     x_a_2381  c3186                          40
+    x_a_2382  obj1                            1
     x_a_2382  c3187                          24
+    x_a_2383  obj1                            1
     x_a_2383  c3188                          12
+    x_a_2384  obj1                            1
     x_a_2384  c3189                           9
+    x_a_2385  obj1                            1
     x_a_2385  c3190                          39
+    x_a_2386  obj1                            1
     x_a_2386  c3191                          41
+    x_a_2387  obj1                            1
     x_a_2387  c3192                          35
+    x_a_2388  obj1                            1
     x_a_2388  c3193                          32
+    x_a_2389  obj1                            1
     x_a_2389  c3194                          47
+    x_a_2390  obj1                            1
     x_a_2390  c3195                          16
+    x_a_2391  obj1                            1
     x_a_2391  c3196                          33
+    x_a_2392  obj1                            1
     x_a_2392  c3197                          31
+    x_a_2393  obj1                            1
     x_a_2393  c3198                           1
+    x_a_2394  obj1                            1
     x_a_2394  c3199                           8
+    x_a_2395  obj1                            1
     x_a_2395  c3200                          32
+    x_a_2396  obj1                            1
     x_a_2396  c3201                           8
+    x_a_2397  obj1                            1
     x_a_2397  c3202                          42
+    x_a_2398  obj1                            1
     x_a_2398  c3203                          38
+    x_a_2399  obj1                            1
     x_a_2399  c3204                           7
+    x_a_2400  obj1                            1
     x_a_2400  c3205                           1
+    x_a_2401  obj1                            1
     x_a_2401  c3206                          30
+    x_a_2402  obj1                            1
     x_a_2402  c3207                          47
+    x_a_2403  obj1                            1
     x_a_2403  c3208                          20
+    x_a_2404  obj1                            1
     x_a_2404  c3209                          49
+    x_a_2405  obj1                            1
     x_a_2405  c3210                          48
+    x_a_2406  obj1                            1
     x_a_2406  c3211                          17
+    x_a_2407  obj1                            1
     x_a_2407  c3212                           3
+    x_a_2408  obj1                            1
     x_a_2408  c3213                          47
+    x_a_2409  obj1                            1
     x_a_2409  c3214                          19
+    x_a_2410  obj1                            1
     x_a_2410  c3215                          28
+    x_a_2411  obj1                            1
     x_a_2411  c3216                          31
+    x_a_2412  obj1                            1
     x_a_2412  c3217                           5
+    x_a_2413  obj1                            1
     x_a_2413  c3218                           9
+    x_a_2414  obj1                            1
     x_a_2414  c3219                          29
+    x_a_2415  obj1                            1
     x_a_2415  c3220                          35
+    x_a_2416  obj1                            1
     x_a_2416  c3221                          26
+    x_a_2417  obj1                            1
     x_a_2417  c3222                           9
+    x_a_2418  obj1                            1
     x_a_2418  c3223                          17
+    x_a_2419  obj1                            1
     x_a_2419  c3224                          22
+    x_a_2420  obj1                            1
     x_a_2420  c3225                           5
+    x_a_2421  obj1                            1
     x_a_2421  c3226                          23
+    x_a_2422  obj1                            1
     x_a_2422  c3227                           3
+    x_a_2423  obj1                            1
     x_a_2423  c3228                          14
+    x_a_2424  obj1                            1
     x_a_2424  c3229                          42
+    x_a_2425  obj1                            1
     x_a_2425  c3230                           2
+    x_a_2426  obj1                            1
     x_a_2426  c3231                          12
+    x_a_2427  obj1                            1
     x_a_2427  c3232                          46
+    x_a_2428  obj1                            1
     x_a_2428  c3233                          33
+    x_a_2429  obj1                            1
     x_a_2429  c3234                          29
+    x_a_2430  obj1                            1
     x_a_2430  c3235                           3
+    x_a_2431  obj1                            1
     x_a_2431  c3236                          33
+    x_a_2432  obj1                            1
     x_a_2432  c3237                           7
+    x_a_2433  obj1                            1
     x_a_2433  c3238                          26
+    x_a_2434  obj1                            1
     x_a_2434  c3239                          38
+    x_a_2435  obj1                            1
     x_a_2435  c3240                           3
+    x_a_2436  obj1                            1
     x_a_2436  c3241                          32
+    x_a_2437  obj1                            1
     x_a_2437  c3242                          15
+    x_a_2438  obj1                            1
     x_a_2438  c3243                          22
+    x_a_2439  obj1                            1
     x_a_2439  c3244                          44
+    x_a_2440  obj1                            1
     x_a_2440  c3245                          19
+    x_a_2441  obj1                            1
     x_a_2441  c3246                          22
+    x_a_2442  obj1                            1
     x_a_2442  c3247                          33
+    x_a_2443  obj1                            1
     x_a_2443  c3248                          27
+    x_a_2444  obj1                            1
     x_a_2444  c3249                          19
+    x_a_2445  obj1                            1
     x_a_2445  c3250                          28
+    x_a_2446  obj1                            1
     x_a_2446  c3251                          45
+    x_a_2447  obj1                            1
     x_a_2447  c3252                          22
+    x_a_2448  obj1                            1
     x_a_2448  c3253                          29
+    x_a_2449  obj1                            1
     x_a_2449  c3254                          43
+    x_a_2450  obj1                            1
     x_a_2450  c3255                           9
+    x_a_2451  obj1                            1
     x_a_2451  c3256                          35
+    x_a_2452  obj1                            1
     x_a_2452  c3257                          21
+    x_a_2453  obj1                            1
     x_a_2453  c3258                          46
+    x_a_2454  obj1                            1
     x_a_2454  c3259                          40
+    x_a_2455  obj1                            1
     x_a_2455  c3260                           2
+    x_a_2456  obj1                            1
     x_a_2456  c3261                          15
+    x_a_2457  obj1                            1
     x_a_2457  c3262                          31
+    x_a_2458  obj1                            1
     x_a_2458  c3263                          34
+    x_a_2459  obj1                            1
     x_a_2459  c3264                           6
+    x_a_2460  obj1                            1
     x_a_2460  c3265                           4
+    x_a_2461  obj1                            1
     x_a_2461  c3266                          11
+    x_a_2462  obj1                            1
     x_a_2462  c3267                          31
+    x_a_2463  obj1                            1
     x_a_2463  c3268                          26
+    x_a_2464  obj1                            1
     x_a_2464  c3269                          31
+    x_a_2465  obj1                            1
     x_a_2465  c3270                          22
+    x_a_2466  obj1                            1
     x_a_2466  c3271                           4
+    x_a_2467  obj1                            1
     x_a_2467  c3272                          46
+    x_a_2468  obj1                            1
     x_a_2468  c3273                          30
+    x_a_2469  obj1                            1
     x_a_2469  c3274                          38
+    x_a_2470  obj1                            1
     x_a_2470  c3275                           5
+    x_a_2471  obj1                            1
     x_a_2471  c3276                          48
+    x_a_2472  obj1                            1
     x_a_2472  c3277                           5
+    x_a_2473  obj1                            1
     x_a_2473  c3278                          20
+    x_a_2474  obj1                            1
     x_a_2474  c3279                          23
+    x_a_2475  obj1                            1
     x_a_2475  c3280                          46
+    x_a_2476  obj1                            1
     x_a_2476  c3281                           8
+    x_a_2477  obj1                            1
     x_a_2477  c3282                          11
+    x_a_2478  obj1                            1
     x_a_2478  c3283                           8
+    x_a_2479  obj1                            1
     x_a_2479  c3284                           9
+    x_a_2480  obj1                            1
     x_a_2480  c3285                          16
+    x_a_2481  obj1                            1
     x_a_2481  c3286                          22
+    x_a_2482  obj1                            1
     x_a_2482  c3287                          24
+    x_a_2483  obj1                            1
     x_a_2483  c3288                          38
+    x_a_2484  obj1                            1
     x_a_2484  c3289                          35
+    x_a_2485  obj1                            1
     x_a_2485  c3290                          29
+    x_a_2486  obj1                            1
     x_a_2486  c3291                           1
+    x_a_2487  obj1                            1
     x_a_2487  c3292                           8
+    x_a_2488  obj1                            1
     x_a_2488  c3293                          38
+    x_a_2489  obj1                            1
     x_a_2489  c3294                           3
+    x_a_2490  obj1                            1
     x_a_2490  c3295                          36
+    x_a_2491  obj1                            1
     x_a_2491  c3296                          46
+    x_a_2492  obj1                            1
     x_a_2492  c3297                          23
+    x_a_2493  obj1                            1
     x_a_2493  c3298                          45
+    x_a_2494  obj1                            1
     x_a_2494  c3299                          34
+    x_a_2495  obj1                            1
     x_a_2495  c3300                          10
+    x_a_2496  obj1                            1
     x_a_2496  c3301                          29
+    x_a_2497  obj1                            1
     x_a_2497  c3302                          22
+    x_a_2498  obj1                            1
     x_a_2498  c3303                          10
+    x_a_2499  obj1                            1
     x_a_2499  c3304                          17
+    x_a_2500  obj1                            1
     x_a_2500  c3305                          33
+    x_a_2501  obj1                            1
     x_a_2501  c3306                          39
+    x_a_2502  obj1                            1
     x_a_2502  c3307                          27
+    x_a_2503  obj1                            1
     x_a_2503  c3308                          35
+    x_a_2504  obj1                            1
     x_a_2504  c3309                           4
+    x_a_2505  obj1                            1
     x_a_2505  c3310                          35
+    x_a_2506  obj1                            1
     x_a_2506  c3311                          11
+    x_a_2507  obj1                            1
     x_a_2507  c3312                          45
+    x_a_2508  obj1                            1
     x_a_2508  c3313                          38
+    x_a_2509  obj1                            1
     x_a_2509  c3314                          34
+    x_a_2510  obj1                            1
     x_a_2510  c3315                          47
+    x_a_2511  obj1                            1
     x_a_2511  c3316                           3
+    x_a_2512  obj1                            1
     x_a_2512  c3317                          12
+    x_a_2513  obj1                            1
     x_a_2513  c3318                          45
+    x_a_2514  obj1                            1
     x_a_2514  c3319                          40
+    x_a_2515  obj1                            1
     x_a_2515  c3320                          47
+    x_a_2516  obj1                            1
     x_a_2516  c3321                          49
+    x_a_2517  obj1                            1
     x_a_2517  c3322                          35
+    x_a_2518  obj1                            1
     x_a_2518  c3323                          17
+    x_a_2519  obj1                            1
     x_a_2519  c3324                          28
+    x_a_2520  obj1                            1
     x_a_2520  c3325                          31
+    x_a_2521  obj1                            1
     x_a_2521  c3326                           1
+    x_a_2522  obj1                            1
     x_a_2522  c3327                           8
+    x_a_2523  obj1                            1
     x_a_2523  c3328                          37
+    x_a_2524  obj1                            1
     x_a_2524  c3329                          21
+    x_a_2525  obj1                            1
     x_a_2525  c3330                          19
+    x_a_2526  obj1                            1
     x_a_2526  c3331                          31
+    x_a_2527  obj1                            1
     x_a_2527  c3332                           7
+    x_a_2528  obj1                            1
     x_a_2528  c3333                          11
+    x_a_2529  obj1                            1
     x_a_2529  c3334                           9
+    x_a_2530  obj1                            1
     x_a_2530  c3335                          34
+    x_a_2531  obj1                            1
     x_a_2531  c3336                          19
+    x_a_2532  obj1                            1
     x_a_2532  c3337                          38
+    x_a_2533  obj1                            1
     x_a_2533  c3338                          23
+    x_a_2534  obj1                            1
     x_a_2534  c3339                          10
+    x_a_2535  obj1                            1
     x_a_2535  c3340                          35
+    x_a_2536  obj1                            1
     x_a_2536  c3341                          16
+    x_a_2537  obj1                            1
     x_a_2537  c3342                          32
+    x_a_2538  obj1                            1
     x_a_2538  c3343                           5
+    x_a_2539  obj1                            1
     x_a_2539  c3344                          40
+    x_a_2540  obj1                            1
     x_a_2540  c3345                          13
+    x_a_2541  obj1                            1
     x_a_2541  c3346                          43
+    x_a_2542  obj1                            1
     x_a_2542  c3347                          16
+    x_a_2543  obj1                            1
     x_a_2543  c3348                          18
+    x_a_2544  obj1                            1
     x_a_2544  c3349                          23
+    x_a_2545  obj1                            1
     x_a_2545  c3350                          26
+    x_a_2546  obj1                            1
     x_a_2546  c3351                          45
+    x_a_2547  obj1                            1
     x_a_2547  c3352                          33
+    x_a_2548  obj1                            1
     x_a_2548  c3353                          38
+    x_a_2549  obj1                            1
     x_a_2549  c3354                          14
+    x_a_2550  obj1                            1
     x_a_2550  c3355                          28
+    x_a_2551  obj1                            1
     x_a_2551  c3356                          17
+    x_a_2552  obj1                            1
     x_a_2552  c3357                          40
+    x_a_2553  obj1                            1
     x_a_2553  c3358                           1
+    x_a_2554  obj1                            1
     x_a_2554  c3359                          44
+    x_a_2555  obj1                            1
     x_a_2555  c3360                          16
+    x_a_2556  obj1                            1
     x_a_2556  c3361                          35
+    x_a_2557  obj1                            1
     x_a_2557  c3362                          49
+    x_a_2558  obj1                            1
     x_a_2558  c3363                          30
+    x_a_2559  obj1                            1
     x_a_2559  c3364                          39
+    x_a_2560  obj1                            1
     x_a_2560  c3365                          42
+    x_a_2561  obj1                            1
     x_a_2561  c3366                          38
+    x_a_2562  obj1                            1
     x_a_2562  c3367                           9
+    x_a_2563  obj1                            1
     x_a_2563  c3368                           6
+    x_a_2564  obj1                            1
     x_a_2564  c3369                          31
+    x_a_2565  obj1                            1
     x_a_2565  c3370                           8
+    x_a_2566  obj1                            1
     x_a_2566  c3371                          18
+    x_a_2567  obj1                            1
     x_a_2567  c3372                           8
+    x_a_2568  obj1                            1
     x_a_2568  c3373                           3
+    x_a_2569  obj1                            1
     x_a_2569  c3374                          40
+    x_a_2570  obj1                            1
     x_a_2570  c3375                          42
+    x_a_2571  obj1                            1
     x_a_2571  c3376                          49
+    x_a_2572  obj1                            1
     x_a_2572  c3377                          13
+    x_a_2573  obj1                            1
     x_a_2573  c3378                          14
+    x_a_2574  obj1                            1
     x_a_2574  c3379                          29
+    x_a_2575  obj1                            1
     x_a_2575  c3380                          34
+    x_a_2576  obj1                            1
     x_a_2576  c3381                          42
+    x_a_2577  obj1                            1
     x_a_2577  c3382                          41
+    x_a_2578  obj1                            1
     x_a_2578  c3383                          27
+    x_a_2579  obj1                            1
     x_a_2579  c3384                          38
+    x_a_2580  obj1                            1
     x_a_2580  c3385                          38
+    x_a_2581  obj1                            1
     x_a_2581  c3386                          41
+    x_a_2582  obj1                            1
     x_a_2582  c3387                          19
+    x_a_2583  obj1                            1
     x_a_2583  c3388                          14
+    x_a_2584  obj1                            1
     x_a_2584  c3389                           8
+    x_a_2585  obj1                            1
     x_a_2585  c3390                          44
+    x_a_2586  obj1                            1
     x_a_2586  c3391                           4
+    x_a_2587  obj1                            1
     x_a_2587  c3392                          30
+    x_a_2588  obj1                            1
     x_a_2588  c3393                           3
+    x_a_2589  obj1                            1
     x_a_2589  c3394                          11
+    x_a_2590  obj1                            1
     x_a_2590  c3395                          32
+    x_a_2591  obj1                            1
     x_a_2591  c3396                          32
+    x_a_2592  obj1                            1
     x_a_2592  c3397                          14
+    x_a_2593  obj1                            1
     x_a_2593  c3398                          48
+    x_a_2594  obj1                            1
     x_a_2594  c3399                          17
+    x_a_2595  obj1                            1
     x_a_2595  c3400                           1
+    x_a_2596  obj1                            1
     x_a_2596  c3401                          34
+    x_a_2597  obj1                            1
     x_a_2597  c3402                          23
+    x_a_2598  obj1                            1
     x_a_2598  c3403                          17
+    x_a_2599  obj1                            1
     x_a_2599  c3404                          29
+    x_a_2600  obj1                            1
     x_a_2600  c3405                           7
+    x_a_2601  obj1                            1
     x_a_2601  c3406                          40
+    x_a_2602  obj1                            1
     x_a_2602  c3407                           2
+    x_a_2603  obj1                            1
     x_a_2603  c3408                          40
+    x_a_2604  obj1                            1
     x_a_2604  c3409                          43
+    x_a_2605  obj1                            1
     x_a_2605  c3410                          20
+    x_a_2606  obj1                            1
     x_a_2606  c3411                          27
+    x_a_2607  obj1                            1
     x_a_2607  c3412                           2
+    x_a_2608  obj1                            1
     x_a_2608  c3413                          31
+    x_a_2609  obj1                            1
     x_a_2609  c3414                          44
+    x_a_2610  obj1                            1
     x_a_2610  c3415                          33
+    x_a_2611  obj1                            1
     x_a_2611  c3416                          48
+    x_a_2612  obj1                            1
     x_a_2612  c3417                          47
+    x_a_2613  obj1                            1
     x_a_2613  c3418                          17
+    x_a_2614  obj1                            1
     x_a_2614  c3419                          26
+    x_a_2615  obj1                            1
     x_a_2615  c3420                          32
+    x_a_2616  obj1                            1
     x_a_2616  c3421                          49
+    x_a_2617  obj1                            1
     x_a_2617  c3422                          36
+    x_a_2618  obj1                            1
     x_a_2618  c3423                          10
+    x_a_2619  obj1                            1
     x_a_2619  c3424                          43
+    x_a_2620  obj1                            1
     x_a_2620  c3425                          10
+    x_a_2621  obj1                            1
     x_a_2621  c3426                           6
+    x_a_2622  obj1                            1
     x_a_2622  c3427                          42
+    x_a_2623  obj1                            1
     x_a_2623  c3428                          30
+    x_a_2624  obj1                            1
     x_a_2624  c3429                          27
+    x_a_2625  obj1                            1
     x_a_2625  c3430                          28
+    x_a_2626  obj1                            1
     x_a_2626  c3431                          10
+    x_a_2627  obj1                            1
     x_a_2627  c3432                          30
+    x_a_2628  obj1                            1
     x_a_2628  c3433                          15
+    x_a_2629  obj1                            1
     x_a_2629  c3434                          21
+    x_a_2630  obj1                            1
     x_a_2630  c3435                          38
+    x_a_2631  obj1                            1
     x_a_2631  c3436                          40
+    x_a_2632  obj1                            1
     x_a_2632  c3437                          39
+    x_a_2633  obj1                            1
     x_a_2633  c3438                          10
+    x_a_2634  obj1                            1
     x_a_2634  c3439                           8
+    x_a_2635  obj1                            1
     x_a_2635  c3440                          37
+    x_a_2636  obj1                            1
     x_a_2636  c3441                          40
+    x_a_2637  obj1                            1
     x_a_2637  c3442                          34
+    x_a_2638  obj1                            1
     x_a_2638  c3443                          34
+    x_a_2639  obj1                            1
     x_a_2639  c3444                          19
+    x_a_2640  obj1                            1
     x_a_2640  c3445                           1
+    x_a_2641  obj1                            1
     x_a_2641  c3446                          43
+    x_a_2642  obj1                            1
     x_a_2642  c3447                          34
+    x_a_2643  obj1                            1
     x_a_2643  c3448                          41
+    x_a_2644  obj1                            1
     x_a_2644  c3449                          40
+    x_a_2645  obj1                            1
     x_a_2645  c3450                          38
+    x_a_2646  obj1                            1
     x_a_2646  c3451                          16
+    x_a_2647  obj1                            1
     x_a_2647  c3452                          15
+    x_a_2648  obj1                            1
     x_a_2648  c3453                          44
+    x_a_2649  obj1                            1
     x_a_2649  c3454                          47
+    x_a_2650  obj1                            1
     x_a_2650  c3455                          27
+    x_a_2651  obj1                            1
     x_a_2651  c3456                           1
+    x_a_2652  obj1                            1
     x_a_2652  c3457                          14
+    x_a_2653  obj1                            1
     x_a_2653  c3458                          20
+    x_a_2654  obj1                            1
     x_a_2654  c3459                          39
+    x_a_2655  obj1                            1
     x_a_2655  c3460                          34
+    x_a_2656  obj1                            1
     x_a_2656  c3461                          29
+    x_a_2657  obj1                            1
     x_a_2657  c3462                           1
+    x_a_2658  obj1                            1
     x_a_2658  c3463                          29
+    x_a_2659  obj1                            1
     x_a_2659  c3464                          20
+    x_a_2660  obj1                            1
     x_a_2660  c3465                           1
+    x_a_2661  obj1                            1
     x_a_2661  c3466                          48
+    x_a_2662  obj1                            1
     x_a_2662  c3467                           2
+    x_a_2663  obj1                            1
     x_a_2663  c3468                           6
+    x_a_2664  obj1                            1
     x_a_2664  c3469                          23
+    x_a_2665  obj1                            1
     x_a_2665  c3470                          39
+    x_a_2666  obj1                            1
     x_a_2666  c3471                          22
+    x_a_2667  obj1                            1
     x_a_2667  c3472                           4
+    x_a_2668  obj1                            1
     x_a_2668  c3473                           2
+    x_a_2669  obj1                            1
     x_a_2669  c3474                          15
+    x_a_2670  obj1                            1
     x_a_2670  c3475                          45
+    x_a_2671  obj1                            1
     x_a_2671  c3476                          25
+    x_a_2672  obj1                            1
     x_a_2672  c3477                          14
+    x_a_2673  obj1                            1
     x_a_2673  c3478                          38
+    x_a_2674  obj1                            1
     x_a_2674  c3479                          15
+    x_a_2675  obj1                            1
     x_a_2675  c3480                          31
+    x_a_2676  obj1                            1
     x_a_2676  c3481                          45
+    x_a_2677  obj1                            1
     x_a_2677  c3482                          21
+    x_a_2678  obj1                            1
     x_a_2678  c3483                          12
+    x_a_2679  obj1                            1
     x_a_2679  c3484                           3
+    x_a_2680  obj1                            1
     x_a_2680  c3485                          38
+    x_a_2681  obj1                            1
     x_a_2681  c3486                          29
+    x_a_2682  obj1                            1
     x_a_2682  c3487                          43
+    x_a_2683  obj1                            1
     x_a_2683  c3488                          15
+    x_a_2684  obj1                            1
     x_a_2684  c3489                          21
+    x_a_2685  obj1                            1
     x_a_2685  c3490                          18
+    x_a_2686  obj1                            1
     x_a_2686  c3491                          19
+    x_a_2687  obj1                            1
     x_a_2687  c3492                          45
+    x_a_2688  obj1                            1
     x_a_2688  c3493                          28
+    x_a_2689  obj1                            1
     x_a_2689  c3494                          20
+    x_a_2690  obj1                            1
     x_a_2690  c3495                          44
+    x_a_2691  obj1                            1
     x_a_2691  c3496                           2
+    x_a_2692  obj1                            1
     x_a_2692  c3497                          15
+    x_a_2693  obj1                            1
     x_a_2693  c3498                          28
+    x_a_2694  obj1                            1
     x_a_2694  c3499                           7
+    x_a_2695  obj1                            1
     x_a_2695  c3500                          34
+    x_a_2696  obj1                            1
     x_a_2696  c3501                           4
+    x_a_2697  obj1                            1
     x_a_2697  c3502                           4
+    x_a_2698  obj1                            1
     x_a_2698  c3503                          24
+    x_a_2699  obj1                            1
     x_a_2699  c3504                          22
+    x_a_2700  obj1                            1
     x_a_2700  c3505                          15
+    x_a_2701  obj1                            1
     x_a_2701  c3506                          28
+    x_a_2702  obj1                            1
     x_a_2702  c3507                          15
+    x_a_2703  obj1                            1
     x_a_2703  c3508                          47
+    x_a_2704  obj1                            1
     x_a_2704  c3509                          49
+    x_a_2705  obj1                            1
     x_a_2705  c3510                          27
+    x_a_2706  obj1                            1
     x_a_2706  c3511                           9
+    x_a_2707  obj1                            1
     x_a_2707  c3512                          37
+    x_a_2708  obj1                            1
     x_a_2708  c3513                          32
+    x_a_2709  obj1                            1
     x_a_2709  c3514                          45
+    x_a_2710  obj1                            1
     x_a_2710  c3515                          41
+    x_a_2711  obj1                            1
     x_a_2711  c3516                          11
+    x_a_2712  obj1                            1
     x_a_2712  c3517                           7
+    x_a_2713  obj1                            1
     x_a_2713  c3518                          48
+    x_a_2714  obj1                            1
     x_a_2714  c3519                          21
+    x_a_2715  obj1                            1
     x_a_2715  c3520                           2
+    x_a_2716  obj1                            1
     x_a_2716  c3521                          27
+    x_a_2717  obj1                            1
     x_a_2717  c3522                          20
+    x_a_2718  obj1                            1
     x_a_2718  c3523                          34
+    x_a_2719  obj1                            1
     x_a_2719  c3524                          21
+    x_a_2720  obj1                            1
     x_a_2720  c3525                           3
+    x_a_2721  obj1                            1
     x_a_2721  c3526                          29
+    x_a_2722  obj1                            1
     x_a_2722  c3527                           8
+    x_a_2723  obj1                            1
     x_a_2723  c3528                          40
+    x_a_2724  obj1                            1
     x_a_2724  c3529                          23
+    x_a_2725  obj1                            1
     x_a_2725  c3530                           9
+    x_a_2726  obj1                            1
     x_a_2726  c3531                          37
+    x_a_2727  obj1                            1
     x_a_2727  c3532                          20
+    x_a_2728  obj1                            1
     x_a_2728  c3533                          20
+    x_a_2729  obj1                            1
     x_a_2729  c3534                          44
+    x_a_2730  obj1                            1
     x_a_2730  c3535                          22
+    x_a_2731  obj1                            1
     x_a_2731  c3536                          45
+    x_a_2732  obj1                            1
     x_a_2732  c3537                          10
+    x_a_2733  obj1                            1
     x_a_2733  c3538                          17
+    x_a_2734  obj1                            1
     x_a_2734  c3539                          14
+    x_a_2735  obj1                            1
     x_a_2735  c3540                          13
+    x_a_2736  obj1                            1
     x_a_2736  c3541                          23
+    x_a_2737  obj1                            1
     x_a_2737  c3542                          12
+    x_a_2738  obj1                            1
     x_a_2738  c3543                          11
+    x_a_2739  obj1                            1
     x_a_2739  c3544                          13
+    x_a_2740  obj1                            1
     x_a_2740  c3545                          11
+    x_a_2741  obj1                            1
     x_a_2741  c3546                           6
+    x_a_2742  obj1                            1
     x_a_2742  c3547                          46
+    x_a_2743  obj1                            1
     x_a_2743  c3548                          21
+    x_a_2744  obj1                            1
     x_a_2744  c3549                          37
+    x_a_2745  obj1                            1
     x_a_2745  c3550                          25
+    x_a_2746  obj1                            1
     x_a_2746  c3551                           4
+    x_a_2747  obj1                            1
     x_a_2747  c3552                          41
+    x_a_2748  obj1                            1
     x_a_2748  c3553                          23
+    x_a_2749  obj1                            1
     x_a_2749  c3554                          29
+    x_a_2750  obj1                            1
     x_a_2750  c3555                          15
+    x_a_2751  obj1                            1
     x_a_2751  c3556                          41
+    x_a_2752  obj1                            1
     x_a_2752  c3557                          39
+    x_a_2753  obj1                            1
     x_a_2753  c3558                          25
+    x_a_2754  obj1                            1
     x_a_2754  c3559                          13
+    x_a_2755  obj1                            1
     x_a_2755  c3560                          11
+    x_a_2756  obj1                            1
     x_a_2756  c3561                          35
+    x_a_2757  obj1                            1
     x_a_2757  c3562                          23
+    x_a_2758  obj1                            1
     x_a_2758  c3563                          24
+    x_a_2759  obj1                            1
     x_a_2759  c3564                          35
+    x_a_2760  obj1                            1
     x_a_2760  c3565                          41
+    x_a_2761  obj1                            1
     x_a_2761  c3566                          25
+    x_a_2762  obj1                            1
     x_a_2762  c3567                          12
+    x_a_2763  obj1                            1
     x_a_2763  c3568                          11
+    x_a_2764  obj1                            1
     x_a_2764  c3569                          18
+    x_a_2765  obj1                            1
     x_a_2765  c3570                          42
+    x_a_2766  obj1                            1
     x_a_2766  c3571                          46
+    x_a_2767  obj1                            1
     x_a_2767  c3572                          30
+    x_a_2768  obj1                            1
     x_a_2768  c3573                          26
+    x_a_2769  obj1                            1
     x_a_2769  c3574                          35
+    x_a_2770  obj1                            1
     x_a_2770  c3575                          43
+    x_a_2771  obj1                            1
     x_a_2771  c3576                          30
+    x_a_2772  obj1                            1
     x_a_2772  c3577                          49
+    x_a_2773  obj1                            1
     x_a_2773  c3578                          29
+    x_a_2774  obj1                            1
     x_a_2774  c3579                           2
+    x_a_2775  obj1                            1
     x_a_2775  c3580                          36
+    x_a_2776  obj1                            1
     x_a_2776  c3581                          13
+    x_a_2777  obj1                            1
     x_a_2777  c3582                          41
+    x_a_2778  obj1                            1
     x_a_2778  c3583                          38
+    x_a_2779  obj1                            1
     x_a_2779  c3584                          45
+    x_a_2780  obj1                            1
     x_a_2780  c3585                          12
+    x_a_2781  obj1                            1
     x_a_2781  c3586                          25
+    x_a_2782  obj1                            1
     x_a_2782  c3587                          36
+    x_a_2783  obj1                            1
     x_a_2783  c3588                          48
+    x_a_2784  obj1                            1
     x_a_2784  c3589                          23
+    x_a_2785  obj1                            1
     x_a_2785  c3590                           2
+    x_a_2786  obj1                            1
     x_a_2786  c3591                          20
+    x_a_2787  obj1                            1
     x_a_2787  c3592                          46
+    x_a_2788  obj1                            1
     x_a_2788  c3593                          34
+    x_a_2789  obj1                            1
     x_a_2789  c3594                          10
+    x_a_2790  obj1                            1
     x_a_2790  c3595                          18
+    x_a_2791  obj1                            1
     x_a_2791  c3596                          41
+    x_a_2792  obj1                            1
     x_a_2792  c3597                           7
+    x_a_2793  obj1                            1
     x_a_2793  c3598                          36
+    x_a_2794  obj1                            1
     x_a_2794  c3599                          14
+    x_a_2795  obj1                            1
     x_a_2795  c3600                          11
+    x_a_2796  obj1                            1
     x_a_2796  c3601                          45
+    x_a_2797  obj1                            1
     x_a_2797  c3602                          31
+    x_a_2798  obj1                            1
     x_a_2798  c3603                          32
+    x_a_2799  obj1                            1
     x_a_2799  c3604                          20
+    x_a_2800  obj1                            1
     x_a_2800  c3605                          26
+    x_a_2801  obj1                            1
     x_a_2801  c3606                          11
+    x_a_2802  obj1                            1
     x_a_2802  c3607                          42
+    x_a_2803  obj1                            1
     x_a_2803  c3608                          36
+    x_a_2804  obj1                            1
     x_a_2804  c3609                          48
+    x_a_2805  obj1                            1
     x_a_2805  c3610                          48
+    x_a_2806  obj1                            1
     x_a_2806  c3611                          48
+    x_a_2807  obj1                            1
     x_a_2807  c3612                          46
+    x_a_2808  obj1                            1
     x_a_2808  c3613                          22
+    x_a_2809  obj1                            1
     x_a_2809  c3614                           4
+    x_a_2810  obj1                            1
     x_a_2810  c3615                          12
+    x_a_2811  obj1                            1
     x_a_2811  c3616                          36
+    x_a_2812  obj1                            1
     x_a_2812  c3617                          36
+    x_a_2813  obj1                            1
     x_a_2813  c3618                          23
+    x_a_2814  obj1                            1
     x_a_2814  c3619                           8
+    x_a_2815  obj1                            1
     x_a_2815  c3620                          34
+    x_a_2816  obj1                            1
     x_a_2816  c3621                          44
+    x_a_2817  obj1                            1
     x_a_2817  c3622                          33
+    x_a_2818  obj1                            1
     x_a_2818  c3623                          48
+    x_a_2819  obj1                            1
     x_a_2819  c3624                           1
+    x_a_2820  obj1                            1
     x_a_2820  c3625                          47
+    x_a_2821  obj1                            1
     x_a_2821  c3626                          48
+    x_a_2822  obj1                            1
     x_a_2822  c3627                          38
+    x_a_2823  obj1                            1
     x_a_2823  c3628                          14
+    x_a_2824  obj1                            1
     x_a_2824  c3629                          42
+    x_a_2825  obj1                            1
     x_a_2825  c3630                          22
+    x_a_2826  obj1                            1
     x_a_2826  c3631                           8
+    x_a_2827  obj1                            1
     x_a_2827  c3632                          31
+    x_a_2828  obj1                            1
     x_a_2828  c3633                           9
+    x_a_2829  obj1                            1
     x_a_2829  c3634                          41
+    x_a_2830  obj1                            1
     x_a_2830  c3635                          44
+    x_a_2831  obj1                            1
     x_a_2831  c3636                          24
+    x_a_2832  obj1                            1
     x_a_2832  c3637                          28
+    x_a_2833  obj1                            1
     x_a_2833  c3638                          30
+    x_a_2834  obj1                            1
     x_a_2834  c3639                          46
+    x_a_2835  obj1                            1
     x_a_2835  c3640                          20
+    x_a_2836  obj1                            1
     x_a_2836  c3641                          29
+    x_a_2837  obj1                            1
     x_a_2837  c3642                           2
+    x_a_2838  obj1                            1
     x_a_2838  c3643                          42
+    x_a_2839  obj1                            1
     x_a_2839  c3644                           8
+    x_a_2840  obj1                            1
     x_a_2840  c3645                          20
+    x_a_2841  obj1                            1
     x_a_2841  c3646                          26
+    x_a_2842  obj1                            1
     x_a_2842  c3647                          48
+    x_a_2843  obj1                            1
     x_a_2843  c3648                          38
+    x_a_2844  obj1                            1
     x_a_2844  c3649                          23
+    x_a_2845  obj1                            1
     x_a_2845  c3650                          41
+    x_a_2846  obj1                            1
     x_a_2846  c3651                          19
+    x_a_2847  obj1                            1
     x_a_2847  c3652                           2
+    x_a_2848  obj1                            1
     x_a_2848  c3653                          16
+    x_a_2849  obj1                            1
     x_a_2849  c3654                          42
+    x_a_2850  obj1                            1
     x_a_2850  c3655                          21
+    x_a_2851  obj1                            1
     x_a_2851  c3656                          14
+    x_a_2852  obj1                            1
     x_a_2852  c3657                           2
+    x_a_2853  obj1                            1
     x_a_2853  c3658                           6
+    x_a_2854  obj1                            1
     x_a_2854  c3659                          16
+    x_a_2855  obj1                            1
     x_a_2855  c3660                          25
+    x_a_2856  obj1                            1
     x_a_2856  c3661                          28
+    x_a_2857  obj1                            1
     x_a_2857  c3662                          15
+    x_a_2858  obj1                            1
     x_a_2858  c3663                          36
+    x_a_2859  obj1                            1
     x_a_2859  c3664                           3
+    x_a_2860  obj1                            1
     x_a_2860  c3665                          33
+    x_a_2861  obj1                            1
     x_a_2861  c3666                          32
+    x_a_2862  obj1                            1
     x_a_2862  c3667                          19
+    x_a_2863  obj1                            1
     x_a_2863  c3668                          11
+    x_a_2864  obj1                            1
     x_a_2864  c3669                          49
+    x_a_2865  obj1                            1
     x_a_2865  c3670                          26
+    x_a_2866  obj1                            1
     x_a_2866  c3671                           6
+    x_a_2867  obj1                            1
     x_a_2867  c3672                          32
+    x_a_2868  obj1                            1
     x_a_2868  c3673                          35
+    x_a_2869  obj1                            1
     x_a_2869  c3674                          26
+    x_a_2870  obj1                            1
     x_a_2870  c3675                           8
+    x_a_2871  obj1                            1
     x_a_2871  c3676                          32
+    x_a_2872  obj1                            1
     x_a_2872  c3677                           8
+    x_a_2873  obj1                            1
     x_a_2873  c3678                          23
+    x_a_2874  obj1                            1
     x_a_2874  c3679                          17
+    x_a_2875  obj1                            1
     x_a_2875  c3680                          38
+    x_a_2876  obj1                            1
     x_a_2876  c3681                          36
+    x_a_2877  obj1                            1
     x_a_2877  c3682                          29
+    x_a_2878  obj1                            1
     x_a_2878  c3683                           8
+    x_a_2879  obj1                            1
     x_a_2879  c3684                          32
+    x_a_2880  obj1                            1
     x_a_2880  c3685                           6
+    x_a_2881  obj1                            1
     x_a_2881  c3686                          16
+    x_a_2882  obj1                            1
     x_a_2882  c3687                          31
+    x_a_2883  obj1                            1
     x_a_2883  c3688                          48
+    x_a_2884  obj1                            1
     x_a_2884  c3689                          25
+    x_a_2885  obj1                            1
     x_a_2885  c3690                          46
+    x_a_2886  obj1                            1
     x_a_2886  c3691                          13
+    x_a_2887  obj1                            1
     x_a_2887  c3692                          42
+    x_a_2888  obj1                            1
     x_a_2888  c3693                          32
+    x_a_2889  obj1                            1
     x_a_2889  c3694                          35
+    x_a_2890  obj1                            1
     x_a_2890  c3695                          27
+    x_a_2891  obj1                            1
     x_a_2891  c3696                           9
+    x_a_2892  obj1                            1
     x_a_2892  c3697                          12
+    x_a_2893  obj1                            1
     x_a_2893  c3698                           7
+    x_a_2894  obj1                            1
     x_a_2894  c3699                          22
+    x_a_2895  obj1                            1
     x_a_2895  c3700                           8
+    x_a_2896  obj1                            1
     x_a_2896  c3701                           6
+    x_a_2897  obj1                            1
     x_a_2897  c3702                          45
+    x_a_2898  obj1                            1
     x_a_2898  c3703                          49
+    x_a_2899  obj1                            1
     x_a_2899  c3704                          33
+    x_a_2900  obj1                            1
     x_a_2900  c3705                          47
+    x_a_2901  obj1                            1
     x_a_2901  c3706                          28
+    x_a_2902  obj1                            1
     x_a_2902  c3707                          14
+    x_a_2903  obj1                            1
     x_a_2903  c3708                          44
+    x_a_2904  obj1                            1
     x_a_2904  c3709                          20
+    x_a_2905  obj1                            1
     x_a_2905  c3710                          11
+    x_a_2906  obj1                            1
     x_a_2906  c3711                           6
+    x_a_2907  obj1                            1
     x_a_2907  c3712                           1
+    x_a_2908  obj1                            1
     x_a_2908  c3713                          43
+    x_a_2909  obj1                            1
     x_a_2909  c3714                          18
+    x_a_2910  obj1                            1
     x_a_2910  c3715                          24
+    x_a_2911  obj1                            1
     x_a_2911  c3716                          19
+    x_a_2912  obj1                            1
     x_a_2912  c3717                          28
+    x_a_2913  obj1                            1
     x_a_2913  c3718                          36
+    x_a_2914  obj1                            1
     x_a_2914  c3719                          19
+    x_a_2915  obj1                            1
     x_a_2915  c3720                          37
+    x_a_2916  obj1                            1
     x_a_2916  c3721                          19
+    x_a_2917  obj1                            1
     x_a_2917  c3722                           3
+    x_a_2918  obj1                            1
     x_a_2918  c3723                          46
+    x_a_2919  obj1                            1
     x_a_2919  c3724                          38
+    x_a_2920  obj1                            1
     x_a_2920  c3725                           8
+    x_a_2921  obj1                            1
     x_a_2921  c3726                           2
+    x_a_2922  obj1                            1
     x_a_2922  c3727                          14
+    x_a_2923  obj1                            1
     x_a_2923  c3728                          13
+    x_a_2924  obj1                            1
     x_a_2924  c3729                          31
+    x_a_2925  obj1                            1
     x_a_2925  c3730                          12
+    x_a_2926  obj1                            1
     x_a_2926  c3731                          27
+    x_a_2927  obj1                            1
     x_a_2927  c3732                          35
+    x_a_2928  obj1                            1
     x_a_2928  c3733                          12
+    x_a_2929  obj1                            1
     x_a_2929  c3734                          44
+    x_a_2930  obj1                            1
     x_a_2930  c3735                          23
+    x_a_2931  obj1                            1
     x_a_2931  c3736                          42
+    x_a_2932  obj1                            1
     x_a_2932  c3737                           7
+    x_a_2933  obj1                            1
     x_a_2933  c3738                          15
+    x_a_2934  obj1                            1
     x_a_2934  c3739                           1
+    x_a_2935  obj1                            1
     x_a_2935  c3740                          48
+    x_a_2936  obj1                            1
     x_a_2936  c3741                          31
+    x_a_2937  obj1                            1
     x_a_2937  c3742                          29
+    x_a_2938  obj1                            1
     x_a_2938  c3743                           8
+    x_a_2939  obj1                            1
     x_a_2939  c3744                          45
+    x_a_2940  obj1                            1
     x_a_2940  c3745                          44
+    x_a_2941  obj1                            1
     x_a_2941  c3746                          20
+    x_a_2942  obj1                            1
     x_a_2942  c3747                          26
+    x_a_2943  obj1                            1
     x_a_2943  c3748                          11
+    x_a_2944  obj1                            1
     x_a_2944  c3749                           3
+    x_a_2945  obj1                            1
     x_a_2945  c3750                          30
+    x_a_2946  obj1                            1
     x_a_2946  c3751                           5
+    x_a_2947  obj1                            1
     x_a_2947  c3752                          37
+    x_a_2948  obj1                            1
     x_a_2948  c3753                          38
+    x_a_2949  obj1                            1
     x_a_2949  c3754                          11
+    x_a_2950  obj1                            1
     x_a_2950  c3755                          33
+    x_a_2951  obj1                            1
     x_a_2951  c3756                          16
+    x_a_2952  obj1                            1
     x_a_2952  c3757                           5
+    x_a_2953  obj1                            1
     x_a_2953  c3758                           5
+    x_a_2954  obj1                            1
     x_a_2954  c3759                          32
+    x_a_2955  obj1                            1
     x_a_2955  c3760                          43
+    x_a_2956  obj1                            1
     x_a_2956  c3761                           6
+    x_a_2957  obj1                            1
     x_a_2957  c3762                          44
+    x_a_2958  obj1                            1
     x_a_2958  c3763                          11
+    x_a_2959  obj1                            1
     x_a_2959  c3764                           9
+    x_a_2960  obj1                            1
     x_a_2960  c3765                          45
+    x_a_2961  obj1                            1
     x_a_2961  c3766                          34
+    x_a_2962  obj1                            1
     x_a_2962  c3767                          25
+    x_a_2963  obj1                            1
     x_a_2963  c3768                           2
+    x_a_2964  obj1                            1
     x_a_2964  c3769                           8
+    x_a_2965  obj1                            1
     x_a_2965  c3770                          26
+    x_a_2966  obj1                            1
     x_a_2966  c3771                          32
+    x_a_2967  obj1                            1
     x_a_2967  c3772                           4
+    x_a_2968  obj1                            1
     x_a_2968  c3773                          20
+    x_a_2969  obj1                            1
     x_a_2969  c3774                          15
+    x_a_2970  obj1                            1
     x_a_2970  c3775                          14
+    x_a_2971  obj1                            1
     x_a_2971  c3776                          45
+    x_a_2972  obj1                            1
     x_a_2972  c3777                          17
+    x_a_2973  obj1                            1
     x_a_2973  c3778                           3
+    x_a_2974  obj1                            1
     x_a_2974  c3779                          24
+    x_a_2975  obj1                            1
     x_a_2975  c3780                          20
+    x_a_2976  obj1                            1
     x_a_2976  c3781                          20
+    x_a_2977  obj1                            1
     x_a_2977  c3782                          25
+    x_a_2978  obj1                            1
     x_a_2978  c3783                          43
+    x_a_2979  obj1                            1
     x_a_2979  c3784                           8
+    x_a_2980  obj1                            1
     x_a_2980  c3785                          39
+    x_a_2981  obj1                            1
     x_a_2981  c3786                           7
+    x_a_2982  obj1                            1
     x_a_2982  c3787                          36
+    x_a_2983  obj1                            1
     x_a_2983  c3788                          39
+    x_a_2984  obj1                            1
     x_a_2984  c3789                          37
+    x_a_2985  obj1                            1
     x_a_2985  c3790                          41
+    x_a_2986  obj1                            1
     x_a_2986  c3791                          21
+    x_a_2987  obj1                            1
     x_a_2987  c3792                          42
+    x_a_2988  obj1                            1
     x_a_2988  c3793                          24
+    x_a_2989  obj1                            1
     x_a_2989  c3794                          33
+    x_a_2990  obj1                            1
     x_a_2990  c3795                           7
+    x_a_2991  obj1                            1
     x_a_2991  c3796                           5
+    x_a_2992  obj1                            1
     x_a_2992  c3797                          18
+    x_a_2993  obj1                            1
     x_a_2993  c3798                           1
+    x_a_2994  obj1                            1
     x_a_2994  c3799                          19
+    x_a_2995  obj1                            1
     x_a_2995  c3800                           3
+    x_a_2996  obj1                            1
     x_a_2996  c3801                          44
+    x_a_2997  obj1                            1
     x_a_2997  c3802                          44
+    x_a_2998  obj1                            1
     x_a_2998  c3803                           1
+    x_a_2999  obj1                            1
     x_a_2999  c3804                          17
+    x_a_3000  obj1                            1
     x_a_3000  c3805                          45
+    x_a_3001  obj1                            1
     x_a_3001  c3806                          49
+    x_a_3002  obj1                            1
     x_a_3002  c3807                          28
+    x_a_3003  obj1                            1
     x_a_3003  c3808                          31
+    x_a_3004  obj1                            1
     x_a_3004  c3809                          16
+    x_a_3005  obj1                            1
     x_a_3005  c3810                          15
+    x_a_3006  obj1                            1
     x_a_3006  c3811                          40
+    x_a_3007  obj1                            1
     x_a_3007  c3812                          39
+    x_a_3008  obj1                            1
     x_a_3008  c3813                          23
+    x_a_3009  obj1                            1
     x_a_3009  c3814                          19
+    x_a_3010  obj1                            1
     x_a_3010  c3815                          35
+    x_a_3011  obj1                            1
     x_a_3011  c3816                          36
+    x_a_3012  obj1                            1
     x_a_3012  c3817                          36
+    x_a_3013  obj1                            1
     x_a_3013  c3818                          37
+    x_a_3014  obj1                            1
     x_a_3014  c3819                          30
+    x_a_3015  obj1                            1
     x_a_3015  c3820                          35
+    x_a_3016  obj1                            1
     x_a_3016  c3821                          20
+    x_a_3017  obj1                            1
     x_a_3017  c3822                          16
+    x_a_3018  obj1                            1
     x_a_3018  c3823                          41
+    x_a_3019  obj1                            1
     x_a_3019  c3824                          32
+    x_a_3020  obj1                            1
     x_a_3020  c3825                          13
+    x_a_3021  obj1                            1
     x_a_3021  c3826                          26
+    x_a_3022  obj1                            1
     x_a_3022  c3827                          22
+    x_a_3023  obj1                            1
     x_a_3023  c3828                          31
+    x_a_3024  obj1                            1
     x_a_3024  c3829                          17
+    x_a_3025  obj1                            1
     x_a_3025  c3830                          25
+    x_a_3026  obj1                            1
     x_a_3026  c3831                          49
+    x_a_3027  obj1                            1
     x_a_3027  c3832                          30
+    x_a_3028  obj1                            1
     x_a_3028  c3833                          31
+    x_a_3029  obj1                            1
     x_a_3029  c3834                          12
+    x_a_3030  obj1                            1
     x_a_3030  c3835                          47
+    x_a_3031  obj1                            1
     x_a_3031  c3836                          49
+    x_a_3032  obj1                            1
     x_a_3032  c3837                          39
+    x_a_3033  obj1                            1
     x_a_3033  c3838                          14
+    x_a_3034  obj1                            1
     x_a_3034  c3839                          36
+    x_a_3035  obj1                            1
     x_a_3035  c3840                           6
+    x_a_3036  obj1                            1
     x_a_3036  c3841                          44
+    x_a_3037  obj1                            1
     x_a_3037  c3842                          36
+    x_a_3038  obj1                            1
     x_a_3038  c3843                          37
+    x_a_3039  obj1                            1
     x_a_3039  c3844                          29
+    x_a_3040  obj1                            1
     x_a_3040  c3845                           2
+    x_a_3041  obj1                            1
     x_a_3041  c3846                          13
+    x_a_3042  obj1                            1
     x_a_3042  c3847                           5
+    x_a_3043  obj1                            1
     x_a_3043  c3848                          40
+    x_a_3044  obj1                            1
     x_a_3044  c3849                          20
+    x_a_3045  obj1                            1
     x_a_3045  c3850                          30
+    x_a_3046  obj1                            1
     x_a_3046  c3851                          31
+    x_a_3047  obj1                            1
     x_a_3047  c3852                           2
+    x_a_3048  obj1                            1
     x_a_3048  c3853                          13
+    x_a_3049  obj1                            1
     x_a_3049  c3854                           1
+    x_a_3050  obj1                            1
     x_a_3050  c3855                           1
+    x_a_3051  obj1                            1
     x_a_3051  c3856                          32
+    x_a_3052  obj1                            1
     x_a_3052  c3857                           8
+    x_a_3053  obj1                            1
     x_a_3053  c3858                          35
+    x_a_3054  obj1                            1
     x_a_3054  c3859                          19
+    x_a_3055  obj1                            1
     x_a_3055  c3860                          20
+    x_a_3056  obj1                            1
     x_a_3056  c3861                          47
+    x_a_3057  obj1                            1
     x_a_3057  c3862                          29
+    x_a_3058  obj1                            1
     x_a_3058  c3863                          26
+    x_a_3059  obj1                            1
     x_a_3059  c3864                          12
+    x_a_3060  obj1                            1
     x_a_3060  c3865                          20
+    x_a_3061  obj1                            1
     x_a_3061  c3866                           1
+    x_a_3062  obj1                            1
     x_a_3062  c3867                          46
+    x_a_3063  obj1                            1
     x_a_3063  c3868                          29
+    x_a_3064  obj1                            1
     x_a_3064  c3869                           7
+    x_a_3065  obj1                            1
     x_a_3065  c3870                           3
+    x_a_3066  obj1                            1
     x_a_3066  c3871                          41
+    x_a_3067  obj1                            1
     x_a_3067  c3872                          30
+    x_a_3068  obj1                            1
     x_a_3068  c3873                          28
+    x_a_3069  obj1                            1
     x_a_3069  c3874                          31
+    x_a_3070  obj1                            1
     x_a_3070  c3875                           2
+    x_a_3071  obj1                            1
     x_a_3071  c3876                           7
+    x_a_3072  obj1                            1
     x_a_3072  c3877                          47
+    x_a_3073  obj1                            1
     x_a_3073  c3878                          10
+    x_a_3074  obj1                            1
     x_a_3074  c3879                          31
+    x_a_3075  obj1                            1
     x_a_3075  c3880                          24
+    x_a_3076  obj1                            1
     x_a_3076  c3881                          42
+    x_a_3077  obj1                            1
     x_a_3077  c3882                          27
+    x_a_3078  obj1                            1
     x_a_3078  c3883                          35
+    x_a_3079  obj1                            1
     x_a_3079  c3884                          32
+    x_a_3080  obj1                            1
     x_a_3080  c3885                          34
+    x_a_3081  obj1                            1
     x_a_3081  c3886                           7
+    x_a_3082  obj1                            1
     x_a_3082  c3887                          47
+    x_a_3083  obj1                            1
     x_a_3083  c3888                           2
+    x_a_3084  obj1                            1
     x_a_3084  c3889                          39
+    x_a_3085  obj1                            1
     x_a_3085  c3890                           3
+    x_a_3086  obj1                            1
     x_a_3086  c3891                           9
+    x_a_3087  obj1                            1
     x_a_3087  c3892                          27
+    x_a_3088  obj1                            1
     x_a_3088  c3893                           5
+    x_a_3089  obj1                            1
     x_a_3089  c3894                          21
+    x_a_3090  obj1                            1
     x_a_3090  c3895                          17
+    x_a_3091  obj1                            1
     x_a_3091  c3896                          32
+    x_a_3092  obj1                            1
     x_a_3092  c3897                          46
+    x_a_3093  obj1                            1
     x_a_3093  c3898                          11
+    x_a_3094  obj1                            1
     x_a_3094  c3899                           2
+    x_a_3095  obj1                            1
     x_a_3095  c3900                          33
+    x_a_3096  obj1                            1
     x_a_3096  c3901                          43
+    x_a_3097  obj1                            1
     x_a_3097  c3902                           3
+    x_a_3098  obj1                            1
     x_a_3098  c3903                          14
+    x_a_3099  obj1                            1
     x_a_3099  c3904                          11
+    x_a_3100  obj1                          999
     x_a_3100  c3905                         100
+    x_a_3101  obj1                          999
     x_a_3101  c3906                         100
+    x_a_3102  obj1                          999
     x_a_3102  c3907                         100
+    x_a_3103  obj1                          999
     x_a_3103  c3908                         100
+    x_a_3104  obj1                          999
     x_a_3104  c3909                         100
+    x_a_3105  obj1                          999
     x_a_3105  c3910                         100
+    x_a_3106  obj1                          999
     x_a_3106  c3911                         100
+    x_a_3107  obj1                          999
     x_a_3107  c3912                         100
+    x_a_3108  obj1                          999
     x_a_3108  c3913                         100
+    x_a_3109  obj1                          999
     x_a_3109  c3914                         100
+    x_a_3110  obj1                          999
     x_a_3110  c3915                         100
+    x_a_3111  obj1                          999
     x_a_3111  c3916                         100
+    x_a_3112  obj1                          999
     x_a_3112  c3917                         100
+    x_a_3113  obj1                          999
     x_a_3113  c3918                         100
+    x_a_3114  obj1                          999
     x_a_3114  c3919                         100
+    x_a_3115  obj1                          999
     x_a_3115  c3920                         100
+    x_a_3116  obj1                          999
     x_a_3116  c3921                         100
+    x_a_3117  obj1                          999
     x_a_3117  c3922                         100
+    x_a_3118  obj1                          999
     x_a_3118  c3923                         100
+    x_a_3119  obj1                          999
     x_a_3119  c3924                         100
+    x_a_3120  obj1                        10000
     x_a_3120  c3925                       10000
     MARK0001  'MARKER'                 'INTEND'
 RHS

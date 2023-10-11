@@ -13,11 +13,21 @@
 
 
 
-void createBilevelFiles(instance& instance){
 
+
+void createBilevelFiles(instance& instance, std::string NameInstanceFolder, std::string k, double target){
+
+	// FILE FORMAT EXPLANATION : https://coin-or.github.io/MibS/input.html
+
+
+	std::cout << " Nb arcs = " << instance.linkSource.size() << std::endl;
+	std::cout << " Nb nodes = " << instance.nodesDelay.size() << std::endl;
+	for(int a = 0; a < instance.linkSource.size(); a++){
+		std::cout << " arc a = " << a << "source = " << instance.linkSource[a] << " dest = " << instance.linkDestination[a] << std::endl;
+	}
 	std::ofstream fileBilevel;
 	std::string NameFolder;
-	NameFolder = "BilevelModel.aux";
+	NameFolder = NameInstanceFolder + "BilevelModel_" + k + ".aux";
 	fileBilevel.open(NameFolder, std::ofstream::out | std::ofstream::app);
 
 	int N = instance.linkSource.size(); // nb lower level variables
@@ -30,6 +40,15 @@ void createBilevelFiles(instance& instance){
 	IloModel model_Bilevel(env);
 
 	IloNumVarArray y_a(env);
+
+	for (int a = 0;a < instance.linkSource.size();a++) {
+		std::stringstream namey;
+		namey << "y_a_" << a;
+		y_a.add(IloNumVar(env, 0, IloInfinity, ILOFLOAT, namey.str().c_str()));
+		fileBilevel << "LC " << a << std::endl;
+	}
+
+
 	IloNumVarArray x_a(env);
 
 	for (int a = 0;a < instance.linkSource.size();a++) {
@@ -38,22 +57,7 @@ void createBilevelFiles(instance& instance){
 		x_a.add(IloNumVar(env, 0, 1, ILOINT, namex.str().c_str()));
 	}
 
-	for (int a = 0;a < instance.linkSource.size();a++) {
-		std::stringstream namey;
-		namey << "y_a_" << a;
-		y_a.add(IloNumVar(env, 0, IloInfinity, ILOFLOAT, namey.str().c_str()));
-		fileBilevel << "LC " << instance.linkSource.size() + a << std::endl;
-	}
 
-	for (int a = 0;a < instance.linkSource.size();a++) {
-		std::stringstream namex;
-		namex << "x_a_" << a;
-		std::stringstream namey;
-		namex << "y_a_" << a;
-		x_a.add(IloNumVar(env, 0, 1, ILOINT, namex.str().c_str()));
-		y_a.add(IloNumVar(env, 0, IloInfinity, ILOFLOAT, namey.str().c_str()));
-
-	}
 
 	/* Constraints */
 	/* \vartheta({\bf x} ) &\le \Phi */
@@ -63,9 +67,9 @@ void createBilevelFiles(instance& instance){
 			MaxFlowExpr += y_a[a];
 		}
 	}
-	model_Bilevel.add(MaxFlowExpr <= instance.TargetFlowValue);
+	model_Bilevel.add(MaxFlowExpr <= target);
 
-	 int lr_constraints = 0;
+	 int lr_constraints = 1;
 	/* Flow conservation constraint */
 	for (int u = 0;u < instance.nodesDelay.size();u++) {
 		IloExpr FlowConstraint(env);
@@ -94,17 +98,36 @@ void createBilevelFiles(instance& instance){
 		if(instance.linkSource[a] == instance.Source){
 			fileBilevel << "LO 1" << std::endl;
 		}
-		fileBilevel << "LO 0" << std::endl;
+		else{
+			fileBilevel << "LO 0" << std::endl;
+		}
 	}
 
-	fileBilevel << "OS 1" << std::endl;
+	fileBilevel << "OS -1" << std::endl;
+
+	IloExpr Obj(env);
+	for (int a = 0; a < instance.linkSource.size();a++) {
+		std::cout << "a = " << a << "linkcost = " << instance.linkCost[a] << std::endl;
+		Obj += instance.linkCost[a]*x_a[a];
+	}
+	model_Bilevel.add(IloMinimize(env, Obj));
+
 
 	IloCplex cplex_Bilevel(model_Bilevel);
 
-	std::string NameMpsFile = "BilevelModel.mps";
+	std::string NameMpsFile = NameInstanceFolder + "BilevelModel_" + k + ".mps";
 	cplex_Bilevel.exportModel(NameMpsFile.c_str());
 
+	std::string NameLPFile = NameInstanceFolder + "BilevelModel_" + k + ".lp";
+	cplex_Bilevel.exportModel(NameLPFile.c_str());
+
+	//std::string NameMPSFile = NameInstanceFolder + "BilevelModel_Convert_" + k + ".mps";
+	//cplex_Bilevel.exportModel(NameLPFile.c_str());
+
+    //IloConversion conv(env, NameLPFile, IloCplex::LPFormat);
+    //conv.toFile(IloCplex::MPSFormat, NameMPSFile);
 }
+
 
 
 

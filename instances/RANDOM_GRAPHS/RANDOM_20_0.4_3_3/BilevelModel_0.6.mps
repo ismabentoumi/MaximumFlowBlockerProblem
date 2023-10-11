@@ -203,49 +203,93 @@ COLUMNS
     y_a_43    c21                             1
     y_a_43    c65                             1
     MARK0000  'MARKER'                 'INTORG'
+    x_a_0     obj1                            1
     x_a_0     c22                            24
+    x_a_1     obj1                            1
     x_a_1     c23                            49
+    x_a_2     obj1                            1
     x_a_2     c24                            41
+    x_a_3     obj1                            2
     x_a_3     c25                            44
+    x_a_4     obj1                            1
     x_a_4     c26                            23
+    x_a_5     obj1                            1
     x_a_5     c27                            49
+    x_a_6     obj1                            1
     x_a_6     c28                            17
+    x_a_7     obj1                            2
     x_a_7     c29                            48
+    x_a_8     obj1                            3
     x_a_8     c30                             5
+    x_a_9     obj1                            1
     x_a_9     c31                            40
+    x_a_10    obj1                            2
     x_a_10    c32                            20
+    x_a_11    obj1                            3
     x_a_11    c33                            17
+    x_a_12    obj1                            2
     x_a_12    c34                            30
+    x_a_13    obj1                            1
     x_a_13    c35                            14
+    x_a_14    obj1                            1
     x_a_14    c36                            19
+    x_a_15    obj1                            2
     x_a_15    c37                            37
+    x_a_16    obj1                            2
     x_a_16    c38                            37
+    x_a_17    obj1                            3
     x_a_17    c39                            34
+    x_a_18    obj1                            1
     x_a_18    c40                            15
+    x_a_19    obj1                            1
     x_a_19    c41                            18
+    x_a_20    obj1                            3
     x_a_20    c42                            36
+    x_a_21    obj1                            1
     x_a_21    c43                            30
+    x_a_22    obj1                            2
     x_a_22    c44                            44
+    x_a_23    obj1                            1
     x_a_23    c45                            44
+    x_a_24    obj1                            2
     x_a_24    c46                            23
+    x_a_25    obj1                            2
     x_a_25    c47                             1
+    x_a_26    obj1                            2
     x_a_26    c48                            15
+    x_a_27    obj1                            2
     x_a_27    c49                             1
+    x_a_28    obj1                            2
     x_a_28    c50                            40
+    x_a_29    obj1                            3
     x_a_29    c51                            41
+    x_a_30    obj1                            1
     x_a_30    c52                            38
+    x_a_31    obj1                            3
     x_a_31    c53                            48
+    x_a_32    obj1                            2
     x_a_32    c54                            36
+    x_a_33    obj1                            3
     x_a_33    c55                            42
+    x_a_34    obj1                            2
     x_a_34    c56                            28
+    x_a_35    obj1                   1000000000
     x_a_35    c57                      50000000
+    x_a_36    obj1                   1000000000
     x_a_36    c58                      50000000
+    x_a_37    obj1                   1000000000
     x_a_37    c59                      50000000
+    x_a_38    obj1                   1000000000
     x_a_38    c60                      50000000
+    x_a_39    obj1                   1000000000
     x_a_39    c61                      50000000
+    x_a_40    obj1                   1000000000
     x_a_40    c62                      50000000
+    x_a_41    obj1                   1000000000
     x_a_41    c63                      50000000
+    x_a_42    obj1                   1000000000
     x_a_42    c64                      50000000
+    x_a_43    obj1                        10000
     x_a_43    c65                         10000
     MARK0001  'MARKER'                 'INTEND'
 RHS

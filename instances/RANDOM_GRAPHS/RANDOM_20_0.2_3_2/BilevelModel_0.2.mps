@@ -113,26 +113,47 @@ COLUMNS
     y_a_20    c21                             1
     y_a_20    c42                             1
     MARK0000  'MARKER'                 'INTORG'
+    x_a_0     obj1                            2
     x_a_0     c22                            44
+    x_a_1     obj1                            3
     x_a_1     c23                            27
+    x_a_2     obj1                            2
     x_a_2     c24                            25
+    x_a_3     obj1                            1
     x_a_3     c25                            48
+    x_a_4     obj1                            1
     x_a_4     c26                            38
+    x_a_5     obj1                            2
     x_a_5     c27                            38
+    x_a_6     obj1                            2
     x_a_6     c28                             4
+    x_a_7     obj1                            3
     x_a_7     c29                            16
+    x_a_8     obj1                            1
     x_a_8     c30                            49
+    x_a_9     obj1                            1
     x_a_9     c31                            34
+    x_a_10    obj1                            1
     x_a_10    c32                            31
+    x_a_11    obj1                            3
     x_a_11    c33                            44
+    x_a_12    obj1                   1000000000
     x_a_12    c34                      50000000
+    x_a_13    obj1                   1000000000
     x_a_13    c35                      50000000
+    x_a_14    obj1                   1000000000
     x_a_14    c36                      50000000
+    x_a_15    obj1                   1000000000
     x_a_15    c37                      50000000
+    x_a_16    obj1                   1000000000
     x_a_16    c38                      50000000
+    x_a_17    obj1                   1000000000
     x_a_17    c39                      50000000
+    x_a_18    obj1                   1000000000
     x_a_18    c40                      50000000
+    x_a_19    obj1                   1000000000
     x_a_19    c41                      50000000
+    x_a_20    obj1                        10000
     x_a_20    c42                         10000
     MARK0001  'MARKER'                 'INTEND'
 RHS
