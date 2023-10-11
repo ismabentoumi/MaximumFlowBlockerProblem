@@ -4,9 +4,9 @@
 #INSTANCES GRID 
 for k in 0.2 0.6 0.9
  	do
-  	# REMPLACER INSTANCE FOLDER + Recuperer resultats
+  # REMPLACER /path_to_git/ 
   #./bilevel -mpsfile -mpsfile myInstanceFolder/myInstance.mps -setting *NUMBER*
-  ./bilevel -mpsfile /path_to_git/MaximumFlowBlockerProblem/instances/GRIDS/net10_20_15/BilevelModel_"$k".mps -setting *NUMBER*
+  ./bilevel -mpsfile /path_to_git/MaximumFlowBlockerProblem/instances/GRIDS/net10_20_15/BilevelModel_"$k".mps -setting *NUMBER* -print_sol 0 -time_limit 600 | tail -n 1 >> sol.txt
 	./bilevel -mpsfile /path_to_git/MaximumFlowBlockerProblem/instances/GRIDS/net10_20_22/BilevelModel_"$k".mps -setting *NUMBER*
 	./bilevel -mpsfile /path_to_git/MaximumFlowBlockerProblem/instances/GRIDS/net10_20_5/BilevelModel_"$k".mps -setting *NUMBER*
 	./bilevel -mpsfile /path_to_git/MaximumFlowBlockerProblem/instances/GRIDS/net20_160_7/BilevelModel_"$k".mps -setting *NUMBER*		
