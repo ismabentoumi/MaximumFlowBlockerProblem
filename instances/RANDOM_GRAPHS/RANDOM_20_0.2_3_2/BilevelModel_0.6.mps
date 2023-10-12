@@ -45,6 +45,7 @@ ROWS
  L  c41     
  L  c42     
 COLUMNS
+    MARK0000  'MARKER'                 'INTORG'
     y_a_12    c1                              1
     y_a_12    c3                             -1
     y_a_12    c20                             1
@@ -112,7 +113,6 @@ COLUMNS
     y_a_20    c20                            -1
     y_a_20    c21                             1
     y_a_20    c42                             1
-    MARK0000  'MARKER'                 'INTORG'
     x_a_0     obj1                            2
     x_a_0     c22                            44
     x_a_1     obj1                            3
@@ -180,6 +180,27 @@ RHS
     rhs       c41                      50000000
     rhs       c42                         10000
 BOUNDS
+ UP bnd       y_a_12                   50000000
+ UP bnd       y_a_13                   50000000
+ UP bnd       y_a_14                   50000000
+ UP bnd       y_a_15                   50000000
+ UP bnd       y_a_0                          44
+ UP bnd       y_a_1                          27
+ UP bnd       y_a_2                          25
+ UP bnd       y_a_3                          48
+ UP bnd       y_a_4                          38
+ UP bnd       y_a_19                   50000000
+ UP bnd       y_a_5                          38
+ UP bnd       y_a_6                           4
+ UP bnd       y_a_7                          16
+ UP bnd       y_a_8                          49
+ UP bnd       y_a_9                          34
+ UP bnd       y_a_17                   50000000
+ UP bnd       y_a_10                         31
+ UP bnd       y_a_18                   50000000
+ UP bnd       y_a_11                         44
+ UP bnd       y_a_16                   50000000
+ UP bnd       y_a_20                      10000
  BV bnd       x_a_0   
  BV bnd       x_a_1   
  BV bnd       x_a_2   

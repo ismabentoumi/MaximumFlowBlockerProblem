@@ -232,6 +232,7 @@ ROWS
  L  c228    
  L  c229    
 COLUMNS
+    MARK0000  'MARKER'                 'INTORG'
     y_a_157   c1                              1
     y_a_157   c37                            -1
     y_a_157   c50                             1
@@ -776,7 +777,6 @@ COLUMNS
     y_a_177   c50                            -1
     y_a_177   c51                             1
     y_a_177   c229                            1
-    MARK0000  'MARKER'                 'INTORG'
     x_a_0     obj1                            3
     x_a_0     c52                            48
     x_a_1     obj1                            2
@@ -1315,6 +1315,184 @@ RHS
     rhs       c228                     50000000
     rhs       c229                        10000
 BOUNDS
+ UP bnd       y_a_157                  50000000
+ UP bnd       y_a_158                  50000000
+ UP bnd       y_a_159                  50000000
+ UP bnd       y_a_160                  50000000
+ UP bnd       y_a_161                  50000000
+ UP bnd       y_a_162                  50000000
+ UP bnd       y_a_163                  50000000
+ UP bnd       y_a_164                  50000000
+ UP bnd       y_a_165                  50000000
+ UP bnd       y_a_166                  50000000
+ UP bnd       y_a_0                          48
+ UP bnd       y_a_1                           7
+ UP bnd       y_a_2                          16
+ UP bnd       y_a_3                          44
+ UP bnd       y_a_4                          39
+ UP bnd       y_a_5                          20
+ UP bnd       y_a_6                          41
+ UP bnd       y_a_7                          15
+ UP bnd       y_a_8                          18
+ UP bnd       y_a_9                           7
+ UP bnd       y_a_10                         32
+ UP bnd       y_a_11                         33
+ UP bnd       y_a_12                         19
+ UP bnd       y_a_13                         23
+ UP bnd       y_a_14                         48
+ UP bnd       y_a_15                         13
+ UP bnd       y_a_16                         46
+ UP bnd       y_a_17                         42
+ UP bnd       y_a_18                         15
+ UP bnd       y_a_176                  50000000
+ UP bnd       y_a_19                          6
+ UP bnd       y_a_20                         25
+ UP bnd       y_a_21                         34
+ UP bnd       y_a_22                         30
+ UP bnd       y_a_23                         42
+ UP bnd       y_a_24                          6
+ UP bnd       y_a_25                         13
+ UP bnd       y_a_26                         31
+ UP bnd       y_a_27                         10
+ UP bnd       y_a_28                         41
+ UP bnd       y_a_29                         41
+ UP bnd       y_a_30                         19
+ UP bnd       y_a_31                         17
+ UP bnd       y_a_32                          6
+ UP bnd       y_a_33                         35
+ UP bnd       y_a_34                         36
+ UP bnd       y_a_35                          3
+ UP bnd       y_a_36                         28
+ UP bnd       y_a_37                          4
+ UP bnd       y_a_38                          7
+ UP bnd       y_a_39                         24
+ UP bnd       y_a_40                          4
+ UP bnd       y_a_41                         33
+ UP bnd       y_a_42                         35
+ UP bnd       y_a_43                         30
+ UP bnd       y_a_44                          5
+ UP bnd       y_a_45                         45
+ UP bnd       y_a_46                         49
+ UP bnd       y_a_47                         41
+ UP bnd       y_a_48                         46
+ UP bnd       y_a_49                         10
+ UP bnd       y_a_50                         13
+ UP bnd       y_a_51                          8
+ UP bnd       y_a_52                          8
+ BV bnd       y_a_53  
+ UP bnd       y_a_54                         35
+ UP bnd       y_a_55                         24
+ UP bnd       y_a_168                  50000000
+ UP bnd       y_a_56                         33
+ UP bnd       y_a_57                         48
+ UP bnd       y_a_58                         23
+ UP bnd       y_a_59                         47
+ UP bnd       y_a_60                         44
+ UP bnd       y_a_61                         18
+ UP bnd       y_a_62                         49
+ UP bnd       y_a_63                         44
+ UP bnd       y_a_64                         47
+ UP bnd       y_a_65                          3
+ UP bnd       y_a_171                  50000000
+ UP bnd       y_a_66                         19
+ UP bnd       y_a_67                          2
+ UP bnd       y_a_68                         37
+ UP bnd       y_a_69                         33
+ UP bnd       y_a_70                         44
+ BV bnd       y_a_71  
+ UP bnd       y_a_72                         14
+ UP bnd       y_a_73                          6
+ UP bnd       y_a_74                         15
+ UP bnd       y_a_75                         35
+ UP bnd       y_a_76                         45
+ UP bnd       y_a_77                         39
+ UP bnd       y_a_78                         47
+ UP bnd       y_a_169                  50000000
+ UP bnd       y_a_79                         31
+ UP bnd       y_a_80                          4
+ UP bnd       y_a_81                         43
+ UP bnd       y_a_82                         24
+ UP bnd       y_a_83                         13
+ UP bnd       y_a_84                          6
+ BV bnd       y_a_85  
+ UP bnd       y_a_86                         19
+ UP bnd       y_a_87                         28
+ UP bnd       y_a_88                         38
+ UP bnd       y_a_89                         14
+ UP bnd       y_a_90                         26
+ UP bnd       y_a_91                         31
+ UP bnd       y_a_92                         44
+ UP bnd       y_a_93                         14
+ UP bnd       y_a_94                          4
+ UP bnd       y_a_95                          3
+ UP bnd       y_a_96                          3
+ UP bnd       y_a_97                         48
+ BV bnd       y_a_98  
+ UP bnd       y_a_99                         25
+ UP bnd       y_a_100                        37
+ UP bnd       y_a_101                        11
+ UP bnd       y_a_102                        27
+ UP bnd       y_a_103                        48
+ UP bnd       y_a_104                        25
+ UP bnd       y_a_105                        48
+ UP bnd       y_a_106                        44
+ UP bnd       y_a_107                         3
+ UP bnd       y_a_108                        19
+ UP bnd       y_a_109                         3
+ UP bnd       y_a_110                        26
+ UP bnd       y_a_111                        29
+ UP bnd       y_a_112                        43
+ UP bnd       y_a_113                        25
+ UP bnd       y_a_172                  50000000
+ UP bnd       y_a_114                        38
+ UP bnd       y_a_115                        12
+ UP bnd       y_a_116                         3
+ UP bnd       y_a_117                        47
+ UP bnd       y_a_118                         8
+ UP bnd       y_a_119                        21
+ UP bnd       y_a_120                        12
+ UP bnd       y_a_121                         3
+ UP bnd       y_a_122                        38
+ UP bnd       y_a_123                         8
+ UP bnd       y_a_124                         4
+ UP bnd       y_a_125                        48
+ UP bnd       y_a_126                        41
+ UP bnd       y_a_127                        32
+ UP bnd       y_a_128                        16
+ UP bnd       y_a_129                        11
+ UP bnd       y_a_130                        49
+ UP bnd       y_a_131                        10
+ UP bnd       y_a_132                        40
+ UP bnd       y_a_133                        24
+ UP bnd       y_a_134                        34
+ UP bnd       y_a_135                        37
+ BV bnd       y_a_136 
+ UP bnd       y_a_137                         5
+ UP bnd       y_a_138                        46
+ UP bnd       y_a_139                        23
+ UP bnd       y_a_140                        33
+ UP bnd       y_a_141                        27
+ UP bnd       y_a_142                        37
+ UP bnd       y_a_175                  50000000
+ UP bnd       y_a_143                        22
+ UP bnd       y_a_144                        31
+ UP bnd       y_a_145                        36
+ UP bnd       y_a_146                        12
+ UP bnd       y_a_147                        19
+ UP bnd       y_a_148                         4
+ UP bnd       y_a_149                        18
+ UP bnd       y_a_150                        47
+ UP bnd       y_a_173                  50000000
+ UP bnd       y_a_151                        42
+ UP bnd       y_a_152                        20
+ UP bnd       y_a_153                        45
+ BV bnd       y_a_154 
+ UP bnd       y_a_170                  50000000
+ UP bnd       y_a_155                        28
+ UP bnd       y_a_174                  50000000
+ UP bnd       y_a_156                        12
+ UP bnd       y_a_167                  50000000
+ UP bnd       y_a_177                     10000
  BV bnd       x_a_0   
  BV bnd       x_a_1   
  BV bnd       x_a_2   

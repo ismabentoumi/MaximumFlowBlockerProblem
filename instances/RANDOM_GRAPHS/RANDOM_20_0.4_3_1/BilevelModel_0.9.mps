@@ -68,6 +68,7 @@ ROWS
  L  c64     
  L  c65     
 COLUMNS
+    MARK0000  'MARKER'                 'INTORG'
     y_a_35    c1                              1
     y_a_35    c19                            -1
     y_a_35    c20                             1
@@ -204,7 +205,6 @@ COLUMNS
     y_a_43    c20                            -1
     y_a_43    c21                             1
     y_a_43    c65                             1
-    MARK0000  'MARKER'                 'INTORG'
     x_a_0     obj1                            1
     x_a_0     c22                             6
     x_a_1     obj1                            1
@@ -341,6 +341,50 @@ RHS
     rhs       c64                            10
     rhs       c65                         10000
 BOUNDS
+ UP bnd       y_a_35                         10
+ UP bnd       y_a_36                         10
+ UP bnd       y_a_37                         10
+ UP bnd       y_a_38                         10
+ UP bnd       y_a_0                           6
+ UP bnd       y_a_1                          11
+ UP bnd       y_a_2                          22
+ UP bnd       y_a_3                          47
+ UP bnd       y_a_4                          40
+ UP bnd       y_a_5                          35
+ UP bnd       y_a_6                          39
+ UP bnd       y_a_7                          45
+ UP bnd       y_a_8                           2
+ UP bnd       y_a_9                          38
+ UP bnd       y_a_10                         42
+ UP bnd       y_a_11                         42
+ UP bnd       y_a_12                          9
+ UP bnd       y_a_13                         38
+ UP bnd       y_a_14                         27
+ UP bnd       y_a_15                          4
+ UP bnd       y_a_16                         29
+ UP bnd       y_a_17                          5
+ UP bnd       y_a_18                         21
+ UP bnd       y_a_19                         46
+ UP bnd       y_a_20                         46
+ UP bnd       y_a_21                         43
+ UP bnd       y_a_22                         47
+ UP bnd       y_a_23                         20
+ UP bnd       y_a_42                         10
+ UP bnd       y_a_24                          6
+ UP bnd       y_a_25                          6
+ UP bnd       y_a_26                         15
+ UP bnd       y_a_27                         46
+ UP bnd       y_a_28                         47
+ UP bnd       y_a_29                         14
+ UP bnd       y_a_41                         10
+ UP bnd       y_a_30                         32
+ UP bnd       y_a_31                         37
+ UP bnd       y_a_32                         25
+ BV bnd       y_a_33  
+ UP bnd       y_a_34                         25
+ UP bnd       y_a_39                         10
+ UP bnd       y_a_40                         10
+ UP bnd       y_a_43                      10000
  BV bnd       x_a_0   
  BV bnd       x_a_1   
  BV bnd       x_a_2   
